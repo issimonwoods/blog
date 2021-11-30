@@ -1,11 +1,119 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Simon Woods",
-	"icon": "https://micro.blog/simonwoods/avatar.jpg",
+	"icon": "https://micro.blog/issimonwoods/avatar.jpg",
 	"home_page_url": "https://simonwoods.online/",
 	"feed_url": "https://simonwoods.online/feed.json",
 	"items": [
 		
+			{
+				"id": "http://simonmumbles.micro.blog/2021/11/30/do-not-build.html",
+				
+				"content_html": "<blockquote>\n<p>Do not build new companies because you will not be able to sell them</p>\n</blockquote>\n\n<p>&ndash; Meta&rsquo;s lawyers, arguing against <a href=\"https://www.bbc.co.uk/news/technology-59460644\">a ruling by the CMA</a></p>\n\n<p>Apparently the only reason to build your own company these days is so that you can eventually sell it to a monopolistic megacorp.</p>\n",
+				"content_text": "> Do not build new companies because you will not be able to sell them\r\n\r\n-- Meta's lawyers, arguing against [a ruling by the CMA](https://www.bbc.co.uk/news/technology-59460644)\r\n\r\nApparently the only reason to build your own company these days is so that you can eventually sell it to a monopolistic megacorp.\n",
+				"date_published": "2021-11-30T14:09:19+00:00",
+				"url": "https://simonwoods.online/2021/11/30/do-not-build.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2021/11/30/now-it-feels.html",
+				
+				"content_html": "<p><img src=\"uploads/2021/0a06ea9bf8.jpg\" width=\"600\" height=\"800\" alt=\"\" /></p>\n\n<p><em>Now</em> it feels like we&rsquo;ve moved in.</p>\n\n<p><img src=\"uploads/2021/104b4b5b5f.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n\n<p>&hellip; although not everybody is as impressed.</p>\n",
+				"content_text": "<img src=\"uploads/2021/0a06ea9bf8.jpg\" width=\"600\" height=\"800\" alt=\"\" />\r\n\r\n_Now_ it feels like we've moved in.\r\n\r\n<img src=\"uploads/2021/104b4b5b5f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\r\n\r\n... although not everybody is as impressed.\n",
+				"date_published": "2021-11-30T13:46:05+00:00",
+				"url": "https://simonwoods.online/2021/11/30/now-it-feels.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2021/11/27/people-need-to.html",
+				
+				"content_html": "<p>People need to stop pretending like they&rsquo;re suprised that a nuanced idea they attempted to convey on Twitter got twisted in the interpretation.</p>\n\n<p>Twitter has worked this way since day 1 and that is correct per design. You&rsquo;re not allowed to cry foul when the obvious happens.</p>\n",
+				"content_text": "People need to stop pretending like they're suprised that a nuanced idea they attempted to convey on Twitter got twisted in the interpretation.\r\n\r\nTwitter has worked this way since day 1 and that is correct per design. You're not allowed to cry foul when the obvious happens.\n",
+				"date_published": "2021-11-27T22:31:12+00:00",
+				"url": "https://simonwoods.online/2021/11/27/people-need-to.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2021/11/27/concatenation-is-a.html",
+				
+				"content_html": "<p>Concatenation is a fun word.</p>\n",
+				"content_text": "Concatenation is a fun word.\n",
+				"date_published": "2021-11-27T21:01:23+00:00",
+				"url": "https://simonwoods.online/2021/11/27/concatenation-is-a.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2021/11/27/seeing-the-panic.html",
+				
+				"content_html": "<p>Seeing the panic about the PS5 as a 36-year-old who still remembers playing the first PlayStation really helps me keep things in perspective. This machine will be ridiculously good <em>in two years time</em>, let alone before then.</p>\n\n<p>Seriously. It can wait. It is not worth the stress.</p>\n",
+				"content_text": "Seeing the panic about the PS5 as a 36-year-old who still remembers playing the first PlayStation really helps me keep things in perspective. This machine will be ridiculously good _in two years time_, let alone before then.\r\n\r\nSeriously. It can wait. It is not worth the stress.\n",
+				"date_published": "2021-11-27T19:59:57+00:00",
+				"url": "https://simonwoods.online/2021/11/27/seeing-the-panic.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2021/11/27/every-now-and.html",
+				
+				"content_html": "<p>Every now and then I&rsquo;ll come across a blog post by DHH, and more often than not he sounds like an angry teenage boy who just discovered message boards.</p>\n",
+				"content_text": "Every now and then I'll come across a blog post by DHH, and more often than not he sounds like an angry teenage boy who just discovered message boards.\n",
+				"date_published": "2021-11-27T19:55:20+00:00",
+				"url": "https://simonwoods.online/2021/11/27/every-now-and.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2021/11/27/fully-working-on.html",
+				
+				"content_html": "<p>Fully working on posts and updates for <a href=\"https://micro.blog/TIL\">@TIL</a> again. Publishing will resume on Monday.</p>\n",
+				"content_text": "Fully working on posts and updates for [@TIL](https://micro.blog/TIL) again. Publishing will resume on Monday.\n",
+				"date_published": "2021-11-27T15:02:49+00:00",
+				"url": "https://simonwoods.online/2021/11/27/fully-working-on.html",
+				"tags": ["Today I Learned","links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2021/11/26/pcr-results-for.html",
+				
+				"content_html": "<p>PCR results for my wife and I: <strong>negative</strong></p>\n\n<p>Either we had it and are now in recovery or this is in fact the most horrible cough/flu either of us have ever had. I don&rsquo;t think it&rsquo;s a coincidence that it happened this year.</p>\n\n<p>So still: fuck this god-damn virus.</p>\n",
+				"content_text": "PCR results for my wife and I: __negative__ \r\n\r\nEither we had it and are now in recovery or this is in fact the most horrible cough/flu either of us have ever had. I don't think it's a coincidence that it happened this year.\r\n\r\nSo still: fuck this god-damn virus.\n",
+				"date_published": "2021-11-26T17:09:41+00:00",
+				"url": "https://simonwoods.online/2021/11/26/pcr-results-for.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2021/11/26/migration-to-basecamp.html",
+				
+				"content_html": "<ul>\n<li>migration to Basecamp ✔️</li>\n<li>back-up MindNode ✔️</li>\n</ul>\n\n<p>Now set to go with Workflowy so that I can do my outline-based note taking on the computer.</p>\n\n<p>Need to finish setting up my calendar switch from Fantastical to calendar.app and the core of the TIL workstation is back up and running.</p>\n",
+				"content_text": "- migration to Basecamp ✔️\r\n- back-up MindNode ✔️\r\n\r\nNow set to go with Workflowy so that I can do my outline-based note taking on the computer.\r\n\r\nNeed to finish setting up my calendar switch from Fantastical to calendar.app and the core of the TIL workstation is back up and running.\n",
+				"date_published": "2021-11-26T00:26:06+00:00",
+				"url": "https://simonwoods.online/2021/11/26/migration-to-basecamp.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2021/11/24/took-and-sent.html",
+				
+				"content_html": "<p>Took and sent off our PCR tests earlier today. If it&rsquo;s not COVID, it&rsquo;s been a fucking awful flu, worst we&rsquo;ve ever had.</p>\n\n<p>Fuck this god-damn virus.</p>\n",
+				"content_text": "Took and sent off our PCR tests earlier today. If it's not COVID, it's been a fucking awful flu, worst we've ever had.\r\n\r\nFuck this god-damn virus.\n",
+				"date_published": "2021-11-24T21:45:01+00:00",
+				"url": "https://simonwoods.online/2021/11/24/took-and-sent.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2021/11/24/hi-fam-this.html",
+				
+				"content_html": "<p>HI FAM,</p>\n\n<p>THIS IS OUR NEW CALENDAR APP FOR SUPER PROS AND TEAMS.</p>\n\n<p>ARE YOU ON GOOGLE AND APPLE OK COOL.</p>\n\n<p>- OTHERWISE FUCK OFF.</p>\n\n<p>LIKE AND SUBSCRIBE ON PH 😎</p>\n",
+				"content_text": "HI FAM,\r\n\r\nTHIS IS OUR NEW CALENDAR APP FOR SUPER PROS AND TEAMS.\r\n\r\nARE YOU ON GOOGLE AND APPLE OK COOL.\r\n\r\n\\- OTHERWISE FUCK OFF.\r\n\r\nLIKE AND SUBSCRIBE ON PH 😎\n",
+				"date_published": "2021-11-24T01:14:06+00:00",
+				"url": "https://simonwoods.online/2021/11/24/hi-fam-this.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2021/11/23/seeing-the-latest.html",
+				
+				"content_html": "<p>Seeing the latest mess concerning TV rights, via Star Trek, has reminded me of why it is that I spend increasing amounts of energy dwelling on the notion of cutting traditional TV from my attention entirely.</p>\n\n<p>I&rsquo;m busy as it is and the alternatives are often free of these concerns.</p>\n",
+				"content_text": "Seeing the latest mess concerning TV rights, via Star Trek, has reminded me of why it is that I spend increasing amounts of energy dwelling on the notion of cutting traditional TV from my attention entirely.\r\n\r\nI'm busy as it is and the alternatives are often free of these concerns.\n",
+				"date_published": "2021-11-23T23:53:23+00:00",
+				"url": "https://simonwoods.online/2021/11/23/seeing-the-latest.html",
+				"tags": ["short"]
+			},
 			{
 				"id": "http://simonmumbles.micro.blog/2021/11/21/one-of-the.html",
 				
