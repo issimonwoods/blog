@@ -7,6 +7,204 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2021/12/08/im-going-to.html",
+				
+				"content_html": "<p>I&rsquo;m going to write fiction again.</p>\n",
+				"content_text": "I'm going to write fiction again.\n",
+				"date_published": "2021-12-08T01:01:58+00:00",
+				"url": "https://simonwoods.online/2021/12/08/im-going-to.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2021/12/07/i-am-back.html",
+				
+				"content_html": "<p>I am back on the train of thought regarding &ldquo;feature phones&rdquo;. I find the idea of separating my communication from a fully computerised device increasingly compelling.</p>\n",
+				"content_text": "I am back on the train of thought regarding \"feature phones\". I find the idea of separating my communication from a fully computerised device increasingly compelling.\n",
+				"date_published": "2021-12-07T17:22:39+00:00",
+				"url": "https://simonwoods.online/2021/12/07/i-am-back.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2021/12/07/i-like-people.html",
+				
+				"content_html": "<p>I like people who put in the hard work of focus.</p>\n\n<p>It is oh so easy to throw a thousand things a day out onto the internet with little thought. But truly good things, the types of things that are worth saying and sharing? Those require the hard work of focus.</p>\n",
+				"content_text": "I like people who put in the hard work of focus.\r\n\r\nIt is oh so easy to throw a thousand things a day out onto the internet with little thought. But truly good things, the types of things that are worth saying and sharing? Those require the hard work of focus.\n",
+				"date_published": "2021-12-07T17:20:18+00:00",
+				"url": "https://simonwoods.online/2021/12/07/i-like-people.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2021/12/07/today-my-account.html",
+				
+				"content_html": "<p>Today my account logs are full of notification errors.</p>\n",
+				"content_text": "Today my account logs are full of notification errors.\n",
+				"date_published": "2021-12-07T16:46:44+00:00",
+				"url": "https://simonwoods.online/2021/12/07/today-my-account.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2021/12/07/maybe-there-should.html",
+				
+				"content_html": "<p>Maybe there should be a ranting podcast for the Micro.blog community&hellip; we all get a chance to swear into a microphone for like 15 minutes.</p>\n",
+				"content_text": "Maybe there should be a ranting podcast for the Micro.blog community... we all get a chance to swear into a microphone for like 15 minutes.\n",
+				"date_published": "2021-12-07T15:00:25+00:00",
+				"url": "https://simonwoods.online/2021/12/07/maybe-there-should.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2021/12/07/the-new-microblog.html",
+				
+				"content_html": "<p>The new Micro.blog feature is now public on <a href=\"https://micro.blog/TIL\">@TIL</a>:</p>\n\n<p><a href=\"https://til.micro.blog/2021/12/07/reintroducing-icymi-the.html\">ICYMI is back</a>!</p>\n\n<p>Enjoyed putting this together in a short space of time. Was made so much easier by the fact that I had existing material from the previous version of the newsletter.</p>\n",
+				"content_text": "The new Micro.blog feature is now public on [@TIL](https://micro.blog/TIL):\r\n\r\n[ICYMI is back](https://til.micro.blog/2021/12/07/reintroducing-icymi-the.html)!\r\n\r\nEnjoyed putting this together in a short space of time. Was made so much easier by the fact that I had existing material from the previous version of the newsletter.\n",
+				"date_published": "2021-12-07T14:26:08+00:00",
+				"url": "https://simonwoods.online/2021/12/07/the-new-microblog.html",
+				"tags": ["Today I Learned","links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2021/12/07/early-morning-incubus.html",
+				
+				"content_html": "<p>Early morning Incubus, coffee, and lots of clickety clacking 😌</p>\n",
+				"content_text": "Early morning Incubus, coffee, and lots of clickety clacking 😌\n",
+				"date_published": "2021-12-07T06:24:19+00:00",
+				"url": "https://simonwoods.online/2021/12/07/early-morning-incubus.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2021/12/07/scheduled-posts-for.html",
+				
+				"content_html": "<p>Scheduled posts for <a href=\"https://micro.blog/TIL\">@TIL</a> for the first time 😎</p>\n",
+				"content_text": "Scheduled posts for [@TIL](https://micro.blog/TIL) for the first time 😎\n",
+				"date_published": "2021-12-07T05:50:46+00:00",
+				"url": "https://simonwoods.online/2021/12/07/scheduled-posts-for.html",
+				"tags": ["Today I Learned","links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2021/12/07/the-new-email.html",
+				
+				"content_html": "<p>The new email subscription feature for Micro.blog is very good.</p>\n",
+				"content_text": "The new email subscription feature for Micro.blog is very good.\n",
+				"date_published": "2021-12-07T01:52:44+00:00",
+				"url": "https://simonwoods.online/2021/12/07/the-new-email.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2021/12/06/ill-make-email.html",
+				
+				"content_html": "<p>I&rsquo;ll make email subscriptions available for <a href=\"https://micro.blog/TIL\">@TIL</a> as soon as I can. That&rsquo;ll be the replacement for ICYMI, the weekly edition of the Post Haste newsletter <a href=\"https://simonwoods.online/2021/11/15/til-retiring-features.html\">that I retired last month</a>. Much simpler for it to be built-in <em>and</em> there are still options for customisation. 👍</p>\n",
+				"content_text": "I'll make email subscriptions available for [@TIL](https://micro.blog/TIL) as soon as I can. That'll be the replacement for ICYMI, the weekly edition of the Post Haste newsletter [that I retired last month](https://simonwoods.online/2021/11/15/til-retiring-features.html). Much simpler for it to be built-in _and_ there are still options for customisation. 👍\n",
+				"date_published": "2021-12-06T23:21:12+00:00",
+				"url": "https://simonwoods.online/2021/12/06/ill-make-email.html",
+				"tags": ["Today I Learned","links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2021/12/06/the-new-microblog.html",
+				
+				"content_html": "<p>The new Micro.blog feature looks <em>awesome</em>.</p>\n",
+				"content_text": "The new Micro.blog feature looks _awesome_.\n",
+				"date_published": "2021-12-06T18:38:26+00:00",
+				"url": "https://simonwoods.online/2021/12/06/the-new-microblog.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2021/12/06/chocolatechip-cookies-are.html",
+				
+				"content_html": "<blockquote>\n<p>Chocolate-chip cookies are the favored kind of cookie. Raisin cookies are for people who secretly hate themselves. A real cookie shouldn’t have fruit in it. A real cookie is bad for you. It is like a delicious nail driven directly into your heart.</p>\n</blockquote>\n\n<p>&ndash; <a href=\"https://blog.patrickrothfuss.com/2011/02/faq-the-wise-mans-fear-signing-tour/\">Patrick Rothfuss</a></p>\n",
+				"content_text": "> Chocolate-chip cookies are the favored kind of cookie. Raisin cookies are for people who secretly hate themselves. A real cookie shouldn’t have fruit in it. A real cookie is bad for you. It is like a delicious nail driven directly into your heart.\r\n\r\n-- [Patrick Rothfuss](https://blog.patrickrothfuss.com/2011/02/faq-the-wise-mans-fear-signing-tour/)\n",
+				"date_published": "2021-12-06T15:26:22+00:00",
+				"url": "https://simonwoods.online/2021/12/06/chocolatechip-cookies-are.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2021/12/06/i-look-forward.html",
+				
+				"content_html": "<p>I look forward to the day that Micro.blog plug-ins and themes are less of a black box of mystery. Good, easy-to-access documentation would further enable the <em>ownership</em> aspect of the Micro.blog philosophy. More people could make their own little world on their blog, like before.</p>\n",
+				"content_text": "I look forward to the day that Micro.blog plug-ins and themes are less of a black box of mystery. Good, easy-to-access documentation would further enable the _ownership_ aspect of the Micro.blog philosophy. More people could make their own little world on their blog, like before.\n",
+				"date_published": "2021-12-06T14:48:49+00:00",
+				"url": "https://simonwoods.online/2021/12/06/i-look-forward.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2021/12/06/get-flu-jab.html",
+				
+				"content_html": "<ul>\n<li>get flu jab ✔️</li>\n</ul>\n",
+				"content_text": "- get flu jab ✔️\n",
+				"date_published": "2021-12-06T14:31:56+00:00",
+				"url": "https://simonwoods.online/2021/12/06/get-flu-jab.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2021/12/06/i-am-so.html",
+				
+				"content_html": "<p>I am so happy that I was 17 years-old when <a href=\"https://en.wikipedia.org/wiki/Audioslave_(album)\">Audioslave</a> was released.</p>\n",
+				"content_text": "I am so happy that I was 17 years-old when [Audioslave](https://en.wikipedia.org/wiki/Audioslave_(album)) was released.\n",
+				"date_published": "2021-12-06T01:46:07+00:00",
+				"url": "https://simonwoods.online/2021/12/06/i-am-so.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2021/12/05/the-sound-of.html",
+				
+				"content_html": "<p>The <a href=\"https://www.twitch.tv/patrickrothfuss\">sound of Patrick Rothfuss typing away on his Model M keyboard</a> soothes me, like a reset for concentration.</p>\n",
+				"content_text": "The [sound of Patrick Rothfuss typing away on his Model M keyboard](https://www.twitch.tv/patrickrothfuss) soothes me, like a reset for concentration.\n",
+				"date_published": "2021-12-05T22:10:24+00:00",
+				"url": "https://simonwoods.online/2021/12/05/the-sound-of.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2021/12/04/get-covid-booster.html",
+				
+				"content_html": "<ul>\n<li>get COVID booster ✔️</li>\n</ul>\n",
+				"content_text": "- get COVID booster ✔️\n",
+				"date_published": "2021-12-04T17:44:57+00:00",
+				"url": "https://simonwoods.online/2021/12/04/get-covid-booster.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2021/12/02/anybody-else-having.html",
+				
+				"content_html": "<p>Anybody else having issues with <em>undo</em> in the Micro.blog editor? (on a Mac -&gt; browser)</p>\n",
+				"content_text": "Anybody else having issues with _undo_ in the Micro.blog editor? (on a Mac -> browser)\n",
+				"date_published": "2021-12-02T20:22:14+00:00",
+				"url": "https://simonwoods.online/2021/12/02/anybody-else-having.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2021/12/02/imagine-a-microblog.html",
+				
+				"content_html": "<p>Imagine a Micro.blog flavour of Webmentions, that was rock-solid and worked especially well with Micro.blog. Like how Safari is different from WebKit.</p>\n\n<p>Now <em>that</em> could be an attractive alternative to the network effect of Meta.</p>\n",
+				"content_text": "Imagine a Micro.blog flavour of Webmentions, that was rock-solid and worked especially well with Micro.blog. Like how Safari is different from WebKit.\r\n\r\nNow _that_ could be an attractive alternative to the network effect of Meta.\n",
+				"date_published": "2021-12-02T20:18:12+00:00",
+				"url": "https://simonwoods.online/2021/12/02/imagine-a-microblog.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2021/12/02/listening-to-atp.html",
+				
+				"content_html": "<p>Listening to ATP and Marco is harping on this point again, which is also shared with other tech podcasters:</p>\n\n<p>Older device looks <strong>old</strong> (as in, badly).</p>\n\n<p>I don&rsquo;t like this mentality. It stinks of wealthy people sneering at those who aren&rsquo;t interested in breathlessly spending money.</p>\n",
+				"content_text": "Listening to ATP and Marco is harping on this point again, which is also shared with other tech podcasters: \r\n\r\nOlder device looks __old__ (as in, badly).\r\n\r\nI don't like this mentality. It stinks of wealthy people sneering at those who aren't interested in breathlessly spending money.\n",
+				"date_published": "2021-12-02T18:17:27+00:00",
+				"url": "https://simonwoods.online/2021/12/02/listening-to-atp.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2021/12/01/have-something-more.html",
+				
+				"content_html": "<p>Have something more than a vague opinion.</p>\n\n<p>Speaking in general terms and avoiding specifics means you&rsquo;re <em>pretending</em> to say something. What a waste of free speech.</p>\n",
+				"content_text": "Have something more than a vague opinion.\r\n\r\nSpeaking in general terms and avoiding specifics means you're _pretending_ to say something. What a waste of free speech.\n",
+				"date_published": "2021-12-01T14:03:47+00:00",
+				"url": "https://simonwoods.online/2021/12/01/have-something-more.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2021/11/30/simonwoodsonline.html",
+				
+				"content_html": "<p>🔄 <a href=\"https://simonwoods.online/\">simonwoods.online</a></p>\n",
+				"content_text": "🔄 [simonwoods.online](https://simonwoods.online/)\n",
+				"date_published": "2021-11-30T23:54:20+00:00",
+				"url": "https://simonwoods.online/2021/11/30/simonwoodsonline.html",
+				"tags": ["links","short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2021/11/30/do-not-build.html",
 				
 				"content_html": "<blockquote>\n<p>Do not build new companies because you will not be able to sell them</p>\n</blockquote>\n\n<p>&ndash; Meta&rsquo;s lawyers, arguing against <a href=\"https://www.bbc.co.uk/news/technology-59460644\">a ruling by the CMA</a></p>\n\n<p>Apparently the only reason to build your own company these days is so that you can eventually sell it to a monopolistic megacorp.</p>\n",
@@ -18,8 +216,8 @@
 			{
 				"id": "http://simonmumbles.micro.blog/2021/11/30/now-it-feels.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/0a06ea9bf8.jpg\" width=\"600\" height=\"800\" alt=\"\" /></p>\n\n<p><em>Now</em> it feels like we&rsquo;ve moved in.</p>\n\n<p><img src=\"uploads/2021/104b4b5b5f.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n\n<p>&hellip; although not everybody is as impressed.</p>\n",
-				"content_text": "<img src=\"uploads/2021/0a06ea9bf8.jpg\" width=\"600\" height=\"800\" alt=\"\" />\r\n\r\n_Now_ it feels like we've moved in.\r\n\r\n<img src=\"uploads/2021/104b4b5b5f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\r\n\r\n... although not everybody is as impressed.\n",
+				"content_html": "<p><img src=\"https://simonwoods.online/uploads/2021/0a06ea9bf8.jpg\" width=\"600\" height=\"800\" alt=\"\" /></p>\n\n<p><em>Now</em> it feels like we&rsquo;ve moved in.</p>\n\n<p><img src=\"https://simonwoods.online/uploads/2021/104b4b5b5f.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n\n<p>&hellip; although not everybody is as impressed.</p>\n",
+				"content_text": "<img src=\"https://simonwoods.online/uploads/2021/0a06ea9bf8.jpg\" width=\"600\" height=\"800\" alt=\"\" />\r\n\r\n_Now_ it feels like we've moved in.\r\n\r\n<img src=\"https://simonwoods.online/uploads/2021/104b4b5b5f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\r\n\r\n... although not everybody is as impressed.\n",
 				"date_published": "2021-11-30T13:46:05+00:00",
 				"url": "https://simonwoods.online/2021/11/30/now-it-feels.html",
 				"tags": ["short"]
