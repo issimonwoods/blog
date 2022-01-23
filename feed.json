@@ -7,6 +7,78 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2022/01/22/ah-i-see.html",
+				
+				"content_html": "<p>Ah I see Twitter Blue just lost yet another mark against Micro.blog.</p>\n\n<p>The blissful lack of adverts has now been joined by the blissful lack of NFTs and the swill that accompanies it.</p>\n",
+				"content_text": "Ah I see Twitter Blue just lost yet another mark against Micro.blog.\n\nThe blissful lack of adverts has now been joined by the blissful lack of NFTs and the swill that accompanies it.\n",
+				"date_published": "2022-01-22T13:57:27+00:00",
+				"url": "https://simonwoods.online/2022/01/22/ah-i-see.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/01/20/time-to-give.html",
+				
+				"content_html": "<p>Time to give iCloud passwords a proper test-run.</p>\n\n<p>Huh&hellip; export is not available for me in the 1Password app. 🧐</p>\n\n<p>Edit: turns out you have to select a specific vault first.</p>\n",
+				"content_text": "Time to give iCloud passwords a proper test-run.\n\nHuh... export is not available for me in the 1Password app. 🧐\n\nEdit: turns out you have to select a specific vault first.\n",
+				"date_published": "2022-01-20T08:13:39+00:00",
+				"url": "https://simonwoods.online/2022/01/20/time-to-give.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/01/19/trying-to-use.html",
+				
+				"content_html": "<p>Trying to use Apple Reminders in the same way I would Due and&hellip; yikes.</p>\n\n<p>With the likes of Due and Fantastical I&rsquo;ve come to expect a certain standard of natural language input. Neither Reminders nor Calendar from Apple can reach that standard.</p>\n\n<p>Also makes me doubt Notes.</p>\n",
+				"content_text": "Trying to use Apple Reminders in the same way I would Due and... yikes.\n\nWith the likes of Due and Fantastical I've come to expect a certain standard of natural language input. Neither Reminders nor Calendar from Apple can reach that standard.\n\nAlso makes me doubt Notes.\n",
+				"date_published": "2022-01-19T12:06:57+00:00",
+				"url": "https://simonwoods.online/2022/01/19/trying-to-use.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/01/18/weve-barely-been.html",
+				
+				"content_html": "<p>We&rsquo;ve barely been living here, on the edge of the country, and already I find myself more and more drawn towards antipathy at the technological world; at the thought of constantly using a hand terminal; at the idea that these computers are automatically better than not.</p>\n",
+				"content_text": "We've barely been living here, on the edge of the country, and already I find myself more and more drawn towards antipathy at the technological world; at the thought of constantly using a hand terminal; at the idea that these computers are automatically better than not.\n",
+				"date_published": "2022-01-18T00:42:05+00:00",
+				"url": "https://simonwoods.online/2022/01/18/weve-barely-been.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/01/17/the-way-you.html",
+				
+				"content_html": "<p>The inability to remove Apple Music from the Music app is bad enough.</p>\n\n<p>That you can&rsquo;t do it when you&rsquo;re not subscribed, and instead it turns entire sections of the app into nothing more than a <em>billboard</em> is gross.</p>\n\n<p>What happened to &ldquo;We can&rsquo;t ship junk.&rdquo;?</p>\n",
+				"content_text": "The inability to remove Apple Music from the Music app is bad enough.\n\nThat you can't do it when you're not subscribed, and instead it turns entire sections of the app into nothing more than a _billboard_ is gross.\n\nWhat happened to \"We can't ship junk.\"?\n",
+				"date_published": "2022-01-17T21:54:00+00:00",
+				"url": "https://simonwoods.online/2022/01/17/the-way-you.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/01/17/published-another-batch.html",
+				
+				"content_html": "<p>Published <a href=\"https://today-i-learned.net/2022/01/17/til-post-type.html\">another batch of updates</a> for TIL earlier on, including a new post type and filter.</p>\n\n<p>The most fun was redesigning the posts footer, including category buttons:</p>\n\n<p><img src=\"https://simonwoods.online/uploads/2022/4c5da1909e.png\" width=\"600\" height=\"75\" alt=\"Screenshot of the new posts footer for Today I Learned; including the post date, permalink, and category button.\" /></p>\n\n<p>Thanks to <a href=\"https://micro.blog/amit\">@amit</a> for <a href=\"https://github.com/am1t/musings/blob/6be978ecda12f3b016684f1e5c9579d7d7cb2742/layouts/post/single.html#L14\">his code</a> and to <a href=\"https://micro.blog/frostedechoes\">@frostedechoes</a> for <a href=\"https://help.micro.blog/t/categories-tags-in-post/761/18\">sharing said code</a>!</p>\n",
+				"content_text": "Published [another batch of updates](https://today-i-learned.net/2022/01/17/til-post-type.html) for TIL earlier on, including a new post type and filter.\n\nThe most fun was redesigning the posts footer, including category buttons:\n\n<img src=\"https://simonwoods.online/uploads/2022/4c5da1909e.png\" width=\"600\" height=\"75\" alt=\"Screenshot of the new posts footer for Today I Learned; including the post date, permalink, and category button.\" />\n\nThanks to [@amit](https://micro.blog/amit) for [his code](https://github.com/am1t/musings/blob/6be978ecda12f3b016684f1e5c9579d7d7cb2742/layouts/post/single.html#L14) and to [@frostedechoes](https://micro.blog/frostedechoes) for [sharing said code](https://help.micro.blog/t/categories-tags-in-post/761/18)!\n",
+				"date_published": "2022-01-17T21:21:08+00:00",
+				"url": "https://simonwoods.online/2022/01/17/published-another-batch.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/01/17/microblog-expectations-and.html",
+				"title": "Micro.blog, expectations, and communication",
+				"content_html": "<blockquote>\n<p>Clearly need to communicate this better.</p>\n</blockquote>\n\n<p>&ndash; <a href=\"https://www.manton.org/2022/01/17/every-once-in.html\">Manton Reece</a></p>\n\n<p>Some rambling thoughts:</p>\n\n<ul>\n<li>The homepage has;\n\n<ul>\n<li>the Discover timeline prominently placed with posts from <em>15 months ago</em>;</li>\n<li>a link to Brent Simmons from <em>four years ago</em>;</li>\n<li>the Micro.blog team featured at the bottom with no links to anything.</li>\n<li>Nothing at all about recent updates, like some sort of news alert message or&hellip; anything really.</li>\n</ul></li>\n<li>Maybe redirect my old Updates blog to News, or wherever you will show updates? Or just replace that blog with a new update-based blog? The last posts on there might leave a bad impression with regard to activity.</li>\n<li>Activity on the News blog is good at times, but at times sporadic and still seems to be basically another of your blogs, Manton. I think people often expect &ldquo;a company voice&rdquo;; it&rsquo;s familiar and an indicator that this isn&rsquo;t just an indie side-project.\n\n<ul>\n<li>I thought there was some promise in the official news releases for the big 2.0 updates.</li>\n</ul></li>\n<li>Even with News considered, there are also other blogs and the Help forums and different things at different times. It&rsquo;s all quite disparate, which is great for the indie ethos but not good for clear and consistent and reliable communication.</li>\n<li>If there was one main blog for the team with each post authored &ndash; using the Teams feature obviously &ndash; that could help.</li>\n<li>Although there is still the issue of <em>what</em> is being said. Is it enough? Can you know without looking at all of the posts together; the dev posts, the community posts, the big-picture posts.</li>\n</ul>\n\n<p>&hellip; And this is mostly stuff that is insular to Micro.blog, the timelines, and whatnot. Beyond that there is the Twitter account, which is ok but again not what I think most people expect.</p>\n\n<p>I know decentralisation and going slow are both important to Micro.blog but there&rsquo;s a point at which you have to compromise and go where people are used to going; to offer a hand rather than stay in your spot and expect people to be as motivated as the heart of your community.</p>\n\n<p>I think about when <a href=\"http://blog.bellebcooper.com/leaving-microblog.html\">a few years ago</a> Belle Cooper said &ldquo;It feels to me like we&rsquo;re all at a party at Manton&rsquo;s house.&rdquo; and how I didn&rsquo;t consider that to be too much of a problem at the time, given that it was still the early stages in the development of Micro.blog. Now, however, I think it&rsquo;s correct to expect Micro.blog to have a clear representation of how the product is not just &ldquo;for Manton, by Manton&rdquo; but so much more.</p>\n",
+				"content_text": "> Clearly need to communicate this better.\n\n-- [Manton Reece](https://www.manton.org/2022/01/17/every-once-in.html)\n\nSome rambling thoughts:\n\n- The homepage has;\n\t- the Discover timeline prominently placed with posts from _15 months ago_;\n\t- a link to Brent Simmons from _four years ago_;\n\t- the Micro.blog team featured at the bottom with no links to anything.\n\t- Nothing at all about recent updates, like some sort of news alert message or... anything really.\n- Maybe redirect my old Updates blog to News, or wherever you will show updates? Or just replace that blog with a new update-based blog? The last posts on there might leave a bad impression with regard to activity.\n- Activity on the News blog is good at times, but at times sporadic and still seems to be basically another of your blogs, Manton. I think people often expect \"a company voice\"; it's familiar and an indicator that this isn't just an indie side-project.\n\t- I thought there was some promise in the official news releases for the big 2.0 updates.\n- Even with News considered, there are also other blogs and the Help forums and different things at different times. It's all quite disparate, which is great for the indie ethos but not good for clear and consistent and reliable communication.\n- If there was one main blog for the team with each post authored -- using the Teams feature obviously -- that could help.\n- Although there is still the issue of _what_ is being said. Is it enough? Can you know without looking at all of the posts together; the dev posts, the community posts, the big-picture posts.\n\n... And this is mostly stuff that is insular to Micro.blog, the timelines, and whatnot. Beyond that there is the Twitter account, which is ok but again not what I think most people expect. \n\nI know decentralisation and going slow are both important to Micro.blog but there's a point at which you have to compromise and go where people are used to going; to offer a hand rather than stay in your spot and expect people to be as motivated as the heart of your community.\n\nI think about when [a few years ago](http://blog.bellebcooper.com/leaving-microblog.html) Belle Cooper said \"It feels to me like we're all at a party at Manton's house.\" and how I didn't consider that to be too much of a problem at the time, given that it was still the early stages in the development of Micro.blog. Now, however, I think it's correct to expect Micro.blog to have a clear representation of how the product is not just \"for Manton, by Manton\" but so much more.\n",
+				"date_published": "2022-01-17T17:03:52+00:00",
+				"url": "https://simonwoods.online/2022/01/17/microblog-expectations-and.html",
+				"tags": ["long","links"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/01/17/last-week-i.html",
+				
+				"content_html": "<p>Last week I brought <a href=\"https://micro.blog/TIL\">@TIL</a> back after the holiday break, which means in 20 minutes the weekly catch-up email will be published.</p>\n\n<p>You can <a href=\"https://today-i-learned.net/icymi/\">read more about ICYMI on the site</a>, where you can also sign up.</p>\n",
+				"content_text": "Last week I brought [@TIL](https://micro.blog/TIL) back after the holiday break, which means in 20 minutes the weekly catch-up email will be published.\n\nYou can [read more about ICYMI on the site](https://today-i-learned.net/icymi/), where you can also sign up.\n",
+				"date_published": "2022-01-17T11:40:22+00:00",
+				"url": "https://simonwoods.online/2022/01/17/last-week-i.html",
+				"tags": ["Today I Learned","links","short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2022/01/14/the-blokes-an.html",
 				
 				"content_html": "<p><a href=\"https://twitter.com/OzraeliAvi/status/1480867876055572481\">The bloke&rsquo;s an arsehole</a></p>\n\n<p>😂</p>\n",
