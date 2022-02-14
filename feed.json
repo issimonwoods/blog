@@ -7,6 +7,114 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2022/02/11/ive-stopped-trying.html",
+				
+				"content_html": "<p>I&rsquo;ve stopped trying to customise the icons on my iPhone Home Screen. It&rsquo;s too awkward and feels fragile once you&rsquo;ve set something up (yes, including Shortcuts).</p>\n",
+				"content_text": "I've stopped trying to customise the icons on my iPhone Home Screen. It's too awkward and feels fragile once you've set something up (yes, including Shortcuts).\n",
+				"date_published": "2022-02-11T18:52:09+00:00",
+				"url": "https://simonwoods.online/2022/02/11/ive-stopped-trying.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/02/11/forced-labor-eh.html",
+				
+				"content_html": "<p>Forced labour eh, James Dyson.</p>\n",
+				"content_text": "Forced labour eh, James Dyson.\n",
+				"date_published": "2022-02-11T08:50:08+00:00",
+				"url": "https://simonwoods.online/2022/02/11/forced-labor-eh.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/02/09/when-i-see.html",
+				
+				"content_html": "<p>When I see comments from people who haven&rsquo;t realised that a photo they&rsquo;re looking at is years-old, and my first thought is &ldquo;well because this was clearly taken years ago, just look at it&rdquo;&hellip; that&rsquo;s when I realise I should invest much more energy into photography.</p>\n",
+				"content_text": "When I see comments from people who haven't realised that a photo they're looking at is years-old, and my first thought is \"well because this was clearly taken years ago, just look at it\"... that's when I realise I should invest much more energy into photography.\n",
+				"date_published": "2022-02-09T18:39:33+00:00",
+				"url": "https://simonwoods.online/2022/02/09/when-i-see.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/02/09/i-never-realised.html",
+				
+				"content_html": "<p>I never realised Write.as was doing so much&hellip; look at all that. It&rsquo;s so good to see blogging and social network alternatives being so fully developed.</p>\n<p>&hellip; wait, you can do private blogs and private commenting? Wow.</p>\n",
+				"content_text": "I never realised Write.as was doing so much... look at all that. It's so good to see blogging and social network alternatives being so fully developed.\n\n... wait, you can do private blogs and private commenting? Wow.\n",
+				"date_published": "2022-02-09T00:31:11+00:00",
+				"url": "https://simonwoods.online/2022/02/09/i-never-realised.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/02/08/the-other-lifelong.html",
+				
+				"content_html": "<p>The other life-long hobby that has recently come to a halt: football.</p>\n<p>From playing when I was younger, to full-on enthusiast bordering on pursuing a career (as a writer), much like video games it would have been a big part of my life.</p>\n<p>But not anymore. Again, weird.</p>\n",
+				"content_text": "The other life-long hobby that has recently come to a halt: football.\n\nFrom playing when I was younger, to full-on enthusiast bordering on pursuing a career (as a writer), much like video games it would have been a big part of my life.\n\nBut not anymore. Again, weird.\n",
+				"date_published": "2022-02-08T20:05:36+00:00",
+				"url": "https://simonwoods.online/2022/02/08/the-other-lifelong.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/02/08/ive-played-video.html",
+				
+				"content_html": "<p>I&rsquo;ve played video games for&hellip; 3 decades? At least? Most of my life.</p>\n<p>That has gradually slowed over the past couple of years, and now since moving last summer I have not played a single big game. You know, the intense ones that demand all of your energy.</p>\n<p>Feels weird, and good.</p>\n",
+				"content_text": "I've played video games for... 3 decades? At least? Most of my life.\n\nThat has gradually slowed over the past couple of years, and now since moving last summer I have not played a single big game. You know, the intense ones that demand all of your energy.\n\nFeels weird, and good.\n",
+				"date_published": "2022-02-08T20:02:19+00:00",
+				"url": "https://simonwoods.online/2022/02/08/ive-played-video.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/02/08/one-of-my.html",
+				
+				"content_html": "<p>One of my favourite Micro.bloggers returned and I totally missed it:</p>\n<p>See London through <a href=\"https://robertbrook.micro.blog/\">the eyes of Robert Brook</a>.</p>\n",
+				"content_text": "One of my favourite Micro.bloggers returned and I totally missed it:\n\nSee London through [the eyes of Robert Brook](https://robertbrook.micro.blog/).\n",
+				"date_published": "2022-02-08T19:57:49+00:00",
+				"url": "https://simonwoods.online/2022/02/08/one-of-my.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/02/08/mac-app-store.html",
+				
+				"content_html": "<p>Mac App Store not showing updates when one my most used apps does in fact have an update. Thanks Apple.</p>\n",
+				"content_text": "Mac App Store not showing updates when one my most used apps does in fact have an update. Thanks Apple.\n",
+				"date_published": "2022-02-08T18:03:18+00:00",
+				"url": "https://simonwoods.online/2022/02/08/mac-app-store.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/02/08/im-not-commenting.html",
+				
+				"content_html": "<p>I&rsquo;m not commenting on performance improvements to Micro.blog. I feel we&rsquo;re at the point now where it&rsquo;s correct to expect not just continuous improvements but a certain standard, whether for the timeline, individual sites, theme editing&hellip;</p>\n<p>Now only problems are noteworthy.</p>\n",
+				"content_text": "I'm not commenting on performance improvements to Micro.blog. I feel we're at the point now where it's correct to expect not just continuous improvements but a certain standard, whether for the timeline, individual sites, theme editing...\n\nNow only problems are noteworthy.\n",
+				"date_published": "2022-02-08T14:04:35+00:00",
+				"url": "https://simonwoods.online/2022/02/08/im-not-commenting.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/02/08/warmest-day-of.html",
+				
+				"content_html": "<p>Warmest day of the year so far here. A nice reprieve from the frost.</p>\n",
+				"content_text": "Warmest day of the year so far here. A nice reprieve from the frost.\n",
+				"date_published": "2022-02-08T14:00:15+00:00",
+				"url": "https://simonwoods.online/2022/02/08/warmest-day-of.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/02/07/lets-see-how.html",
+				
+				"content_html": "<p>Let&rsquo;s see how quickly this appears in the timeline&hellip;</p>\n",
+				"content_text": "Let's see how quickly this appears in the timeline...\n",
+				"date_published": "2022-02-07T18:36:21+00:00",
+				"url": "https://simonwoods.online/2022/02/07/lets-see-how.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/02/07/update-for-til.html",
+				
+				"content_html": "<p>Update for <a href=\"https://micro.blog/TIL\">@TIL</a>: full return next week.</p>\n<p>Also:</p>\n<p>Would it be good if there was a Facebook page for TIL, which functioned as a resource to help people see Facebook alternatives?</p>\n<p>Or does this kind of thing already exist? Even if it does already exist, would it be good to have more?</p>\n",
+				"content_text": "Update for [@TIL](https://micro.blog/TIL): full return next week.\n\nAlso:\n\nWould it be good if there was a Facebook page for TIL, which functioned as a resource to help people see Facebook alternatives?\n\nOr does this kind of thing already exist? Even if it does already exist, would it be good to have more?\n",
+				"date_published": "2022-02-07T15:39:17+00:00",
+				"url": "https://simonwoods.online/2022/02/07/update-for-til.html",
+				"tags": ["Today I Learned","links","short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2022/02/06/oh-nfts-from.html",
 				
 				"content_html": "<p>Oh, NFTs from the British Museum. Just as Dr. Sloane envisioned, I&rsquo;m sure.</p>\n",
@@ -307,7 +415,7 @@
 				"id": "http://simonmumbles.micro.blog/2022/01/12/today-i-learned.html",
 				
 				"content_html": "<p>Today I Learned returned yesterday, and now I have <a href=\"https://today-i-learned.net/2022/01/12/edit-til-new.html\">released a new update</a> that includes the new domain for the site:</p>\n<p><strong>today-i-learned.net</strong></p>\n<p>I&rsquo;m happy to have also updated the site with the new footer, the design of which is now settled until 2.0 (months from now) at the earliest:</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Today I Learned returned yesterday, and now I have [released a new update](https://today-i-learned.net/2022/01/12/edit-til-new.html) that includes the new domain for the site:\n\n __today-i-learned.net__\n\nI'm happy to have also updated the site with the new footer, the design of which is now settled until 2.0 (months from now) at the earliest:\n\n<img src=\"uploads/2022/19511d7af2.png\" width=\"600\" height=\"324\" alt=\"Screenshot of the new 3-column footer for the bottom of the Today I Learned website.\" />\n",
+				"content_text": "Today I Learned returned yesterday, and now I have [released a new update](https://today-i-learned.net/2022/01/12/edit-til-new.html) that includes the new domain for the site:\n\n __today-i-learned.net__\n\nI'm happy to have also updated the site with the new footer, the design of which is now settled until 2.0 (months from now) at the earliest:\n\n<img src=\"https://simonwoods.online/uploads/2022/19511d7af2.png\" width=\"600\" height=\"324\" alt=\"Screenshot of the new 3-column footer for the bottom of the Today I Learned website.\" />\n",
 				"date_published": "2022-01-12T17:34:00+00:00",
 				"url": "https://simonwoods.online/2022/01/12/today-i-learned.html",
 				"tags": ["links","short"]
