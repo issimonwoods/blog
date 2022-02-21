@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2022/02/18/just-saw-a.html",
+				
+				"content_html": "<p>Just saw a clip of the Kanye doc.</p>\n<ol>\n<li>I&rsquo;m going to watch this thing as soon as I can.</li>\n<li>Seeing him play All Falls Down and being ignored to his face makes me feel further motivation to keep working.</li>\n</ol>\n",
+				"content_text": "Just saw a clip of the Kanye doc.\n\n1. I'm going to watch this thing as soon as I can.\n2. Seeing him play All Falls Down and being ignored to his face makes me feel further motivation to keep working.\n",
+				"date_published": "2022-02-18T01:04:15+00:00",
+				"url": "https://simonwoods.online/2022/02/18/just-saw-a.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/02/16/what-is-avatar.html",
+				
+				"content_html": "<p><a href=\"https://twitter.com/davechensky/status/1493669422178791424\">What is Avatar?</a> &ndash; David Chen saves you a web search.</p>\n",
+				"content_text": "[What is Avatar?](https://twitter.com/davechensky/status/1493669422178791424) -- David Chen saves you a web search.\n",
+				"date_published": "2022-02-16T21:44:58+00:00",
+				"url": "https://simonwoods.online/2022/02/16/what-is-avatar.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/02/15/todo-regular-blogging.html",
+				
+				"content_html": "<p>To-do:</p>\n<ul>\n<li>regular blogging</li>\n<li>update site</li>\n<li>microcasting</li>\n<li>Micro.blog community groups</li>\n</ul>\n",
+				"content_text": "To-do:\n\n- regular blogging\n- update site\n- microcasting\n- Micro.blog community groups\n",
+				"date_published": "2022-02-15T13:48:33+00:00",
+				"url": "https://simonwoods.online/2022/02/15/todo-regular-blogging.html",
+				"tags": ["short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2022/02/11/ive-stopped-trying.html",
 				
 				"content_html": "<p>I&rsquo;ve stopped trying to customise the icons on my iPhone Home Screen. It&rsquo;s too awkward and feels fragile once you&rsquo;ve set something up (yes, including Shortcuts).</p>\n",
