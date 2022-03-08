@@ -1,11 +1,56 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Simon Woods",
-	"icon": "https://micro.blog/simonwoods/avatar.jpg",
+	"icon": "https://micro.blog/SimonWoods/avatar.jpg",
 	"home_page_url": "https://simonwoods.online/",
 	"feed_url": "https://simonwoods.online/feed.json",
 	"items": [
 		
+			{
+				"id": "http://simonmumbles.micro.blog/2022/03/08/its-nice-to.html",
+				
+				"content_html": "<p>It&rsquo;s nice to see that Apple is interested in making good computers again.</p>\n",
+				"content_text": "It's nice to see that Apple is interested in making good computers again.\n",
+				"date_published": "2022-03-08T23:17:43+00:00",
+				"url": "https://simonwoods.online/2022/03/08/its-nice-to.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/03/06/putin-the-disruptor.html",
+				
+				"content_html": "<p>&ldquo;Putin the disruptor&rdquo;</p>\n<p>The BBC with a lesson in how to be spineless.</p>\n",
+				"content_text": "\"Putin the disruptor\"\n\nThe BBC with a lesson in how to be spineless.\n",
+				"date_published": "2022-03-06T18:59:53+00:00",
+				"url": "https://simonwoods.online/2022/03/06/putin-the-disruptor.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/03/04/apple-are-going.html",
+				
+				"content_html": "<p>Apple are going to announce the Classical subscription at this event aren&rsquo;t they.</p>\n",
+				"content_text": "Apple are going to announce the Classical subscription at this event aren't they.\n",
+				"date_published": "2022-03-04T14:54:48+00:00",
+				"url": "https://simonwoods.online/2022/03/04/apple-are-going.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/03/02/glass-for-ipad.html",
+				
+				"content_html": "<p><a href=\"https://glass.photo/highlights/ipad\">Glass for iPad looks pretty damn good</a></p>\n<p>The list of strong reasons for replacing the device I sold (to help fund the move) is only growing.</p>\n<p>Also, how cool is to see the folks at Glass outline the significant updates they&rsquo;ve made in the 6 months since launch.</p>\n",
+				"content_text": "[Glass for iPad looks pretty damn good](https://glass.photo/highlights/ipad)\n\nThe list of strong reasons for replacing the device I sold (to help fund the move) is only growing.\n\nAlso, how cool is to see the folks at Glass outline the significant updates they've made in the 6 months since launch.\n",
+				"date_published": "2022-03-02T23:58:12+00:00",
+				"url": "https://simonwoods.online/2022/03/02/glass-for-ipad.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/03/02/made-the-mistake.html",
+				
+				"content_html": "<p>Made the mistake of watching <a href=\"https://www.youtube.com/watch?v=y1kWjwVKvRA&amp;t=210s\">a few minutes of this video</a> on the new iMac in 4K 60FPS HDR&hellip; and now I really want a PS5 and compliant TV 😬</p>\n",
+				"content_text": "Made the mistake of watching [a few minutes of this video](https://www.youtube.com/watch?v=y1kWjwVKvRA&t=210s) on the new iMac in 4K 60FPS HDR... and now I really want a PS5 and compliant TV 😬\n",
+				"date_published": "2022-03-02T18:25:11+00:00",
+				"url": "https://simonwoods.online/2022/03/02/made-the-mistake.html",
+				"tags": ["links","short"]
+			},
 			{
 				"id": "http://simonmumbles.micro.blog/2022/02/28/chatbots-as-replacements.html",
 				
@@ -271,7 +316,7 @@
 				"id": "http://simonmumbles.micro.blog/2022/02/04/homescreen-february.html",
 				
 				"content_html": "<p>Homescreen: February, 2022</p>\n<!-- raw HTML omitted -->\n<p>(Thought Detox; Doppler; Camera; Messages)</p>\n",
-				"content_text": "Homescreen: February, 2022\n\n<img src=\"uploads/2022/5e395eca95.jpg\" width=\"337\" height=\"600\" alt=\"\" />\n\n(Thought Detox; Doppler; Camera; Messages)\n",
+				"content_text": "Homescreen: February, 2022\n\n<img src=\"https://simonwoods.online/uploads/2022/5e395eca95.jpg\" width=\"337\" height=\"600\" alt=\"\" />\n\n(Thought Detox; Doppler; Camera; Messages)\n",
 				"date_published": "2022-02-04T08:37:01+00:00",
 				"url": "https://simonwoods.online/2022/02/04/homescreen-february.html",
 				"tags": ["short"]
