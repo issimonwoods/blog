@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2022/05/27/how-microblog-threads.html",
+				
+				"content_html": "<p>How Micro.blog threads could work:</p>\n<ul>\n<li>Publish original post, either long or micro.</li>\n<li>Make edits to post.</li>\n<li>Edits are optionally added to timeline <em>as replies to original post</em>.</li>\n</ul>\n<p>Optional features:</p>\n<ul>\n<li>Include link to OP in reply.</li>\n<li>Edit log included in OP.</li>\n<li>Don&rsquo;t include replies in the TL.</li>\n</ul>\n",
+				"content_text": "How Micro.blog threads could work:\n\n- Publish original post, either long or micro.\n- Make edits to post.\n- Edits are optionally added to timeline _as replies to original post_.\n\nOptional features:\n\n- Include link to OP in reply.\n- Edit log included in OP.\n- Don't include replies in the TL.\n",
+				"date_published": "2022-05-27T09:55:01+01:00",
+				"url": "https://simonwoods.online/2022/05/27/how-microblog-threads.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/05/25/i-think-of.html",
+				
+				"content_html": "<p>I think of quoting in blogging as a social feature, in a good way.</p>\n<p>As such today&rsquo;s <a href=\"https://today-i-learned.net/2022/05/25/you-can-create.html\">Tip on TIL regarding manual quoting</a>, along with a few as of late, have been placed into <a href=\"https://today-i-learned.net/categories/social/\">the Social filter</a>. You can find the feed for those posts, and other filters <a href=\"https://today-i-learned.net/about\">on the About page</a>.</p>\n",
+				"content_text": "I think of quoting in blogging as a social feature, in a good way.\n\nAs such today's [Tip on TIL regarding manual quoting](https://today-i-learned.net/2022/05/25/you-can-create.html), along with a few as of late, have been placed into [the Social filter](https://today-i-learned.net/categories/social/). You can find the feed for those posts, and other filters [on the About page](https://today-i-learned.net/about).\n",
+				"date_published": "2022-05-25T18:04:06+01:00",
+				"url": "https://simonwoods.online/2022/05/25/i-think-of.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/05/24/when-im-using.html",
+				
+				"content_html": "<p>When I&rsquo;m using the Micro.blog scheduler for <a href=\"https://micro.blog/TIL\">@TIL</a>, I feel like I&rsquo;m having a good day.</p>\n",
+				"content_text": "When I'm using the Micro.blog scheduler for [@TIL](https://micro.blog/TIL), I feel like I'm having a good day.\n",
+				"date_published": "2022-05-24T13:28:20+01:00",
+				"url": "https://simonwoods.online/2022/05/24/when-im-using.html",
+				"tags": ["Today I Learned","links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/05/24/i-dont-understand.html",
+				
+				"content_html": "<blockquote>\n<p>I don&rsquo;t understand it, or why you would do it. Maybe one day I will do it, but I don&rsquo;t see that. I don&rsquo;t understand why you would want to tell other people, people you don&rsquo;t know, what is good or not so good in the moment.</p>\n</blockquote>\n<p>— <a href=\"https://www.skysports.com/football/news/11669/11914362/jurgen-klopps-being-the-boss-why-im-not-on-social-media-and-dont-wear-a-suit\">Jurgen Klopp</a> on why he &ldquo;doesn&rsquo;t do social media&rdquo;</p>\n",
+				"content_text": "> I don't understand it, or why you would do it. Maybe one day I will do it, but I don't see that. I don't understand why you would want to tell other people, people you don't know, what is good or not so good in the moment.\r\n\r\n— [Jurgen Klopp](https://www.skysports.com/football/news/11669/11914362/jurgen-klopps-being-the-boss-why-im-not-on-social-media-and-dont-wear-a-suit) on why he \"doesn't do social media\"\n",
+				"date_published": "2022-05-24T09:36:35+01:00",
+				"url": "https://simonwoods.online/2022/05/24/i-dont-understand.html",
+				"tags": ["links","short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2022/05/20/nice-work-dunfermline.html",
 				
 				"content_html": "<p>Nice work, <a href=\"https://www.visitdunfermline.tv\">Dunfermline</a> 😂</p>\n<!-- raw HTML omitted -->\n",
