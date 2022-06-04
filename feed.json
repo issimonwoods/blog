@@ -7,6 +7,96 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2022/06/04/fixed-a-handful.html",
+				
+				"content_html": "<blockquote>\n<p>Fixed a handful of bugs this morning, little things that no one notices and bigger things like push notifications and Webmentions broken for the last few days. Think I need to dedicate June to just working on stability.</p>\n</blockquote>\n<p>— <a href=\"https://www.manton.org/2022/06/01/fixed-a-handful.html\">Manton Reece</a></p>\n<p>That work has been apparent to me. 🙌</p>\n",
+				"content_text": "> Fixed a handful of bugs this morning, little things that no one notices and bigger things like push notifications and Webmentions broken for the last few days. Think I need to dedicate June to just working on stability.\r\n\r\n— [Manton Reece](https://www.manton.org/2022/06/01/fixed-a-handful.html)\r\n\r\nThat work has been apparent to me. 🙌\n",
+				"date_published": "2022-06-04T16:33:39+01:00",
+				"url": "https://simonwoods.online/2022/06/04/fixed-a-handful.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/06/04/safari-is-probably.html",
+				
+				"content_html": "<p>Safari is probably the most frustrating app I use; some websites and web tech inexplicably breaks when compared to Chromium and Firefox. I&rsquo;m going to give Firefox a go again, including for password management which has become the only thing keeping me tied to Safari.</p>\n",
+				"content_text": "Safari is probably the most frustrating app I use; some websites and web tech inexplicably breaks when compared to Chromium and Firefox. I'm going to give Firefox a go again, including for password management which has become the only thing keeping me tied to Safari.\n",
+				"date_published": "2022-06-04T16:31:36+01:00",
+				"url": "https://simonwoods.online/2022/06/04/safari-is-probably.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/06/03/i-dont-like.html",
+				
+				"content_html": "<blockquote>\n<p>I don&rsquo;t like this thing and will now quit it, and then later fail to stop myself from going back to it, before again complaining and quitting.</p>\n</blockquote>\n<p>— The Internet, every year.</p>\n<p>I remember <a href=\"https://micro.blog/jack\">@jack</a> once said &ldquo;Don&rsquo;t tell me what you&rsquo;re quitting, show me what you&rsquo;re doing next.&rdquo; 💯</p>\n",
+				"content_text": "> I don't like this thing and will now quit it, and then later fail to stop myself from going back to it, before again complaining and quitting.\n\n— The Internet, every year.\n\nI remember [@jack](https://micro.blog/jack) once said \"Don't tell me what you're quitting, show me what you're doing next.\" 💯\n",
+				"date_published": "2022-06-03T17:42:45+01:00",
+				"url": "https://simonwoods.online/2022/06/03/i-dont-like.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/06/02/for-people-with.html",
+				
+				"content_html": "<ul>\n<li>For people with the spare energy and time: youtube-dl.</li>\n<li>For people with the spare money and time: Downie.</li>\n<li>For people with better things to do: YouTube Premium.</li>\n<li>For everybody else: crappy adverts.</li>\n</ul>\n<p>bonus:</p>\n<ul>\n<li>For people who don&rsquo;t want streaming to dictate their life: ignorant bliss.</li>\n</ul>\n",
+				"content_text": "- For people with the spare energy and time: youtube-dl.\n- For people with the spare money and time: Downie.\n- For people with better things to do: YouTube Premium.\n- For everybody else: crappy adverts.\n\nbonus:\n\n- For people who don't want streaming to dictate their life: ignorant bliss.\n",
+				"date_published": "2022-06-02T13:10:30+01:00",
+				"url": "https://simonwoods.online/2022/06/02/for-people-with.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/06/01/how-the-hell.html",
+				
+				"content_html": "<p>How the hell is it June already</p>\n",
+				"content_text": "How the hell is it June already\n",
+				"date_published": "2022-06-01T11:30:25+01:00",
+				"url": "https://simonwoods.online/2022/06/01/how-the-hell.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/05/30/is-post-scheduling.html",
+				
+				"content_html": "<p>Is post scheduling on Micro.blog broken for anybody else? The editor just submits from the <code>Schedule</code> button as if it&rsquo;s the <code>Post</code> button for a new post.</p>\n",
+				"content_text": "Is post scheduling on Micro.blog broken for anybody else? The editor just submits from the `Schedule` button as if it's the `Post` button for a new post.\n",
+				"date_published": "2022-05-30T12:14:47+01:00",
+				"url": "https://simonwoods.online/2022/05/30/is-post-scheduling.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/05/30/this-weeks-issue.html",
+				
+				"content_html": "<p>This week&rsquo;s issue of <a href=\"https://today-i-learned.net/icymi\">ICYMI</a> is ready to go and will be sent in approximately 91 minutes. 📨</p>\n",
+				"content_text": "This week's issue of [ICYMI](https://today-i-learned.net/icymi) is ready to go and will be sent in approximately 91 minutes. 📨\n",
+				"date_published": "2022-05-30T11:45:02+01:00",
+				"url": "https://simonwoods.online/2022/05/30/this-weeks-issue.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/05/30/have-some-stirring.html",
+				
+				"content_html": "<p>Have some <a href=\"https://www.youtube.com/watch?v=FiWq0YscOAs\">stirring Einaudi</a> to start your day :)</p>\n",
+				"content_text": "Have some [stirring Einaudi](https://www.youtube.com/watch?v=FiWq0YscOAs) to start your day :)\n",
+				"date_published": "2022-05-30T08:03:23+01:00",
+				"url": "https://simonwoods.online/2022/05/30/have-some-stirring.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/05/29/the-reason-im.html",
+				
+				"content_html": "<p>The reason I&rsquo;m going to continue to use DuckDuckGo is the same reason I use Apple products — made in China — and Micro.blog — increasingly written in React Native, created and backed by FaceBook — and it&rsquo;s simple:</p>\n<p>The world is complicated. Moral absolutes are rarely helpful.</p>\n",
+				"content_text": "The reason I'm going to continue to use DuckDuckGo is the same reason I use Apple products — made in China — and Micro.blog — increasingly written in React Native, created and backed by FaceBook — and it's simple:\n\nThe world is complicated. Moral absolutes are rarely helpful.\n",
+				"date_published": "2022-05-29T13:17:44+01:00",
+				"url": "https://simonwoods.online/2022/05/29/the-reason-im.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/05/28/i-was-going.html",
+				
+				"content_html": "<p>I was going to post something in a vague and sarcastic manner, then I decided against that idea.</p>\n<p>Instead, back to work on <a href=\"https://micro.blog/TIL\">@TIL</a> 2.0.</p>\n<p>Oh, also, yesterday I had a thought about <a href=\"https://simonwoods.online/2022/05/27/how-microblog-threads.html\">a way to implement post-threading on Micro.blog</a>.</p>\n",
+				"content_text": "I was going to post something in a vague and sarcastic manner, then I decided against that idea.\n\nInstead, back to work on [@TIL](https://micro.blog/TIL) 2.0.\n\nOh, also, yesterday I had a thought about [a way to implement post-threading on Micro.blog](https://simonwoods.online/2022/05/27/how-microblog-threads.html).\n",
+				"date_published": "2022-05-28T17:48:23+01:00",
+				"url": "https://simonwoods.online/2022/05/28/i-was-going.html",
+				"tags": ["Today I Learned","links","short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2022/05/27/how-microblog-threads.html",
 				
 				"content_html": "<p>How Micro.blog threads could work:</p>\n<ul>\n<li>Publish original post, either long or micro.</li>\n<li>Make edits to post.</li>\n<li>Edits are optionally added to timeline <em>as replies to original post</em>.</li>\n</ul>\n<p>Optional features:</p>\n<ul>\n<li>Include link to OP in reply.</li>\n<li>Edit log included in OP.</li>\n<li>Don&rsquo;t include replies in the TL.</li>\n</ul>\n",
@@ -6754,6 +6844,15 @@
 				"content_text": "The USA frightens me more than the pandemic.\n",
 				"date_published": "2020-06-06T03:51:25+01:00",
 				"url": "https://simonwoods.online/2020/06/06/the-usa-frightens.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2020/06/02/schedule-test-with.html",
+				
+				"content_html": "<p>schedule test (with new Schedule Post button)</p>\n",
+				"content_text": "schedule test (with new Schedule Post button)\n",
+				"date_published": "2020-06-02T16:50:00+01:00",
+				"url": "https://simonwoods.online/2020/06/02/schedule-test-with.html",
 				"tags": ["short"]
 			},
 			{
