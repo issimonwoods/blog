@@ -7,6 +7,123 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2022/06/11/one-of-things.html",
+				
+				"content_html": "<p>One of things I&rsquo;m working on for <a href=\"https://micro.blog/TIL\">@TIL</a> 2.0 is making the site easier to use. Better access via breadcrumbs, linked pages, etc.</p>\n<p>I&rsquo;m starting to see just how many websites don&rsquo;t do this sort of thing at all. Most navigation seems to be built around &ldquo;We want to funnel you to X.&rdquo;</p>\n",
+				"content_text": "One of things I'm working on for [@TIL](https://micro.blog/TIL) 2.0 is making the site easier to use. Better access via breadcrumbs, linked pages, etc.\n\nI'm starting to see just how many websites don't do this sort of thing at all. Most navigation seems to be built around \"We want to funnel you to X.\"\n",
+				"date_published": "2022-06-11T14:57:31+01:00",
+				"url": "https://simonwoods.online/2022/06/11/one-of-things.html",
+				"tags": ["Today I Learned","links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/06/11/id-love-to.html",
+				
+				"content_html": "<p>I&rsquo;d love to work for Royal Mail; apparently you can just do a poor job and get paid for it anyway.</p>\n",
+				"content_text": "I'd love to work for Royal Mail; apparently you can just do a poor job and get paid for it anyway.\n",
+				"date_published": "2022-06-11T10:33:50+01:00",
+				"url": "https://simonwoods.online/2022/06/11/id-love-to.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/06/10/ive-reset-my.html",
+				
+				"content_html": "<p>I’ve reset my Apple Watch and put it away. I’ll go back to it if they ever improve the battery life to a significant degree.</p>\n",
+				"content_text": "I’ve reset my Apple Watch and put it away. I’ll go back to it if they ever improve the battery life to a significant degree.\n",
+				"date_published": "2022-06-10T20:02:22+01:00",
+				"url": "https://simonwoods.online/2022/06/10/ive-reset-my.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/06/09/i-see-wirecutter.html",
+				
+				"content_html": "<p>I see Wirecutter has solidified its fall from grace.</p>\n",
+				"content_text": "I see Wirecutter has solidified its fall from grace.\n",
+				"date_published": "2022-06-09T07:46:18+01:00",
+				"url": "https://simonwoods.online/2022/06/09/i-see-wirecutter.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/06/09/ben-thompson-insits.html",
+				
+				"content_html": "<p>Ben Thompson insits &ldquo;The online world of social media is great because now when you meet up with friends and family, you don&rsquo;t need to catch-up.&rdquo;</p>\n<p>I&rsquo;m confused&hellip; maybe I&rsquo;m the weird one&hellip; but I enjoy catching up? I like how a gathering starts with that process <em>without</em> a computer.</p>\n",
+				"content_text": "Ben Thompson insits \"The online world of social media is great because now when you meet up with friends and family, you don't need to catch-up.\"\r\n\r\nI'm confused... maybe I'm the weird one... but I enjoy catching up? I like how a gathering starts with that process _without_ a computer.\n",
+				"date_published": "2022-06-09T05:38:20+01:00",
+				"url": "https://simonwoods.online/2022/06/09/ben-thompson-insits.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/06/08/im-grateful-for.html",
+				
+				"content_html": "<p>I&rsquo;m grateful for the Micro.blog timelines being open and available. Account-based barriers for free social networks on the web are gross.</p>\n",
+				"content_text": "I'm grateful for the Micro.blog timelines being open and available. Account-based barriers for free social networks on the web are gross.\n",
+				"date_published": "2022-06-08T16:29:33+01:00",
+				"url": "https://simonwoods.online/2022/06/08/im-grateful-for.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/06/07/its-a-shame.html",
+				
+				"content_html": "<p>It&rsquo;s a shame <a href=\"https://twitter.com/gruber/status/1534206805940789248\">the live edition of The Talk Show won&rsquo;t be streamed</a>. That would have been an enjoyable late-night viewing.</p>\n",
+				"content_text": "It's a shame [the live edition of The Talk Show won't be streamed](https://twitter.com/gruber/status/1534206805940789248). That would have been an enjoyable late-night viewing.\n",
+				"date_published": "2022-06-07T18:37:17+01:00",
+				"url": "https://simonwoods.online/2022/06/07/its-a-shame.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/06/07/i-like-that.html",
+				
+				"content_html": "<p>I like that Bandcamp is the best supported music platform in the Micro.blog plug-ins directory.</p>\n",
+				"content_text": "I like that Bandcamp is the best supported music platform in the Micro.blog plug-ins directory.\n",
+				"date_published": "2022-06-07T11:16:42+01:00",
+				"url": "https://simonwoods.online/2022/06/07/i-like-that.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/06/06/me-im-going.html",
+				
+				"content_html": "<p>Me: I&rsquo;m going to stop using Apple&rsquo;s apps because boo</p>\n<p>Apple: Announces actual meaningful improvements</p>\n<p>Me: oh&hellip; oh ok then</p>\n",
+				"content_text": "Me: I'm going to stop using Apple's apps because boo\n\nApple: Announces actual meaningful improvements\n\nMe: oh... oh ok then\n",
+				"date_published": "2022-06-06T21:58:27+01:00",
+				"url": "https://simonwoods.online/2022/06/06/me-im-going.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/06/06/since-theres-a.html",
+				
+				"content_html": "<p>Since there&rsquo;s a new pin for WWDC, I&rsquo;ll take this opportunity to share <a href=\"https://today-i-learned.net/2018/11/20/guide-pins.html\">the Pins guide I wrote for TIL</a>&hellip; all pins barring the newest are listed therein.</p>\n<p>The feed for guides, along with other post types and special filters can be found <a href=\"https://today-i-learned.net/about/\">on the About page</a>.</p>\n",
+				"content_text": "Since there's a new pin for WWDC, I'll take this opportunity to share [the Pins guide I wrote for TIL](https://today-i-learned.net/2018/11/20/guide-pins.html)... all pins barring the newest are listed therein.\n\nThe feed for guides, along with other post types and special filters can be found [on the About page](https://today-i-learned.net/about/).\n",
+				"date_published": "2022-06-06T16:36:38+01:00",
+				"url": "https://simonwoods.online/2022/06/06/since-theres-a.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/06/06/the-new-issue.html",
+				
+				"content_html": "<p>The new issue of <a href=\"https://today-i-learned.net/icymi/\">ICYMI</a> is ready to go. Will be released in approximately 6 minutes.</p>\n",
+				"content_text": "The new issue of [ICYMI](https://today-i-learned.net/icymi/) is ready to go. Will be released in approximately 6 minutes.\n",
+				"date_published": "2022-06-06T13:10:33+01:00",
+				"url": "https://simonwoods.online/2022/06/06/the-new-issue.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/06/05/i-think-it.html",
+				
+				"content_html": "<p>I think it says a lot that writers and bloggers are finding a home in podcasts and on platforms like Twitch, as opposed to other text-based platforms.</p>\n<p>Reducing expression down to bite-sized pieces of content absolutely <em>ruins</em> any writer&rsquo;s chance of producing their best work.</p>\n",
+				"content_text": "I think it says a lot that writers and bloggers are finding a home in podcasts and on platforms like Twitch, as opposed to other text-based platforms.\n\nReducing expression down to bite-sized pieces of content absolutely _ruins_ any writer's chance of producing their best work.\n",
+				"date_published": "2022-06-05T02:38:19+01:00",
+				"url": "https://simonwoods.online/2022/06/05/i-think-it.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/06/04/172026.html",
+				
+				"content_html": "<p>testing Draft prompt on closing compose window</p>\n",
+				"content_text": "testing Draft prompt on closing compose window\n",
+				"date_published": "2022-06-04T17:20:26+01:00",
+				"url": "https://simonwoods.online/2022/06/04/172026.html",
+				"tags": ["short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2022/06/04/fixed-a-handful.html",
 				
 				"content_html": "<blockquote>\n<p>Fixed a handful of bugs this morning, little things that no one notices and bigger things like push notifications and Webmentions broken for the last few days. Think I need to dedicate June to just working on stability.</p>\n</blockquote>\n<p>— <a href=\"https://www.manton.org/2022/06/01/fixed-a-handful.html\">Manton Reece</a></p>\n<p>That work has been apparent to me. 🙌</p>\n",
