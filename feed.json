@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2022/08/25/watching-cartoon-network.html",
+				
+				"content_html": "<p>Watching Cartoon Network get thrown into the memory hole is yet another sign that the plans we have in this house to create as much of a traditional media system as possible are correct.</p>\n<ul>\n<li>Buy as much stuff as possible.</li>\n<li>Keep and maintain local back-ups.</li>\n<li>Exclude the internet.</li>\n</ul>\n",
+				"content_text": "Watching Cartoon Network get thrown into the memory hole is yet another sign that the plans we have in this house to create as much of a traditional media system as possible are correct.\n\n- Buy as much stuff as possible.\n- Keep and maintain local back-ups.\n- Exclude the internet.\n",
+				"date_published": "2022-08-25T04:59:21+01:00",
+				"url": "https://swoods.net/2022/08/25/watching-cartoon-network.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/08/24/i-wish-i.html",
+				
+				"content_html": "<p>I wish I could more easily share conversations on Micro.blog. Even this manual process of hand-picked highlighting is difficult, to the point that it might as well be considered impossible.</p>\n<p>It&rsquo;s as if only the Micro.blog team are allowed to easily share Micro.blog activity.</p>\n",
+				"content_text": "I wish I could more easily share conversations on Micro.blog. Even this manual process of hand-picked highlighting is difficult, to the point that it might as well be considered impossible.\n\nIt's as if only the Micro.blog team are allowed to easily share Micro.blog activity.\n",
+				"date_published": "2022-08-24T23:00:07+01:00",
+				"url": "https://swoods.net/2022/08/24/i-wish-i.html",
+				"tags": ["short","Microblog Wishes"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/08/23/changes-to-apples.html",
+				
+				"content_html": "<p>Changes to <a href=\"https://podcasters.apple.com/4115-technical-updates-for-hosting-providers\">Apple&rsquo;s podcasting hosting requirements</a> means there&rsquo;s a chance of more work for the Micro.blog team. Hopefully not too much!</p>\n",
+				"content_text": "Changes to [Apple's podcasting hosting requirements](https://podcasters.apple.com/4115-technical-updates-for-hosting-providers) means there's a chance of more work for the Micro.blog team. Hopefully not too much!\n",
+				"date_published": "2022-08-23T23:44:12+01:00",
+				"url": "https://swoods.net/2022/08/23/changes-to-apples.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/08/22/ive-just-opened.html",
+				
+				"content_html": "<p>I&rsquo;ve just opened the Micro.blog Help Centre to find that I&rsquo;ve been logged out of my account. I have done literally nothing to make this happen, and as far as I&rsquo;m aware there is nothing from the side of Manton or Discourse.</p>\n<p>Probable cause; Safari&rsquo;s bullshit at work yet again.</p>\n",
+				"content_text": "I've just opened the Micro.blog Help Centre to find that I've been logged out of my account. I have done literally nothing to make this happen, and as far as I'm aware there is nothing from the side of Manton or Discourse.\n\nProbable cause; Safari's bullshit at work yet again.\n",
+				"date_published": "2022-08-22T23:57:52+01:00",
+				"url": "https://swoods.net/2022/08/22/ive-just-opened.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/08/22/later-this-year.html",
+				
+				"content_html": "<p>Later this year <a href=\"https://www.youtube.com/watch?v=Nntd2fgMUYw\">Save Tonight</a> will be 25 years-old. 🎵</p>\n",
+				"content_text": "Later this year [Save Tonight](https://www.youtube.com/watch?v=Nntd2fgMUYw) will be 25 years-old. 🎵\n",
+				"date_published": "2022-08-22T18:41:04+01:00",
+				"url": "https://swoods.net/2022/08/22/later-this-year.html",
+				"tags": ["links","short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2022/08/19/federico-viticcis-damning.html",
 				
 				"content_html": "<p>Federico Viticci&rsquo;s <a href=\"https://twitter.com/viticci/status/1560342334327427077\">damning conclusion with regard to the state of Stage Manager</a> is the latest in a list of reasons that I am glad to have switched my primary computing from the iPad to the Mac.</p>\n",
@@ -166,7 +211,7 @@
 				"content_text": "A new tab for Micro.blog profiles: __Recommended__\n\nPosts from the timeline that you flag for sharing (via button alongside \"Bookmark\", et al), which can then be seen from your profile.\n\nEssentially an individual version of the Discover timeline.\n",
 				"date_published": "2022-08-03T01:01:18+01:00",
 				"url": "https://swoods.net/2022/08/03/a-new-tab.html",
-				"tags": ["short"]
+				"tags": ["short","Microblog Wishes"]
 			},
 			{
 				"id": "http://simonmumbles.micro.blog/2022/08/02/profile-changelog-added.html",
@@ -409,7 +454,7 @@
 				"content_text": "A Micro.blog messaging app;\n\n- mentions only;\n- layered thread design;\n- reply-all;\n- auto-fill usernames;\n- mark as read/unread;\n- save reply for later;\n- optional limit on own reply length;\n  - copy reply and jump into full app of choice to create full blog post;\n- optional \"sent with\" link.\n",
 				"date_published": "2022-06-22T18:13:22+01:00",
 				"url": "https://swoods.net/2022/06/22/a-microblog-messaging.html",
-				"tags": ["short"]
+				"tags": ["short","Microblog Wishes"]
 			},
 			{
 				"id": "http://simonmumbles.micro.blog/2022/06/22/testing-for-new.html",
@@ -751,7 +796,7 @@
 				"content_text": "How Micro.blog threads could work:\n\n- Publish original post, either long or micro.\n- Make edits to post.\n- Edits are optionally added to timeline _as replies to original post_.\n\nOptional features:\n\n- Include link to OP in reply.\n- Edit log included in OP.\n- Don't include replies in the TL.\n",
 				"date_published": "2022-05-27T09:55:01+01:00",
 				"url": "https://swoods.net/2022/05/27/how-microblog-threads.html",
-				"tags": ["short"]
+				"tags": ["short","Microblog Wishes"]
 			},
 			{
 				"id": "http://simonmumbles.micro.blog/2022/05/25/i-think-of.html",
@@ -2902,7 +2947,7 @@
 				"content_text": "Another day, another conversation on Micro.blog in which I cannot even tell for whom the latest reply is meant. Between a character limit and proper threading I am convinced this would be easier and thus more attractive to use. _Especially_ since replies are random on the timeline.\n",
 				"date_published": "2021-10-30T19:08:19+01:00",
 				"url": "https://swoods.net/2021/10/30/another-day-another.html",
-				"tags": ["short"]
+				"tags": ["short","Microblog Wishes"]
 			},
 			{
 				"id": "http://simonmumbles.micro.blog/2021/10/30/the-is-this.html",
