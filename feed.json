@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2022/08/30/this-is-a.html",
+				
+				"content_html": "<p>This is a complicated subject, and so I understand why it doesn&rsquo;t get spoken about in public as often as other issues and ideas.</p>\n<p>However, I feel the need to admit that I am utterly jealous of the people who get paid to work. It is one difficult aspect of being a carer.</p>\n",
+				"content_text": "This is a complicated subject, and so I understand why it doesn't get spoken about in public as often as other issues and ideas.\n\nHowever, I feel the need to admit that I am utterly jealous of the people who get paid to work. It is one difficult aspect of being a carer.\n",
+				"date_published": "2022-08-30T21:53:58+01:00",
+				"url": "https://swoods.net/2022/08/30/this-is-a.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/08/30/vincent-has-an.html",
+				
+				"content_html": "<p>Vincent has <a href=\"https://vincentritter.com/2022/08/30/just-forget-it-keep-it-simple-thoughts-on-to-do-lists\">an interesting posts on keeping things simple</a>, with some good advice for people like Vincent.</p>\n<p>For those of us not like Vincent; don&rsquo;t worry about it. Do whatever works for you. If you feel good about using your to-do list, then you keep using that to-do list.</p>\n",
+				"content_text": "Vincent has [an interesting posts on keeping things simple](https://vincentritter.com/2022/08/30/just-forget-it-keep-it-simple-thoughts-on-to-do-lists), with some good advice for people like Vincent.\n\nFor those of us not like Vincent; don't worry about it. Do whatever works for you. If you feel good about using your to-do list, then you keep using that to-do list.\n",
+				"date_published": "2022-08-30T15:16:28+01:00",
+				"url": "https://swoods.net/2022/08/30/vincent-has-an.html",
+				"tags": ["links","short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2022/08/25/watching-cartoon-network.html",
 				
 				"content_html": "<p>Watching Cartoon Network get thrown into the memory hole is yet another sign that the plans we have in this house to create as much of a traditional media system as possible are correct.</p>\n<ul>\n<li>Buy as much stuff as possible.</li>\n<li>Keep and maintain local back-ups.</li>\n<li>Exclude the internet.</li>\n</ul>\n",
