@@ -7,6 +7,96 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2022/09/13/well-im-never.html",
+				
+				"content_html": "<p>Well I&rsquo;m never going to Center Parcs. Utter madness.</p>\n",
+				"content_text": "Well I'm never going to Center Parcs. Utter madness.\n",
+				"date_published": "2022-09-13T17:40:24+01:00",
+				"url": "https://swoods.net/2022/09/13/well-im-never.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/09/12/ive-just-read.html",
+				
+				"content_html": "<p>I&rsquo;ve just read <a href=\"https://randsinrepose.com/archives/how-to-write-a-blog-post/\">How to Write a Blog Post</a> for the first time. Wow.</p>\n",
+				"content_text": "I've just read [How to Write a Blog Post](https://randsinrepose.com/archives/how-to-write-a-blog-post/) for the first time. Wow.\n",
+				"date_published": "2022-09-12T23:50:03+01:00",
+				"url": "https://swoods.net/2022/09/12/ive-just-read.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/09/12/a-great-developer.html",
+				
+				"content_html": "<p><a href=\"https://www.manton.org/2015/10/21/a-great-developer.html\">A great developer can come from anywhere</a> is one of my favourite pieces of writing. Whenever I revisit it the better part of my brain, full with better decision-making and clarity of thought, is given the jolt it needs.</p>\n",
+				"content_text": "[A great developer can come from anywhere](https://www.manton.org/2015/10/21/a-great-developer.html) is one of my favourite pieces of writing. Whenever I revisit it the better part of my brain, full with better decision-making and clarity of thought, is given the jolt it needs.\n",
+				"date_published": "2022-09-12T23:48:33+01:00",
+				"url": "https://swoods.net/2022/09/12/a-great-developer.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/09/12/lockscreen-widgets-from.html",
+				
+				"content_html": "<p>Lock-screen widgets from third-party developers — the main reason I updated so quickly — are not currently available due to a bug made by Apple.</p>\n<p>Yet more proof that you shouldn&rsquo;t have arbitrary, marketing-led production schedules.</p>\n",
+				"content_text": "Lock-screen widgets from third-party developers — the main reason I updated so quickly — are not currently available due to a bug made by Apple.\n\nYet more proof that you shouldn't have arbitrary, marketing-led production schedules.\n",
+				"date_published": "2022-09-12T21:49:39+01:00",
+				"url": "https://swoods.net/2022/09/12/lockscreen-widgets-from.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/09/10/i-think-im.html",
+				
+				"content_html": "<p>I think I&rsquo;m ready — once the money is available — to get a traditional phone and keep my smartphone in reserve as a media player/point-and-shoot/back-up for the &ldquo;modern world&rdquo;.</p>\n<p>The experiment feels good: separate the key feature — communication — from the handheld computer.</p>\n",
+				"content_text": "I think I'm ready — once the money is available — to get a traditional phone and keep my smartphone in reserve as a media player/point-and-shoot/back-up for the \"modern world\".\n\nThe experiment feels good: separate the key feature — communication — from the handheld computer.\n",
+				"date_published": "2022-09-10T00:19:38+01:00",
+				"url": "https://swoods.net/2022/09/10/i-think-im.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/09/10/if-you-pay.html",
+				
+				"content_html": "<p>If you pay for Apple Music Family for, say, 10 years. That is <em>£1,800</em>.</p>\n<p>Now say the price of the average album is £10. That&rsquo;s  <em>180 albums</em>.</p>\n<p>In the first instance your access to the music can disappear oh-so very easily when compared to the second. No thanks, I reject this choice.</p>\n",
+				"content_text": "If you pay for Apple Music Family for, say, 10 years. That is _£1,800_.\n\nNow say the price of the average album is £10. That's  _180 albums_.\n\nIn the first instance your access to the music can disappear oh-so very easily when compared to the second. No thanks, I reject this choice.\n",
+				"date_published": "2022-09-10T00:05:01+01:00",
+				"url": "https://swoods.net/2022/09/10/if-you-pay.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/09/09/new-apple-workout.html",
+				
+				"content_html": "<p>New Apple workout idea: Home-making.</p>\n<p>I can work at a fair clip when I&rsquo;m getting a bunch of things done at once; dishes, laundry, tidying, hoovering, taking out the rubbish, and a number of connected tasks therein. I&rsquo;m definitely highly active but the Watch doesn&rsquo;t count it.</p>\n",
+				"content_text": "New Apple workout idea: Home-making.\n\nI can work at a fair clip when I'm getting a bunch of things done at once; dishes, laundry, tidying, hoovering, taking out the rubbish, and a number of connected tasks therein. I'm definitely highly active but the Watch doesn't count it.\n",
+				"date_published": "2022-09-09T22:51:12+01:00",
+				"url": "https://swoods.net/2022/09/09/new-apple-workout.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/09/09/doppler-for-mac.html",
+				
+				"content_html": "<p><a href=\"https://blog.brushedtype.co/doppler-for-mac-2-1/\">Doppler for Mac 2.1</a> is a damned good update.</p>\n",
+				"content_text": "[Doppler for Mac 2.1](https://blog.brushedtype.co/doppler-for-mac-2-1/) is a damned good update.\n",
+				"date_published": "2022-09-09T01:21:34+01:00",
+				"url": "https://swoods.net/2022/09/09/doppler-for-mac.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/09/08/its-amazing-to.html",
+				
+				"content_html": "<p>It&rsquo;s amazing to me how easily people misunderstood the scale of Apple&rsquo;s operations.</p>\n<p>The reason they differ from the other companies of similar scale? They&rsquo;re attempting to provide a guaranteed experience, whilst the others are fine with differences from customer to customer.</p>\n",
+				"content_text": "It's amazing to me how easily people misunderstood the scale of Apple's operations.\n\nThe reason they differ from the other companies of similar scale? They're attempting to provide a guaranteed experience, whilst the others are fine with differences from customer to customer.\n",
+				"date_published": "2022-09-08T15:20:19+01:00",
+				"url": "https://swoods.net/2022/09/08/its-amazing-to.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/09/07/the-new-airpods.html",
+				
+				"content_html": "<p>The new AirPods Pro have better battery? That&rsquo;s enough for me.</p>\n",
+				"content_text": "The new AirPods Pro have better battery? That's enough for me.\n",
+				"date_published": "2022-09-07T19:27:56+01:00",
+				"url": "https://swoods.net/2022/09/07/the-new-airpods.html",
+				"tags": ["short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2022/08/30/this-is-a.html",
 				
 				"content_html": "<p>This is a complicated subject, and so I understand why it doesn&rsquo;t get spoken about in public as often as other issues and ideas.</p>\n<p>However, I feel the need to admit that I am utterly jealous of the people who get paid to work. It is one difficult aspect of being a carer.</p>\n",
