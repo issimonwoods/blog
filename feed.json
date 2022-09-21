@@ -7,6 +7,87 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2022/09/20/another-incomplete-feature.html",
+				
+				"content_html": "<p>Another incomplete feature from Apple: AirPods connectivity.</p>\n<p>Allow me to connect the devices per machine and don&rsquo;t just automatically connect them to every single device I own without warning. Such an arrogant assumption to build into devices they describe as &ldquo;deeply personal&rdquo;.</p>\n",
+				"content_text": "Another incomplete feature from Apple: AirPods connectivity.\n\nAllow me to connect the devices per machine and don't just automatically connect them to every single device I own without warning. Such an arrogant assumption to build into devices they describe as \"deeply personal\".\n",
+				"date_published": "2022-09-20T17:13:42+01:00",
+				"url": "https://swoods.net/2022/09/20/another-incomplete-feature.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/09/20/exercise-shower-good.html",
+				
+				"content_html": "<p>exercise -&gt; shower = good to go</p>\n",
+				"content_text": "exercise -> shower = good to go\n",
+				"date_published": "2022-09-20T14:10:06+01:00",
+				"url": "https://swoods.net/2022/09/20/exercise-shower-good.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/09/19/i-dont-feel.html",
+				
+				"content_html": "<p>I don&rsquo;t feel comfortable with some of the conveniences of the smartphone. Sure, as a back-up in emergency situations, a lot of that makes sense.</p>\n<p>But continuous access to the weather? Or news? Or even conversations?</p>\n<p>Like, constant, never-ending, always-on? Doesn&rsquo;t feel good.</p>\n",
+				"content_text": "I don't feel comfortable with some of the conveniences of the smartphone. Sure, as a back-up in emergency situations, a lot of that makes sense.\n\nBut continuous access to the weather? Or news? Or even conversations?\n\nLike, constant, never-ending, always-on? Doesn't feel good.\n",
+				"date_published": "2022-09-19T22:09:44+01:00",
+				"url": "https://swoods.net/2022/09/19/i-dont-feel.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/09/15/test-microblog-seems.html",
+				
+				"content_html": "<p>test (micro.blog seems to having issues with posts and the timeline)</p>\n",
+				"content_text": "test (micro.blog seems to having issues with posts and the timeline)\n",
+				"date_published": "2022-09-15T17:12:24+01:00",
+				"url": "https://swoods.net/2022/09/15/test-microblog-seems.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/09/15/the-authors-speculate.html",
+				
+				"content_html": "<blockquote>\n<p>&hellip; the authors speculate that the therapy led to a “rebooting of the immune system”.</p>\n</blockquote>\n<p>— Ian Sample, <a href=\"https://www.theguardian.com/science/2022/sep/15/scientists-hail-autoimmune-disease-therapy-breakthrough-car-t-cell-lupus\">The Guardian</a></p>\n<p>T-cell therapy sounds <em>amazing</em>.</p>\n<p>For those who don&rsquo;t know: many health professionals have <em>zero</em> knowledge of autoimmune conditions. That&rsquo;s how little we know.</p>\n",
+				"content_text": "> ... the authors speculate that the therapy led to a “rebooting of the immune system”.\n\n— Ian Sample, [The Guardian](https://www.theguardian.com/science/2022/sep/15/scientists-hail-autoimmune-disease-therapy-breakthrough-car-t-cell-lupus)\n\nT-cell therapy sounds _amazing_.\n\nFor those who don't know: many health professionals have _zero_ knowledge of autoimmune conditions. That's how little we know.\n",
+				"date_published": "2022-09-15T16:56:33+01:00",
+				"url": "https://swoods.net/2022/09/15/the-authors-speculate.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/09/15/the-neistats-are.html",
+				
+				"content_html": "<p><a href=\"https://www.youtube.com/watch?v=4juSAp9jQjA\">The Neistats are back in New York</a>&hellip; the world is gradually recovering some of its former glory. I would happily watch the vlog if he brought it back.</p>\n",
+				"content_text": "[The Neistats are back in New York](https://www.youtube.com/watch?v=4juSAp9jQjA)... the world is gradually recovering some of its former glory. I would happily watch the vlog if he brought it back.\n",
+				"date_published": "2022-09-15T11:24:54+01:00",
+				"url": "https://swoods.net/2022/09/15/the-neistats-are.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/09/14/do-you-know.html",
+				
+				"content_html": "<p>re, <a href=\"https://www.manton.org/2022/09/14/needless-ratings.html\">Needless ratings</a></p>\n<p>Do you know what happens when we buy something from our local shops?</p>\n<ul>\n<li>we finish the purchase</li>\n<li>there might have been chatter, depending on how busy all involved are</li>\n<li>and then we get back to the rest of our day</li>\n</ul>\n<p>&hellip; it&rsquo;s like we&rsquo;re human beings or something 🤯</p>\n",
+				"content_text": "re, [Needless ratings](https://www.manton.org/2022/09/14/needless-ratings.html)\n\nDo you know what happens when we buy something from our local shops?\n\n- we finish the purchase\n- there might have been chatter, depending on how busy all involved are\n- and then we get back to the rest of our day\n\n... it's like we're human beings or something 🤯\n",
+				"date_published": "2022-09-14T18:14:18+01:00",
+				"url": "https://swoods.net/2022/09/14/do-you-know.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/09/14/as-a-result.html",
+				
+				"content_html": "<p>As a result of the move from last year, we are no longer using a TV anywhere in the house and I no longer have an iPad. I have since discovered that I <em>do not like</em> using my computer or phone for leisure activities (reading, watching, etc).</p>\n",
+				"content_text": "As a result of the move from last year, we are no longer using a TV anywhere in the house and I no longer have an iPad. I have since discovered that I _do not like_ using my computer or phone for leisure activities (reading, watching, etc).\n",
+				"date_published": "2022-09-14T16:28:27+01:00",
+				"url": "https://swoods.net/2022/09/14/as-a-result.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/09/14/when-it-comes.html",
+				
+				"content_html": "<blockquote>\n<p>When it comes to technology, my knowledge largely comes from my lack of fear over trying new things and pressing buttons just to see what they do.</p>\n</blockquote>\n<p>— Patrick Rhone, <a href=\"https://www.patrickrhone.net/handy/\">Handy</a></p>\n<p>It always feels good to discover that your approach to something you care about is shared by others.</p>\n",
+				"content_text": "> When it comes to technology, my knowledge largely comes from my lack of fear over trying new things and pressing buttons just to see what they do.\n\n— Patrick Rhone, [Handy](https://www.patrickrhone.net/handy/)\n\nIt always feels good to discover that your approach to something you care about is shared by others.\n",
+				"date_published": "2022-09-14T15:53:56+01:00",
+				"url": "https://swoods.net/2022/09/14/when-it-comes.html",
+				"tags": ["links","short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2022/09/13/well-im-never.html",
 				
 				"content_html": "<p>Well I&rsquo;m never going to Center Parcs. Utter madness.</p>\n",
@@ -496,7 +577,7 @@
 				"id": "http://simonmumbles.micro.blog/2022/07/13/232049.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2022/45f63c5926.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"https://swoods.net/uploads/2022/45f63c5926.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-07-13T23:20:49+01:00",
 				"url": "https://swoods.net/2022/07/13/232049.html",
 				"tags": ["short"]
