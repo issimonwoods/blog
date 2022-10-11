@@ -7,6 +7,69 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2022/10/11/the-recent-updates.html",
+				
+				"content_html": "<p>The recent updates <a href=\"https://www.manton.org/2022/10/10/big-improvements-to.html\">to ActivityPub on Micro.blog</a> are further proof of the strength of the non-silo approach; separate networks, working together, with zero ambition to trap people and harvest them for the skeevy ad-tech industry.</p>\n",
+				"content_text": "The recent updates [to ActivityPub on Micro.blog](https://www.manton.org/2022/10/10/big-improvements-to.html) are further proof of the strength of the non-silo approach; separate networks, working together, with zero ambition to trap people and harvest them for the skeevy ad-tech industry.\n",
+				"date_published": "2022-10-11T01:44:34+01:00",
+				"url": "https://swoods.net/2022/10/11/the-recent-updates.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/10/05/im-going-to.html",
+				
+				"content_html": "<p>I&rsquo;m going to try to replace the batteries of my watches. This feels like a slippery slope&hellip;</p>\n",
+				"content_text": "I'm going to try to replace the batteries of my watches. This feels like a slippery slope...\n",
+				"date_published": "2022-10-05T19:24:30+01:00",
+				"url": "https://swoods.net/2022/10/05/im-going-to.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/10/05/til-the-post.html",
+				
+				"content_html": "<p>TIL the post preview feature on the Micro.blog Mac app is <em>live</em>. That&rsquo;s a nice touch.</p>\n",
+				"content_text": "TIL the post preview feature on the Micro.blog Mac app is _live_. That's a nice touch.\n",
+				"date_published": "2022-10-05T16:56:33+01:00",
+				"url": "https://swoods.net/2022/10/05/til-the-post.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/10/05/craig-mods-page.html",
+				
+				"content_html": "<p>Craig Mod&rsquo;s <a href=\"https://craigmod.com/membership/\">page for his SPECIAL PROJECTS program</a> is very good.</p>\n",
+				"content_text": "Craig Mod's [page for his SPECIAL PROJECTS program](https://craigmod.com/membership/) is very good.\n",
+				"date_published": "2022-10-05T15:50:50+01:00",
+				"url": "https://swoods.net/2022/10/05/craig-mods-page.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/10/04/in-todays-you.html",
+				
+				"content_html": "<p>In today&rsquo;s You Know You Need Coffee When:</p>\n<p>-&gt; use <code>cmd-tab</code> <br>\n-&gt; type the word &ldquo;coffee&rdquo; as if it&rsquo;s an app</p>\n",
+				"content_text": "In today's You Know You Need Coffee When:\n\n-> use `cmd-tab` \\\n-> type the word \"coffee\" as if it's an app\n",
+				"date_published": "2022-10-04T15:53:16+01:00",
+				"url": "https://swoods.net/2022/10/04/in-todays-you.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/10/04/listening-dance-by.html",
+				
+				"content_html": "<p>Listening: <a href=\"https://www.youtube.com/watch?v=tCnBrrnOefs\">D.A.N.C.E., by Justice</a> 🎵</p>\n",
+				"content_text": "Listening: [D.A.N.C.E., by Justice](https://www.youtube.com/watch?v=tCnBrrnOefs) 🎵\n",
+				"date_published": "2022-10-04T15:36:42+01:00",
+				"url": "https://swoods.net/2022/10/04/listening-dance-by.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/10/04/listening-new-lands.html",
+				
+				"content_html": "<p>Listening: <a href=\"https://www.youtube.com/watch?v=-ecNe7eS-F8\">New Lands, by Justice</a> 🎵</p>\n",
+				"content_text": "Listening: [New Lands, by Justice](https://www.youtube.com/watch?v=-ecNe7eS-F8) 🎵\n",
+				"date_published": "2022-10-04T15:30:43+01:00",
+				"url": "https://swoods.net/2022/10/04/listening-new-lands.html",
+				"tags": ["links","short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2022/09/30/the-remarks-from.html",
 				
 				"content_html": "<p>The remarks <a href=\"https://www.bbc.co.uk/news/uk-england-london-63073489\">from senior coroner Andrew Walker re, the death of Molly Russell</a> are both heartbreaking and profound.</p>\n<p>We need to confront the reality of this digital world into which we have so quickly invested so much, including our children.</p>\n",
