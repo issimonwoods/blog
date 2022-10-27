@@ -7,6 +7,60 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2022/10/27/til-that-if.html",
+				
+				"content_html": "<p>TIL that if you click on a GIF in the Micro.blog Mac app, to open it in a separate window as you would with a still image, the GIF will play through its loop in the new window. That&rsquo;s quite clever.</p>\n",
+				"content_text": "TIL that if you click on a GIF in the Micro.blog Mac app, to open it in a separate window as you would with a still image, the GIF will play through its loop in the new window. That's quite clever.\n",
+				"date_published": "2022-10-27T17:17:28+01:00",
+				"url": "https://swoods.net/2022/10/27/til-that-if.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/10/25/im-wondering-just.html",
+				
+				"content_html": "<p>I&rsquo;m &ldquo;Wondering just how viable an amateur radio set-up would be at the moment 🤔&rdquo; levels of paranoid about and/or disinterested with the internet-based world.</p>\n",
+				"content_text": "I'm \"Wondering just how viable an amateur radio set-up would be at the moment 🤔\" levels of paranoid about and/or disinterested with the internet-based world.\n",
+				"date_published": "2022-10-25T19:04:40+01:00",
+				"url": "https://swoods.net/2022/10/25/im-wondering-just.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/10/25/listening-to-to.html",
+				
+				"content_html": "<p>Listening to <a href=\"https://soundcloud.com/jerryfolkmusic/to-my-soul-jerry-folk-1\">To My Soul, by Jerry Folk</a> 🎵</p>\n",
+				"content_text": "Listening to [To My Soul, by Jerry Folk](https://soundcloud.com/jerryfolkmusic/to-my-soul-jerry-folk-1) 🎵\n",
+				"date_published": "2022-10-25T11:00:49+01:00",
+				"url": "https://swoods.net/2022/10/25/listening-to-to.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/10/24/trying-out-the.html",
+				
+				"content_html": "<p>Trying out the free version of <a href=\"https://www.hogbaysoftware.com/bike/\">Bike</a>, with an eye on replacing Workflowy.</p>\n<p>I&rsquo;ve found that outlining has been much more useful for me to work through ideas as opposed to discreet note-taking, at least digitally.</p>\n",
+				"content_text": "Trying out the free version of [Bike](https://www.hogbaysoftware.com/bike/), with an eye on replacing Workflowy.\n\nI've found that outlining has been much more useful for me to work through ideas as opposed to discreet note-taking, at least digitally.\n",
+				"date_published": "2022-10-24T00:07:36+01:00",
+				"url": "https://swoods.net/2022/10/24/trying-out-the.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/10/22/huh-i-posted.html",
+				
+				"content_html": "<p>huh&hellip; I posted using Sunlit and two things happened:</p>\n<ul>\n<li>the text had to be above the photo but in the Sunlit timeline looks really nice underneath;</li>\n<li>and the Description I added in the app was either not really added despite saying so, or was somehow lost on its way to the blog.</li>\n</ul>\n",
+				"content_text": "huh... I posted using Sunlit and two things happened:\n\n- the text had to be above the photo but in the Sunlit timeline looks really nice underneath;\n- and the Description I added in the app was either not really added despite saying so, or was somehow lost on its way to the blog.\n",
+				"date_published": "2022-10-22T20:15:12+01:00",
+				"url": "https://swoods.net/2022/10/22/huh-i-posted.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/10/22/double-dog-day.html",
+				
+				"content_html": "<p>Double dog day is best day. Hogan is on the right, with his new friend Arlo on the left.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Double dog day is best day. Hogan is on the right, with his new friend Arlo on the left.\n\n<img src=\"https://swoods.net/uploads/2022/57e82b685a.jpg\" width=\"434\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-10-22T20:12:09+01:00",
+				"url": "https://swoods.net/2022/10/22/double-dog-day.html",
+				"tags": ["short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2022/10/21/watching-steve-jobs.html",
 				
 				"content_html": "<p>Watching Steve Jobs describe the screen of the original iPhone as &ldquo;really big&rdquo; and feeling sad that the awesome handheld computer got replaced by the compromised phablet.</p>\n<p>I don&rsquo;t want an &ldquo;all-in-one&rdquo; device or any of that crap. If I want a bigger screen then I&rsquo;ll get an iPad.</p>\n",
