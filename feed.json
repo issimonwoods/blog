@@ -7,11 +7,74 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2022/11/02/ive-yet-to.html",
+				
+				"content_html": "<p>I&rsquo;ve yet to figure out how to get myself into the healthier sleeping routine that I already know works well but I&rsquo;m working on it.</p>\n",
+				"content_text": "I've yet to figure out how to get myself into the healthier sleeping routine that I already know works well but I'm working on it.\n",
+				"date_published": "2022-11-02T00:04:39+00:00",
+				"url": "https://swoods.net/2022/11/02/ive-yet-to.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/11/01/its-micro-monday.html",
+				
+				"content_html": "<p>It&rsquo;s Micro Monday! My pick for this week is our beloved community manager, <a href=\"https://micro.blog/jean\">@jean</a>, who amongst about a million other things is currently leading the charge of this year&rsquo;s edition of the Microblogvember challenge.</p>\n<p>You can play along with this and other challenges via <a href=\"https://micro.blog/challenges\">@challenges</a>.</p>\n",
+				"content_text": "It's Micro Monday! My pick for this week is our beloved community manager, [@jean](https://micro.blog/jean), who amongst about a million other things is currently leading the charge of this year's edition of the Microblogvember challenge.\n\nYou can play along with this and other challenges via [@challenges](https://micro.blog/challenges).\n",
+				"date_published": "2022-11-01T01:24:42+00:00",
+				"url": "https://swoods.net/2022/11/01/its-micro-monday.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/10/31/a-piece-of.html",
+				
+				"content_html": "<p>A piece of wisdom I have come across in different forms, which holds greater truth the older I get:</p>\n<p>The loudest people tend to be a disproportionate representation of any given opinion or experience.</p>\n",
+				"content_text": "A piece of wisdom I have come across in different forms, which holds greater truth the older I get:\n\nThe loudest people tend to be a disproportionate representation of any given opinion or experience.\n",
+				"date_published": "2022-10-31T20:43:26+00:00",
+				"url": "https://swoods.net/2022/10/31/a-piece-of.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/10/31/i-have-had.html",
+				
+				"content_html": "<p>I have had difficulty working on <a href=\"https://micro.blog/TIL\">@TIL</a>. The majority of that stems from my life, and that of my family, being in an extended phase of that which I can only sum up as Everything All At Once.</p>\n<p>What does <em>not</em> stop me is worrying about how many Followers or Likes I have. It&rsquo;s nice.</p>\n",
+				"content_text": "I have had difficulty working on [@TIL](https://micro.blog/TIL). The majority of that stems from my life, and that of my family, being in an extended phase of that which I can only sum up as Everything All At Once.\n\nWhat does _not_ stop me is worrying about how many Followers or Likes I have. It's nice.\n",
+				"date_published": "2022-10-31T17:16:21+00:00",
+				"url": "https://swoods.net/2022/10/31/i-have-had.html",
+				"tags": ["Today I Learned","links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/10/29/we-now-have.html",
+				
+				"content_html": "<p>We now have Homepods in the house. The primary reason is to help the animals with the impending Bonfire Night celebrations, although now I want to get like&hellip; five more for the rest of the house.</p>\n<p>Damn you, Apple.</p>\n",
+				"content_text": "We now have Homepods in the house. The primary reason is to help the animals with the impending Bonfire Night celebrations, although now I want to get like... five more for the rest of the house.\n\nDamn you, Apple.\n",
+				"date_published": "2022-10-29T17:51:29+00:00",
+				"url": "https://swoods.net/2022/10/29/we-now-have.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/10/29/ever-since-claire.html",
+				
+				"content_html": "<p>Ever since Claire started her new job last month we have been able to regain the rhythm that comes with the Monday-to-Friday, 9-to-5 working week.</p>\n<p>As such, the weekend now arrives with its own feeling, and it feels so good to have that back in our lives.</p>\n",
+				"content_text": "Ever since Claire started her new job last month we have been able to regain the rhythm that comes with the Monday-to-Friday, 9-to-5 working week.\n\nAs such, the weekend now arrives with its own feeling, and it feels so good to have that back in our lives. \n",
+				"date_published": "2022-10-29T10:23:57+00:00",
+				"url": "https://swoods.net/2022/10/29/ever-since-claire.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/10/28/to-the-twitter.html",
+				
+				"content_html": "<p>To the Twitter evacuees:</p>\n<p>Welcome to a timeline in which our most shallow, instant, and entirely useless impulses are not sated; there are no Likes, no readily available inhumane statistics, and no quick way to stalk other people.</p>\n<p>Take a deep breath. Take your time.</p>\n<p>Hello 👋</p>\n",
+				"content_text": "To the Twitter evacuees:\n\nWelcome to a timeline in which our most shallow, instant, and entirely useless impulses are not sated; there are no Likes, no readily available inhumane statistics, and no quick way to stalk other people.\n\nTake a deep breath. Take your time.\n\nHello 👋\n",
+				"date_published": "2022-10-28T15:50:46+00:00",
+				"url": "https://swoods.net/2022/10/28/to-the-twitter.html",
+				"tags": ["short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2022/10/27/til-that-if.html",
 				
 				"content_html": "<p>TIL that if you click on a GIF in the Micro.blog Mac app, to open it in a separate window as you would with a still image, the GIF will play through its loop in the new window. That&rsquo;s quite clever.</p>\n",
 				"content_text": "TIL that if you click on a GIF in the Micro.blog Mac app, to open it in a separate window as you would with a still image, the GIF will play through its loop in the new window. That's quite clever.\n",
-				"date_published": "2022-10-27T17:17:28+01:00",
+				"date_published": "2022-10-27T16:17:28+00:00",
 				"url": "https://swoods.net/2022/10/27/til-that-if.html",
 				"tags": ["short"]
 			},
@@ -164,7 +227,7 @@
 				
 				"content_html": "<p>I, being of a mature and reasonable disposition have decided to take one of two contrasting paths when it comes to my handheld computer:</p>\n<ul>\n<li>Get a &ldquo;feature phone&rdquo; and keep the iPhone around for emergencies only.</li>\n<li>OR get the big iPhone and use it for as many years as possible.</li>\n</ul>\n",
 				"content_text": "I, being of a mature and reasonable disposition have decided to take one of two contrasting paths when it comes to my handheld computer:\n\n- Get a \"feature phone\" and keep the iPhone around for emergencies only.\n- OR get the big iPhone and use it for as many years as possible.\n",
-				"date_published": "2022-10-18T17:10:30+01:00",
+				"date_published": "2022-10-18T16:10:30+00:00",
 				"url": "https://swoods.net/2022/10/18/i-being-of.html",
 				"tags": ["short"]
 			},
@@ -245,7 +308,7 @@
 				
 				"content_html": "<p>In today&rsquo;s You Know You Need Coffee When:</p>\n<p>-&gt; use <code>cmd-tab</code> <br>\n-&gt; type the word &ldquo;coffee&rdquo; as if it&rsquo;s an app</p>\n",
 				"content_text": "In today's You Know You Need Coffee When:\n\n-> use `cmd-tab` \\\n-> type the word \"coffee\" as if it's an app\n",
-				"date_published": "2022-10-04T15:53:16+01:00",
+				"date_published": "2022-10-04T14:53:16+00:00",
 				"url": "https://swoods.net/2022/10/04/in-todays-you.html",
 				"tags": ["short"]
 			},
@@ -254,7 +317,7 @@
 				
 				"content_html": "<p>Listening: <a href=\"https://www.youtube.com/watch?v=tCnBrrnOefs\">D.A.N.C.E., by Justice</a> 🎵</p>\n",
 				"content_text": "Listening: [D.A.N.C.E., by Justice](https://www.youtube.com/watch?v=tCnBrrnOefs) 🎵\n",
-				"date_published": "2022-10-04T15:36:42+01:00",
+				"date_published": "2022-10-04T14:36:42+00:00",
 				"url": "https://swoods.net/2022/10/04/listening-dance-by.html",
 				"tags": ["links","short"]
 			},
@@ -425,7 +488,7 @@
 				
 				"content_html": "<p><a href=\"https://www.youtube.com/watch?v=4juSAp9jQjA\">The Neistats are back in New York</a>&hellip; the world is gradually recovering some of its former glory. I would happily watch the vlog if he brought it back.</p>\n",
 				"content_text": "[The Neistats are back in New York](https://www.youtube.com/watch?v=4juSAp9jQjA)... the world is gradually recovering some of its former glory. I would happily watch the vlog if he brought it back.\n",
-				"date_published": "2022-09-15T11:24:54+01:00",
+				"date_published": "2022-09-15T10:24:54+00:00",
 				"url": "https://swoods.net/2022/09/15/the-neistats-are.html",
 				"tags": ["links","short"]
 			},
