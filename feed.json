@@ -7,6 +7,87 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2022/11/11/is-it-me.html",
+				
+				"content_html": "<p>Is it me or is iOS 16.1 still buggy with parts of the system, such as keeping your place in Messages between closing and opening the app?</p>\n",
+				"content_text": "Is it me or is iOS 16.1 still buggy with parts of the system, such as keeping your place in Messages between closing and opening the app?\n",
+				"date_published": "2022-11-11T17:17:48+00:00",
+				"url": "https://swoods.net/2022/11/11/is-it-me.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/11/11/finding-something-other.html",
+				
+				"content_html": "<p>Finding something other than a stream on literally <em>two websites</em> is unreasonably difficult. I understand that I&rsquo;m An Old now and everything but have we really distorted the music industry to the point where the record shop convenience of merely 15 years ago is just gone?</p>\n",
+				"content_text": "Finding something other than a stream on literally _two websites_ is unreasonably difficult. I understand that I'm An Old now and everything but have we really distorted the music industry to the point where the record shop convenience of merely 15 years ago is just gone?\n",
+				"date_published": "2022-11-11T12:48:49+00:00",
+				"url": "https://swoods.net/2022/11/11/finding-something-other.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/11/10/the-engage-page.html",
+				
+				"content_html": "<p>The <a href=\"https://bylinesnetwork.co.uk/engage/\">&ldquo;Engage&rdquo; page for the Bylines Network</a> is a good example of an information hub; it&rsquo;s useful as well as explanatory, and (at least on my desktop) looks pretty good.</p>\n",
+				"content_text": "The [\"Engage\" page for the Bylines Network](https://bylinesnetwork.co.uk/engage/) is a good example of an information hub; it's useful as well as explanatory, and (at least on my desktop) looks pretty good.\n",
+				"date_published": "2022-11-10T14:07:18+00:00",
+				"url": "https://swoods.net/2022/11/10/the-engage-page.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/11/10/while-it-may.html",
+				
+				"content_html": "<blockquote>\n<p>While it may be more fun and exciting to develop new features than fix bugs, and may even bring in more users, it can end up being at the expense of your existing user base.</p>\n</blockquote>\n<p>— <a href=\"https://frostedechoes.net/when-is-software-too-indie/\">Robert Rackley, <em>When Is Software Too Indie?</em></a></p>\n",
+				"content_text": "> While it may be more fun and exciting to develop new features than fix bugs, and may even bring in more users, it can end up being at the expense of your existing user base.\n\n— [Robert Rackley, _When Is Software Too Indie?_](https://frostedechoes.net/when-is-software-too-indie/)\n",
+				"date_published": "2022-11-10T13:54:07+00:00",
+				"url": "https://swoods.net/2022/11/10/while-it-may.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/11/10/i-remembered-why.html",
+				
+				"content_html": "<p>I remembered why I like the concepts used on Mastodon, specifically the idea of a &ldquo;local instance&rdquo; vs &ldquo;wider instances&rdquo; — in which we just swap the word &ldquo;instance&rdquo; for &ldquo;timeline&rdquo; for those who are confused — since that is a reflection of physical communities; local vs wider.</p>\n",
+				"content_text": "I remembered why I like the concepts used on Mastodon, specifically the idea of a \"local instance\" vs \"wider instances\" — in which we just swap the word \"instance\" for \"timeline\" for those who are confused — since that is a reflection of physical communities; local vs wider.\n",
+				"date_published": "2022-11-10T10:43:28+00:00",
+				"url": "https://swoods.net/2022/11/10/i-remembered-why.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/11/10/stephen-fry-leaves.html",
+				
+				"content_html": "<p><em>Stephen Fry leaves Twitter</em> was not on my bingo card for 2022.</p>\n",
+				"content_text": "_Stephen Fry leaves Twitter_ was not on my bingo card for 2022.\n",
+				"date_published": "2022-11-10T10:38:11+00:00",
+				"url": "https://swoods.net/2022/11/10/stephen-fry-leaves.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/11/08/the-conversation-about.html",
+				
+				"content_html": "<p>The conversation about increasing the character limit for the Micro.blog timeline is interesting.</p>\n<p>I&rsquo;d hate to see this change happen, especially if there were no improvements made to replies.</p>\n<p>An excerpt feature for long posts would help. I assume this is difficult to implement.</p>\n",
+				"content_text": "The conversation about increasing the character limit for the Micro.blog timeline is interesting.\n\nI'd hate to see this change happen, especially if there were no improvements made to replies.\n\nAn excerpt feature for long posts would help. I assume this is difficult to implement.\n",
+				"date_published": "2022-11-08T02:03:29+00:00",
+				"url": "https://swoods.net/2022/11/08/the-conversation-about.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/11/08/now-that-ive.html",
+				
+				"content_html": "<p>Now that I&rsquo;ve failed another challenge, I can go back to rambling about tech purchases that I don&rsquo;t even have the money to buy.</p>\n",
+				"content_text": "Now that I've failed another challenge, I can go back to rambling about tech purchases that I don't even have the money to buy.\n",
+				"date_published": "2022-11-08T01:09:45+00:00",
+				"url": "https://swoods.net/2022/11/08/now-that-ive.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/11/07/just-pick-a.html",
+				
+				"content_html": "<p>&ldquo;Just pick a server&rdquo; is not the life-changing advice some people seem to think of it as being.</p>\n",
+				"content_text": "\"Just pick a server\" is not the life-changing advice some people seem to think of it as being.\n",
+				"date_published": "2022-11-07T14:35:04+00:00",
+				"url": "https://swoods.net/2022/11/07/just-pick-a.html",
+				"tags": ["short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2022/11/07/the-fun-part.html",
 				
 				"content_html": "<p>The fun part about spikes in activity on Micro.blog is all of the new feature requests that people like to make. It can be an eye-opener for me, especially when I get to learn just how old-fashioned I apparently am 😂</p>\n",
