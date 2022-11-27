@@ -7,6 +7,132 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2022/11/27/one-of-my.html",
+				
+				"content_html": "<p>One of my favourite things about Micro.blog is the <em>blog</em> part. I know lots of people have become strongly attached to timelines and the mechanisms therein; I hope the platform is never compromised by what is, for the most part, addiction-driven behaviour and expectations.</p>\n",
+				"content_text": "One of my favourite things about Micro.blog is the _blog_ part. I know lots of people have become strongly attached to timelines and the mechanisms therein; I hope the platform is never compromised by what is, for the most part, addiction-driven behaviour and expectations.\n",
+				"date_published": "2022-11-27T22:14:26+00:00",
+				"url": "https://swoods.net/2022/11/27/one-of-my.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/11/27/the-its-too.html",
+				
+				"content_html": "<p>The &ldquo;it&rsquo;s too complicated&rdquo; complaints about Mastodon are the same as the &ldquo;I&rsquo;m not paying for a social network&rdquo; complaints about Micro.blog.</p>\n<p>People have been trained into wanting everything for nothing on the web, and then living in denial about the true cost of the services.</p>\n",
+				"content_text": "The \"it's too complicated\" complaints about Mastodon are the same as the \"I'm not paying for a social network\" complaints about Micro.blog.\n\nPeople have been trained into wanting everything for nothing on the web, and then living in denial about the true cost of the services.\n",
+				"date_published": "2022-11-27T17:36:04+00:00",
+				"url": "https://swoods.net/2022/11/27/the-its-too.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/11/26/we-spent-four.html",
+				
+				"content_html": "<p>We spent four hours outside today. First Hogan&rsquo;s free-run, followed by the festive market. It was awesome; we were so ready to move to the country, and we&rsquo;ve only just begun.</p>\n",
+				"content_text": "We spent four hours outside today. First Hogan's free-run, followed by the festive market. It was awesome; we were so ready to move to the country, and we've only just begun.\n",
+				"date_published": "2022-11-26T18:02:31+00:00",
+				"url": "https://swoods.net/2022/11/26/we-spent-four.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/11/26/pared-down-the.html",
+				
+				"content_html": "<p>Pared down the apps on my phone&hellip; creating an environment that is much less reliant on the small computer starts this way; gradually establish non-computer tools as the primary option, then move onto experimenting with less capable phone alternatives.</p>\n",
+				"content_text": "Pared down the apps on my phone... creating an environment that is much less reliant on the small computer starts this way; gradually establish non-computer tools as the primary option, then move onto experimenting with less capable phone alternatives.\n",
+				"date_published": "2022-11-26T02:48:15+00:00",
+				"url": "https://swoods.net/2022/11/26/pared-down-the.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/11/26/listening-to-mmhhmm.html",
+				
+				"content_html": "<p>Listening to <a href=\"https://soundcloud.com/liamlry/mmhhmm\">MMHHMM, by LiamLRY</a> 🎵</p>\n",
+				"content_text": "Listening to [MMHHMM, by LiamLRY](https://soundcloud.com/liamlry/mmhhmm) 🎵\n",
+				"date_published": "2022-11-26T00:02:51+00:00",
+				"url": "https://swoods.net/2022/11/26/listening-to-mmhhmm.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/11/26/listening-to-boom.html",
+				
+				"content_html": "<p>Listening to <a href=\"https://soundcloud.com/todd-siesel/boom-bap\">Boom Bap, by Todd Siesel</a> 🎵</p>\n",
+				"content_text": "Listening to [Boom Bap, by Todd Siesel](https://soundcloud.com/todd-siesel/boom-bap) 🎵\n",
+				"date_published": "2022-11-26T00:00:28+00:00",
+				"url": "https://swoods.net/2022/11/26/listening-to-boom.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/11/25/per-my-last.html",
+				
+				"content_html": "<p>Per my last post, what a fantastic reminder that <a href=\"https://micro.blog/kocienda\">@kocienda</a> is on Micro.blog.</p>\n",
+				"content_text": "Per my last post, what a fantastic reminder that [@kocienda](https://micro.blog/kocienda) is on Micro.blog.\n",
+				"date_published": "2022-11-25T23:44:47+00:00",
+				"url": "https://swoods.net/2022/11/25/per-my-last.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/11/25/does-that-mean.html",
+				
+				"content_html": "<blockquote>\n<p>Does that mean that any future famous business-owning government official will have a row of badges? This seems like a recipe for confusion—or perhaps clutter—rather than clarity.</p>\n</blockquote>\n<p>— Ken Kocienda, <a href=\"https://kocienda.micro.blog/2022/11/25/thoughts-on-twitter.html\"><em>Thoughts on Twitter Verification</em></a></p>\n<p>Message boards have this feature. For hobbyists.</p>\n",
+				"content_text": "> Does that mean that any future famous business-owning government official will have a row of badges? This seems like a recipe for confusion—or perhaps clutter—rather than clarity.\n\n— Ken Kocienda, [_Thoughts on Twitter Verification_](https://kocienda.micro.blog/2022/11/25/thoughts-on-twitter.html)\n\nMessage boards have this feature. For hobbyists.\n",
+				"date_published": "2022-11-25T23:41:20+00:00",
+				"url": "https://swoods.net/2022/11/25/does-that-mean.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/11/25/the-pickmeapps-bundle.html",
+				
+				"content_html": "<p>The <a href=\"https://unclutterapp.com/bundle/\">Pick-Me-Apps bundle from the folks at Unclutter is pretty damned good</a>.</p>\n",
+				"content_text": "The [Pick-Me-Apps bundle from the folks at Unclutter is pretty damned good](https://unclutterapp.com/bundle/).\n",
+				"date_published": "2022-11-25T23:34:57+00:00",
+				"url": "https://swoods.net/2022/11/25/the-pickmeapps-bundle.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/11/25/listening-to-friendly.html",
+				
+				"content_html": "<p>Listening to <a href=\"https://music.apple.com/gb/album/friendly-neighborhood-spider-man-lo-fi/1612215008?i=1612215010\">Friendly Neighbourhood Spider-Man (Lo-Fi), by Lunar Beats</a> 🎵</p>\n",
+				"content_text": "Listening to [Friendly Neighbourhood Spider-Man (Lo-Fi), by Lunar Beats](https://music.apple.com/gb/album/friendly-neighborhood-spider-man-lo-fi/1612215008?i=1612215010) 🎵\n",
+				"date_published": "2022-11-25T17:46:32+00:00",
+				"url": "https://swoods.net/2022/11/25/listening-to-friendly.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/11/23/more-robin-sloan.html",
+				
+				"content_html": "<p>More Robin Sloan: settling on <a href=\"https://www.robinsloan.com/notes/definitions/\">definitions</a> for &ldquo;influencer&rdquo; and &ldquo;creator&rdquo;. // <a href=\"https://micro.blog/JohnPhilpin\">@JohnPhilpin</a></p>\n",
+				"content_text": "More Robin Sloan: settling on [definitions](https://www.robinsloan.com/notes/definitions/) for \"influencer\" and \"creator\". // [@JohnPhilpin](https://micro.blog/JohnPhilpin) \n",
+				"date_published": "2022-11-23T23:10:07+00:00",
+				"url": "https://swoods.net/2022/11/23/more-robin-sloan.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/11/23/robin-sloans-the.html",
+				
+				"content_html": "<p>Robin Sloan&rsquo;s <a href=\"https://www.robinsloan.com/lab/lost-thread/\"><em>The lost thread</em></a> is magical. Brilliant, up and down.</p>\n",
+				"content_text": "Robin Sloan's [_The lost thread_](https://www.robinsloan.com/lab/lost-thread/) is magical. Brilliant, up and down.\n",
+				"date_published": "2022-11-23T17:20:13+00:00",
+				"url": "https://swoods.net/2022/11/23/robin-sloans-the.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/11/23/woke-up-to.html",
+				
+				"content_html": "<p>Woke up to the wonderful sight of <a href=\"https://micro.blog/heyloura\">@heyloura</a>&rsquo;s one-off amongst the falling emoji 😂</p>\n",
+				"content_text": "Woke up to the wonderful sight of [@heyloura](https://micro.blog/heyloura)'s one-off amongst the falling emoji 😂\n",
+				"date_published": "2022-11-23T08:40:12+00:00",
+				"url": "https://swoods.net/2022/11/23/woke-up-to.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/11/22/frankly-apple-should.html",
+				
+				"content_html": "<blockquote>\n<p>Frankly, Apple should have the balls to say okay, we’re moving to two-year macOS major version updates.</p>\n</blockquote>\n<p>— Alan Ralph, <a href=\"https://alanralph.co.uk/2022/11/22/macos-meh/\"><em>macOS Meh</em></a></p>\n<p>💯</p>\n",
+				"content_text": "> Frankly, Apple should have the balls to say okay, we’re moving to two-year macOS major version updates.\n\n— Alan Ralph, [_macOS Meh_](https://alanralph.co.uk/2022/11/22/macos-meh/)\n\n💯\n",
+				"date_published": "2022-11-22T21:30:35+00:00",
+				"url": "https://swoods.net/2022/11/22/frankly-apple-should.html",
+				"tags": ["links","short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2022/11/22/lesspanicked-living.html",
 				"title": "Less-panicked living",
 				"content_html": "<p>In the past year we moved for work (my wife got opportunities that were not available in our previous location) and ended up in a fairly affluent, yet still diverse region; we&rsquo;re lucky in that there is a good mix of accepting technological changes but not excluding stable, traditional methods of, well, most aspects of life.</p>\n<p>Given that, I&rsquo;ve noticed that without the distortion field of an immediately nearby major urban centre people are much less inclined to be constantly driven by whatever latest shiny waste of time appears, whether from startups or desperate monopolists. Rather, people observe the wider world at a slower pace than <em>heart-attack-inducing</em> and most often continue to rely on well-established lines of communication; specifically, speak to your neighbours as first priority, care about your local politicians above all else, and so on.</p>\n<p>This has helped me to understand certain trends and opinions that I&rsquo;ve observed of people from outside of the tech/web/news bubble that so often dominates and defines online communities. It seems that people have got lives to live, and real changes to make rather than taking up their time screeching at a website.</p>\n<p>Overall, this makes me happy. If we&rsquo;re going to make important changes, and generally improve our world as much as possible we need people who are capable of maintaining perspective whilst doing the best they possibly can.</p>\n<p>(this post was inspired by <a href=\"https://micro.blog/maique/14320214\">this conversation on Micro.blog</a>)</p>\n",
