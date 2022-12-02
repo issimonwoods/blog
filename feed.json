@@ -7,6 +7,69 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2022/12/02/i-just-took.html",
+				
+				"content_html": "<p>I just took my AirPods, connected to my Mac, out and rather than keep the song paused — via Apple Music btw — it weirdly switched to my non-wireless headphones and continued playing. Yet more junk&hellip;</p>\n",
+				"content_text": "I just took my AirPods, connected to my Mac, out and rather than keep the song paused — via Apple Music btw — it weirdly switched to my non-wireless headphones and continued playing. Yet more junk... \n",
+				"date_published": "2022-12-02T11:44:32+00:00",
+				"url": "https://swoods.net/2022/12/02/i-just-took.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/12/02/lol-apples-nagging.html",
+				
+				"content_html": "<p>lol Apple&rsquo;s nagging notification about updating my iPhone&rsquo;s software caused the device to freeze up. idk about anyone at Apple but that&rsquo;s my definition of shipping junk.</p>\n",
+				"content_text": "lol Apple's nagging notification about updating my iPhone's software caused the device to freeze up. idk about anyone at Apple but that's my definition of shipping junk.\n",
+				"date_published": "2022-12-02T11:42:01+00:00",
+				"url": "https://swoods.net/2022/12/02/lol-apples-nagging.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/12/01/til-that-basecamp.html",
+				
+				"content_html": "<p>TIL that Basecamp <a href=\"https://trix-editor.org/\">made their editor available as open source</a>.</p>\n",
+				"content_text": "TIL that Basecamp [made their editor available as open source](https://trix-editor.org/).\n",
+				"date_published": "2022-12-01T01:40:10+00:00",
+				"url": "https://swoods.net/2022/12/01/til-that-basecamp.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/11/29/lets-see-if.html",
+				
+				"content_html": "<p>Let&rsquo;s see if I understand:</p>\n<p>The ActivityPub feature enables a version of your Micro.blog profile with which ActivityPub-enabled accounts from non-Micro.blog platforms can follow.</p>\n<ul>\n<li>(limited to Mastodon)</li>\n<li>(no access to the Mastodon version of that modified profile)</li>\n</ul>\n",
+				"content_text": "Let's see if I understand:\n\nThe ActivityPub feature enables a version of your Micro.blog profile with which ActivityPub-enabled accounts from non-Micro.blog platforms can follow.\n\n- (limited to Mastodon)\n- (no access to the Mastodon version of that modified profile)\n",
+				"date_published": "2022-11-29T20:16:51+00:00",
+				"url": "https://swoods.net/2022/11/29/lets-see-if.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/11/29/with-each-day.html",
+				
+				"content_html": "<p>With each day I feel an increasing attraction towards people who respect the importance of context.</p>\n<p>Quips feel good precisely because they lack context; they&rsquo;re low effort with the false impression of success. It&rsquo;s much harder to stay silent whilst learning.</p>\n",
+				"content_text": "With each day I feel an increasing attraction towards people who respect the importance of context.\n\nQuips feel good precisely because they lack context; they're low effort with the false impression of success. It's much harder to stay silent whilst learning.\n",
+				"date_published": "2022-11-29T17:59:32+00:00",
+				"url": "https://swoods.net/2022/11/29/with-each-day.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/11/29/activitypub-support-for.html",
+				
+				"content_html": "<p>ActivityPub support for Flickr would be an interesting idea, however the last I checked their native apps are still pretty bad.</p>\n<p>Improved plumbing should not come at the cost of nice experiences across the board. There is no reason we cannot do both.</p>\n",
+				"content_text": "ActivityPub support for Flickr would be an interesting idea, however the last I checked their native apps are still pretty bad.\n\nImproved plumbing should not come at the cost of nice experiences across the board. There is no reason we cannot do both.\n",
+				"date_published": "2022-11-29T09:39:31+00:00",
+				"url": "https://swoods.net/2022/11/29/activitypub-support-for.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/11/27/just-fucking-do.html",
+				
+				"content_html": "<blockquote>\n<p>Just fucking do it.</p>\n</blockquote>\n<p>— Terry Grier with <a href=\"https://www.youtube.com/watch?v=3h0Y6qE4TKg\">some honesty</a></p>\n<p>This is how I&rsquo;ve been feeling more and more. My iPhone is now one of my computers; the phone part is there until I&rsquo;m properly positioned (as soon as I have money; I can wait) to switch to a good, reliable mobile phone.</p>\n",
+				"content_text": ">Just fucking do it.\n\n— Terry Grier with [some honesty](https://www.youtube.com/watch?v=3h0Y6qE4TKg)\n\nThis is how I've been feeling more and more. My iPhone is now one of my computers; the phone part is there until I'm properly positioned (as soon as I have money; I can wait) to switch to a good, reliable mobile phone.\n",
+				"date_published": "2022-11-27T23:35:44+00:00",
+				"url": "https://swoods.net/2022/11/27/just-fucking-do.html",
+				"tags": ["links","short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2022/11/27/one-of-my.html",
 				
 				"content_html": "<p>One of my favourite things about Micro.blog is the <em>blog</em> part. I know lots of people have become strongly attached to timelines and the mechanisms therein; I hope the platform is never compromised by what is, for the most part, addiction-driven behaviour and expectations.</p>\n",
