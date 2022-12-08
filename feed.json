@@ -7,6 +7,78 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2022/12/08/ive-just-started.html",
+				
+				"content_html": "<p>I&rsquo;ve just started using the new Pinned Profiles feature in <a href=\"https://micro.blog/gluon\">@gluon</a> and it is another great example of why it is the best full Micro.blog app.</p>\n",
+				"content_text": "I've just started using the new Pinned Profiles feature in [@gluon](https://micro.blog/gluon) and it is another great example of why it is the best full Micro.blog app.\n",
+				"date_published": "2022-12-08T01:29:16+00:00",
+				"url": "https://swoods.net/2022/12/08/ive-just-started.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/12/07/or-rebelled-against.html",
+				
+				"content_html": "<blockquote>\n<p>&hellip; or rebelled against the increasingly unattainable aesthetic standards and unsustainable lifestyles exhibited on social media.</p>\n</blockquote>\n<p>Source: <a href=\"https://languages.oup.com/word-of-the-year/2022/\">Oxford Word of the Year 2022</a></p>\n<p>Perfect choice.</p>\n",
+				"content_text": "> ... or rebelled against the increasingly unattainable aesthetic standards and unsustainable lifestyles exhibited on social media.\r\n\r\nSource: [Oxford Word of the Year 2022](https://languages.oup.com/word-of-the-year/2022/)\r\n\r\nPerfect choice.\n",
+				"date_published": "2022-12-07T17:25:05+00:00",
+				"url": "https://swoods.net/2022/12/07/or-rebelled-against.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/12/07/i-now-have.html",
+				
+				"content_html": "<p>I now have my Instagram feed in my web reader, thanks to <a href=\"https://instagram-atom.appspot.com/\">Instagram Atom, by Ryan Barrett</a>. Much better.</p>\n<p>(h/t <a href=\"https://micro.blog/johnjohnston\">@johnjohnston</a>, whose opinion <a href=\"https://johnjohnston.info/blog/liked-re-launched-instagram-atom/\">I share entirely</a>)</p>\n",
+				"content_text": "I now have my Instagram feed in my web reader, thanks to [Instagram Atom, by Ryan Barrett](https://instagram-atom.appspot.com/). Much better.\n\n(h/t [@johnjohnston](https://micro.blog/johnjohnston), whose opinion [I share entirely](https://johnjohnston.info/blog/liked-re-launched-instagram-atom/))\n",
+				"date_published": "2022-12-07T17:16:23+00:00",
+				"url": "https://swoods.net/2022/12/07/i-now-have.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/12/07/filled-in-the.html",
+				
+				"content_html": "<p>Filled in the first page of my Theme System journal just now, preparing to start tomorrow morning.</p>\n<p>It took me 3 years to do that, however I am now excited to test my theory that I should have been journalling all along&hellip; literally for the past 20+ years, let alone 3.</p>\n",
+				"content_text": "Filled in the first page of my Theme System journal just now, preparing to start tomorrow morning.\n\nIt took me 3 years to do that, however I am now excited to test my theory that I should have been journalling all along... literally for the past 20+ years, let alone 3.\n",
+				"date_published": "2022-12-07T17:05:23+00:00",
+				"url": "https://swoods.net/2022/12/07/filled-in-the.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/12/06/this-well-observed.html",
+				
+				"content_html": "<p><a href=\"https://micro.blog/annahavron/14717217\">This well observed comment</a> from Anna Havron is why I made <a href=\"https://micro.blog/TIL\">@TIL</a>. I&rsquo;m attempting to be much more consistent with it, as well as make significant improvements for beginners.</p>\n<p>This has coincided with 18 months of uncertainty at home, and the unpaid work comes last.</p>\n",
+				"content_text": "[This well observed comment](https://micro.blog/annahavron/14717217) from Anna Havron is why I made [@TIL](https://micro.blog/TIL). I'm attempting to be much more consistent with it, as well as make significant improvements for beginners.\n\nThis has coincided with 18 months of uncertainty at home, and the unpaid work comes last.\n",
+				"date_published": "2022-12-06T21:16:30+00:00",
+				"url": "https://swoods.net/2022/12/06/this-well-observed.html",
+				"tags": ["Today I Learned","links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/12/05/who-said-it.html",
+				
+				"content_html": "<p><a href=\"https://www.youtube.com/watch?v=0RMdwA8GWB8\">Who Said It: Kanye or Hitler?</a></p>\n<p>Garfunkel And Oates accidentally saw it in 2009.</p>\n",
+				"content_text": "[Who Said It: Kanye or Hitler?](https://www.youtube.com/watch?v=0RMdwA8GWB8)\n\nGarfunkel And Oates accidentally saw it in 2009.\n",
+				"date_published": "2022-12-05T14:46:51+00:00",
+				"url": "https://swoods.net/2022/12/05/who-said-it.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/12/04/theres-a-lot.html",
+				
+				"content_html": "<blockquote>\n<p>&hellip; there&rsquo;s a lot more recourse if there is a specific lie in mainstream media than there is on a random website that someone&rsquo;s just put up there.</p>\n</blockquote>\n<p>— David Mitchell, <a href=\"https://www.youtube.com/watch?v=iYZbQIXoVMY\">on The Graham Norton Show a few years ago</a></p>\n<p>The whole comment is worth watching. Two minutes of a point well made.</p>\n",
+				"content_text": "> ... there's a lot more recourse if there is a specific lie in mainstream media than there is on a random website that someone's just put up there.\n\n— David Mitchell, [on The Graham Norton Show a few years ago](https://www.youtube.com/watch?v=iYZbQIXoVMY)\n\nThe whole comment is worth watching. Two minutes of a point well made.\n",
+				"date_published": "2022-12-04T21:47:38+00:00",
+				"url": "https://swoods.net/2022/12/04/theres-a-lot.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/12/03/this-year-were.html",
+				
+				"content_html": "<p>This year we&rsquo;re adding a movie to the holiday season rotation: School of Rock.</p>\n<p>Unsure if it fits in pre-Christmas, New Years, or the in-between week. Maybe it&rsquo;s one of those to fit in any part of the whole period. 🤔 📽</p>\n",
+				"content_text": "This year we're adding a movie to the holiday season rotation: School of Rock.\n\nUnsure if it fits in pre-Christmas, New Years, or the in-between week. Maybe it's one of those to fit in any part of the whole period. 🤔 📽\n",
+				"date_published": "2022-12-03T20:52:05+00:00",
+				"url": "https://swoods.net/2022/12/03/this-year-were.html",
+				"tags": ["short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2022/12/02/i-just-took.html",
 				
 				"content_html": "<p>I just took my AirPods, connected to my Mac, out and rather than keep the song paused — via Apple Music btw — it weirdly switched to my non-wireless headphones and continued playing. Yet more junk&hellip;</p>\n",
