@@ -7,6 +7,69 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2022/12/18/the-coffee-got.html",
+				
+				"content_html": "<p>the coffee got here 😭</p>\n",
+				"content_text": "the coffee got here 😭\n",
+				"date_published": "2022-12-18T14:15:26+00:00",
+				"url": "https://swoods.net/2022/12/18/the-coffee-got.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/12/17/its-interesting-to.html",
+				
+				"content_html": "<p>It&rsquo;s interesting to see how angry some people get when others say &ldquo;I don&rsquo;t want a smartphone and don&rsquo;t like what they&rsquo;re doing to us.&rdquo;</p>\n",
+				"content_text": "It's interesting to see how angry some people get when others say \"I don't want a smartphone and don't like what they're doing to us.\"\n",
+				"date_published": "2022-12-17T17:41:47+00:00",
+				"url": "https://swoods.net/2022/12/17/its-interesting-to.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/12/16/journalling-has-immediately.html",
+				
+				"content_html": "<p>Journalling has immediately become a relief valve. I need to try longer form writing and maybe even longer term planning (yearly planners, etc).</p>\n",
+				"content_text": "Journalling has immediately become a relief valve. I need to try longer form writing and maybe even longer term planning (yearly planners, etc).\n",
+				"date_published": "2022-12-16T00:35:23+00:00",
+				"url": "https://swoods.net/2022/12/16/journalling-has-immediately.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/12/15/anything-before-january.html",
+				
+				"content_html": "<p>Anything before January of 2020 feels like it&rsquo;s literally from another world.</p>\n",
+				"content_text": "Anything before January of 2020 feels like it's literally from another world.\n",
+				"date_published": "2022-12-15T17:34:49+00:00",
+				"url": "https://swoods.net/2022/12/15/anything-before-january.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/12/14/for-the-past.html",
+				
+				"content_html": "<p>For the past four days I have marked the beginning and end of my day by writing in my journal. This is the first time I have ever done so.</p>\n<p>Five days ago <a href=\"http://www.thecramped.com/december-9th-is-journal-day/\">Patrick Rhone wrote about Journal Day, on The Cramped</a>. I did not partake on that day, however I know I will next year. 📔</p>\n",
+				"content_text": "For the past four days I have marked the beginning and end of my day by writing in my journal. This is the first time I have ever done so.\n\nFive days ago [Patrick Rhone wrote about Journal Day, on The Cramped](http://www.thecramped.com/december-9th-is-journal-day/). I did not partake on that day, however I know I will next year. 📔\n",
+				"date_published": "2022-12-14T14:30:18+00:00",
+				"url": "https://swoods.net/2022/12/14/for-the-past.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/12/13/work-for-til.html",
+				
+				"content_html": "<p>Work for <a href=\"https://micro.blog/TIL\">@TIL</a> 2.0 continues and I am looking forward to talking about it closer to the release date. This includes details about my delayed progress (hint: it&rsquo;s been <em>a summer</em>).</p>\n<p>Meanwhile, I have updated <a href=\"https://today-i-learned.net/funding/\">the Funding page</a> with links, information, and improved language.</p>\n",
+				"content_text": "Work for [@TIL](https://micro.blog/TIL) 2.0 continues and I am looking forward to talking about it closer to the release date. This includes details about my delayed progress (hint: it's been _a summer_).\n\nMeanwhile, I have updated [the Funding page](https://today-i-learned.net/funding/) with links, information, and improved language.\n",
+				"date_published": "2022-12-13T12:38:32+00:00",
+				"url": "https://swoods.net/2022/12/13/work-for-til.html",
+				"tags": ["Today I Learned","links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/12/13/its-good-to.html",
+				
+				"content_html": "<p>It&rsquo;s good to see Matter announce their pricing plans. A subscription makes sense.</p>\n<p>I&rsquo;ve yet to decide whether I&rsquo;ll pay (when I can afford to do so) but even with barely any use I have been impressed by the mere existence of a Firefox extension. That bodes well.</p>\n",
+				"content_text": "It's good to see Matter announce their pricing plans. A subscription makes sense.\n\nI've yet to decide whether I'll pay (when I can afford to do so) but even with barely any use I have been impressed by the mere existence of a Firefox extension. That bodes well.\n",
+				"date_published": "2022-12-13T12:22:01+00:00",
+				"url": "https://swoods.net/2022/12/13/its-good-to.html",
+				"tags": ["short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2022/12/11/grant-wahl-died.html",
 				
 				"content_html": "<p>Grant Wahl died? Fuck&hellip;</p>\n",
