@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2022/12/21/hogan-took-his.html",
+				
+				"content_html": "<p>Hogan took his first trip with us on a bus today. It was a short journey but everything went well, <em>and</em> he got a walk around the large supermarket for the first time. We then made another couple of stops. Not that long ago this would have been an unusually active day outside.</p>\n",
+				"content_text": "Hogan took his first trip with us on a bus today. It was a short journey but everything went well, _and_ he got a walk around the large supermarket for the first time. We then made another couple of stops. Not that long ago this would have been an unusually active day outside.\n",
+				"date_published": "2022-12-21T12:03:05+00:00",
+				"url": "https://swoods.net/2022/12/21/hogan-took-his.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/12/21/i-heard-my.html",
+				
+				"content_html": "<p>I heard my second LP song this year. I have yet to hear more but I&rsquo;m confident that I&rsquo;ll be listening to her music for the rest of my life.</p>\n",
+				"content_text": "I heard my second LP song this year. I have yet to hear more but I'm confident that I'll be listening to her music for the rest of my life.\n",
+				"date_published": "2022-12-21T00:41:26+00:00",
+				"url": "https://swoods.net/2022/12/21/i-heard-my.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/12/21/tenth-day-of.html",
+				
+				"content_html": "<p>Tenth day of consecutive journalling complete. The positive consequences are potentially endless. 💪 📔</p>\n",
+				"content_text": "Tenth day of consecutive journalling complete. The positive consequences are potentially endless. 💪 📔\n",
+				"date_published": "2022-12-21T00:31:50+00:00",
+				"url": "https://swoods.net/2022/12/21/tenth-day-of.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/12/18/just-used-my.html",
+				
+				"content_html": "<p>Just used my dictionary for the first time in nearly two years. Feels good to be back in that space, both mentally and physically.</p>\n",
+				"content_text": "Just used my dictionary for the first time in nearly two years. Feels good to be back in that space, both mentally and physically.\n",
+				"date_published": "2022-12-18T18:15:54+00:00",
+				"url": "https://swoods.net/2022/12/18/just-used-my.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2022/12/18/indiekit-is-firmly.html",
+				
+				"content_html": "<blockquote>\n<p>Indiekit is firmly of the opinion that everyone should be able to enjoy the full benefits of independent web publishing.</p>\n</blockquote>\n<p>— Paul Robert Lloyd, <a href=\"https://paulrobertlloyd.com/articles/2022/12/indiekit/\"><em>Introducing Indiekit: The IndieWeb for Everyone</em></a></p>\n<p>Excited as this is going to help me properly host my own site for the first time.</p>\n",
+				"content_text": "> Indiekit is firmly of the opinion that everyone should be able to enjoy the full benefits of independent web publishing.\r\n\r\n— Paul Robert Lloyd, [_Introducing Indiekit: The IndieWeb for Everyone_](https://paulrobertlloyd.com/articles/2022/12/indiekit/)\r\n\r\nExcited as this is going to help me properly host my own site for the first time.\n",
+				"date_published": "2022-12-18T17:50:16+00:00",
+				"url": "https://swoods.net/2022/12/18/indiekit-is-firmly.html",
+				"tags": ["links","short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2022/12/18/the-coffee-got.html",
 				
 				"content_html": "<p>the coffee got here 😭</p>\n",
