@@ -7,6 +7,60 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2023/01/08/when-people-complain.html",
+				
+				"content_html": "<p>When people complain about &ldquo;the long dark cold nights of winter&rdquo; I&rsquo;m over here absolutely loving my winter clothes and the spooky dark and the refreshing rain and the sound of rain on the windows and the sweet comfort of a good hot drink and&hellip; just, I love it. ❄️</p>\n",
+				"content_text": "When people complain about \"the long dark cold nights of winter\" I'm over here absolutely loving my winter clothes and the spooky dark and the refreshing rain and the sound of rain on the windows and the sweet comfort of a good hot drink and... just, I love it. ❄️\n",
+				"date_published": "2023-01-08T18:52:36+00:00",
+				"url": "https://swoods.net/2023/01/08/when-people-complain.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/01/07/last-night-thanks.html",
+				
+				"content_html": "<p>Last night, thanks to TaskPaper, I used the Mac&rsquo;s Script Editor for the first time.</p>\n<p>Between this, the likes of BBEdit and the well established culture centred around the foundations of the web such as text, it&rsquo;s fair to say that switching to the Mac was a great decision.</p>\n",
+				"content_text": "Last night, thanks to TaskPaper, I used the Mac's Script Editor for the first time.\n\nBetween this, the likes of BBEdit and the well established culture centred around the foundations of the web such as text, it's fair to say that switching to the Mac was a great decision.\n",
+				"date_published": "2023-01-07T14:56:07+00:00",
+				"url": "https://swoods.net/2023/01/07/last-night-thanks.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/01/07/tiffany-white-has.html",
+				
+				"content_html": "<p>Tiffany White has organised a fundraiser, having been left in a bad situation thanks to&hellip; well, the world really. Let&rsquo;s help her get back on her feet!</p>\n<ul>\n<li>Her post in which <a href=\"https://tiff.wtf/2023/01/07/i-know-yall.html\">she explains the situation</a>.</li>\n<li>The GoFundMe <a href=\"https://www.gofundme.com/f/a-self-taught-software-dev-get-back-on-her-feet\">campaign page</a>.</li>\n<li><a href=\"https://micro.blog/tiff\">@tiff</a> on Micro.blog.</li>\n</ul>\n<p>Good luck, Tiffany. 💪</p>\n",
+				"content_text": "Tiffany White has organised a fundraiser, having been left in a bad situation thanks to... well, the world really. Let's help her get back on her feet!\n\n- Her post in which [she explains the situation](https://tiff.wtf/2023/01/07/i-know-yall.html).\n- The GoFundMe [campaign page](https://www.gofundme.com/f/a-self-taught-software-dev-get-back-on-her-feet).\n- [@tiff](https://micro.blog/tiff) on Micro.blog.\n\nGood luck, Tiffany. 💪\n",
+				"date_published": "2023-01-07T14:49:30+00:00",
+				"url": "https://swoods.net/2023/01/07/tiffany-white-has.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/01/04/now-that-we.html",
+				
+				"content_html": "<p>Now that we live much closer to London and life here is definitively much better when compared to our previous situation, I&rsquo;m going to spend some time thinking about Micro.blog meet-ups and the like. I had thought about this before now; it turns out moving is literally the worst.</p>\n",
+				"content_text": "Now that we live much closer to London and life here is definitively much better when compared to our previous situation, I'm going to spend some time thinking about Micro.blog meet-ups and the like. I had thought about this before now; it turns out moving is literally the worst.\n",
+				"date_published": "2023-01-04T16:34:59+00:00",
+				"url": "https://swoods.net/2023/01/04/now-that-we.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/01/04/ive-been-thinking.html",
+				
+				"content_html": "<p>I&rsquo;ve been thinking about the Twitter account for TIL, especially in light of the work I&rsquo;m doing for 2.0. Despite the temptation to disassociate entirely, it&rsquo;s important to be realistic about the sheer number of people who still blog there; it will remain as an exit sign.</p>\n",
+				"content_text": "I've been thinking about the Twitter account for TIL, especially in light of the work I'm doing for 2.0. Despite the temptation to disassociate entirely, it's important to be realistic about the sheer number of people who still blog there; it will remain as an exit sign.\n",
+				"date_published": "2023-01-04T16:32:02+00:00",
+				"url": "https://swoods.net/2023/01/04/ive-been-thinking.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/01/04/can-anybody-confirm.html",
+				
+				"content_html": "<p>Can anybody confirm that it is the year 2023 and Apple Calendar has no <em>Mark All As Read</em> for the events inbox?</p>\n",
+				"content_text": "Can anybody confirm that it is the year 2023 and Apple Calendar has no _Mark All As Read_ for the events inbox?\n",
+				"date_published": "2023-01-04T03:15:43+00:00",
+				"url": "https://swoods.net/2023/01/04/can-anybody-confirm.html",
+				"tags": ["short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2023/01/03/as-well-as.html",
 				
 				"content_html": "<p>As well as the 2.7 release of the Mac app today, there are <a href=\"https://news.micro.blog/categories/changes/\">a couple of other very nice touches</a> to Micro.blog. Auto-linking usernames will hopefully now involve fewer people using workarounds.</p>\n",
