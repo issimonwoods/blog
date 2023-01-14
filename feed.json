@@ -7,6 +7,60 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2023/01/12/one-day-the.html",
+				
+				"content_html": "<p>One day the Micro.blog team will include a Mastodon Developer, for sure. 😂</p>\n",
+				"content_text": "One day the Micro.blog team will include a Mastodon Developer, for sure. 😂\n",
+				"date_published": "2023-01-12T05:26:50+00:00",
+				"url": "https://swoods.net/2023/01/12/one-day-the.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/01/10/141700.html",
+				
+				"content_html": "<p>testing <a href=\"https://darby3.micro.blog/2023/01/10/heres-a-bookmarklet.html\">the new bookmarklet</a></p>\n",
+				"content_text": "testing [the new bookmarklet](https://darby3.micro.blog/2023/01/10/heres-a-bookmarklet.html)\n",
+				"date_published": "2023-01-10T14:17:00+00:00",
+				"url": "https://swoods.net/2023/01/10/141700.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/01/10/til-about-whoop.html",
+				
+				"content_html": "<p>TIL about <a href=\"https://www.whoop.com/\">Whoop</a> and now I know that I definitely lack any interest in getting a new Apple Watch.</p>\n<p>A fitness tracker without the screen and screen-based computing? Yes please.</p>\n",
+				"content_text": "TIL about [Whoop](https://www.whoop.com/) and now I know that I definitely lack any interest in getting a new Apple Watch.\n\nA fitness tracker without the screen and screen-based computing? Yes please.\n",
+				"date_published": "2023-01-10T14:13:45+00:00",
+				"url": "https://swoods.net/2023/01/10/til-about-whoop.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/01/09/i-like-letterboxd.html",
+				
+				"content_html": "<p>I like Letterboxd — it is a great example of how a modern social network should behave, from what I&rsquo;ve seen — but I&rsquo;m going to put the time in to create a local set of data for my film-viewing and then post selectively to my blog.</p>\n<p>Keeping my Letterboxd account in the meantime.</p>\n",
+				"content_text": "I like Letterboxd — it is a great example of how a modern social network should behave, from what I've seen — but I'm going to put the time in to create a local set of data for my film-viewing and then post selectively to my blog.\n\nKeeping my Letterboxd account in the meantime.\n",
+				"date_published": "2023-01-09T19:58:15+00:00",
+				"url": "https://swoods.net/2023/01/09/i-like-letterboxd.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/01/09/the-great-thing.html",
+				
+				"content_html": "<p>The great thing about the new UI for the Micro.blog Mac app is that I can now train myself out of immediately going into Conversation view for when I want to reply — I wasn&rsquo;t a fan of the previous menu-based design for interacting with posts.</p>\n",
+				"content_text": "The great thing about the new UI for the Micro.blog Mac app is that I can now train myself out of immediately going into Conversation view for when I want to reply — I wasn't a fan of the previous menu-based design for interacting with posts.\n",
+				"date_published": "2023-01-09T19:54:35+00:00",
+				"url": "https://swoods.net/2023/01/09/the-great-thing.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/01/09/i-enjoyed-reading.html",
+				
+				"content_html": "<p>I enjoyed reading <a href=\"https://json.blog/2023/01/01/letters-january-w.html\">the first week</a> of Jason Becker&rsquo;s new project, &ldquo;Letters&rdquo;. I&rsquo;m already excited about the notion of this type of project spreading throughout Micro.blog.</p>\n",
+				"content_text": "I enjoyed reading [the first week](https://json.blog/2023/01/01/letters-january-w.html) of Jason Becker's new project, \"Letters\". I'm already excited about the notion of this type of project spreading throughout Micro.blog.\n",
+				"date_published": "2023-01-09T19:50:47+00:00",
+				"url": "https://swoods.net/2023/01/09/i-enjoyed-reading.html",
+				"tags": ["links","short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2023/01/08/when-people-complain.html",
 				
 				"content_html": "<p>When people complain about &ldquo;the long dark cold nights of winter&rdquo; I&rsquo;m over here absolutely loving my winter clothes and the spooky dark and the refreshing rain and the sound of rain on the windows and the sweet comfort of a good hot drink and&hellip; just, I love it. ❄️</p>\n",
