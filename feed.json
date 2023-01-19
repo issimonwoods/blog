@@ -7,6 +7,123 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2023/01/18/stationery-is-much.html",
+				
+				"content_html": "<p>Stationery is <em>much</em> more attractive than any slab of glass or metal. There are times when software is dazzling, life-changing even. However, even glancing at the notebooks and dictionary and pens I&rsquo;ve had for <em>years</em> continues to inspire me. Physicality is special.</p>\n",
+				"content_text": "Stationery is _much_ more attractive than any slab of glass or metal. There are times when software is dazzling, life-changing even. However, even glancing at the notebooks and dictionary and pens I've had for _years_ continues to inspire me. Physicality is special.\n",
+				"date_published": "2023-01-18T22:02:34+00:00",
+				"url": "https://swoods.net/2023/01/18/stationery-is-much.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/01/18/the-updated-microblog.html",
+				
+				"content_html": "<p>The updated <a href=\"https://micro.blog\">Micro.blog homepage</a> is brilliant. Great job, <a href=\"https://micro.blog/jean\">@jean</a>, <a href=\"https://micro.blog/vincent\">@vincent</a>, and <a href=\"https://micro.blog/manton\">@manton</a>!</p>\n",
+				"content_text": "The updated [Micro.blog homepage](https://micro.blog) is brilliant. Great job, [@jean](https://micro.blog/jean), [@vincent](https://micro.blog/vincent), and [@manton](https://micro.blog/manton)!\n",
+				"date_published": "2023-01-18T15:21:28+00:00",
+				"url": "https://swoods.net/2023/01/18/the-updated-microblog.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/01/17/apple-being-the.html",
+				
+				"content_html": "<p>Apple being the first tech company of the year to announce new hardware feels weird.</p>\n<p>It probably isn&rsquo;t that uncommon but it doesn&rsquo;t feel that way.</p>\n",
+				"content_text": "Apple being the first tech company of the year to announce new hardware feels weird.\n\nIt probably isn't that uncommon but it doesn't feel that way.\n",
+				"date_published": "2023-01-17T20:42:28+00:00",
+				"url": "https://swoods.net/2023/01/17/apple-being-the.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/01/17/ive-increasingly-made.html",
+				
+				"content_html": "<p>I&rsquo;ve increasingly made use of the word &ldquo;publishing&rdquo; whenever I talk about actions we take on the web, especially those in full public view.</p>\n<p>I believe the word &ldquo;post&rdquo; or [Insert Brand Name Here] strips our actions of their meaning and removes the intentionality inherent within.</p>\n",
+				"content_text": "I've increasingly made use of the word \"publishing\" whenever I talk about actions we take on the web, especially those in full public view.\n\nI believe the word \"post\" or [Insert Brand Name Here] strips our actions of their meaning and removes the intentionality inherent within.\n",
+				"date_published": "2023-01-17T20:38:14+00:00",
+				"url": "https://swoods.net/2023/01/17/ive-increasingly-made.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/01/16/listening-to-draw.html",
+				
+				"content_html": "<p>Listening to <a href=\"https://www.last.fm/music/Cid+Rim/_/Draw+(Dorian+Concept+Remix)\">Draw (Dorian Concept Remix), by Cid Rim</a>. 🎵</p>\n",
+				"content_text": "Listening to [Draw (Dorian Concept Remix), by Cid Rim](https://www.last.fm/music/Cid+Rim/_/Draw+(Dorian+Concept+Remix)). 🎵\n",
+				"date_published": "2023-01-16T19:44:08+00:00",
+				"url": "https://swoods.net/2023/01/16/listening-to-draw.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/01/16/til-the-statue.html",
+				
+				"content_html": "<p>TIL the Statue of Liberty is not in New York.</p>\n",
+				"content_text": "TIL the Statue of Liberty is not in New York.\n",
+				"date_published": "2023-01-16T10:06:24+00:00",
+				"url": "https://swoods.net/2023/01/16/til-the-statue.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/01/16/coffee-down.html",
+				
+				"content_html": "<p>1 coffee down</p>\n",
+				"content_text": "1 coffee down\n",
+				"date_published": "2023-01-16T08:56:00+00:00",
+				"url": "https://swoods.net/2023/01/16/coffee-down.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/01/15/infrequent-reminder-that.html",
+				
+				"content_html": "<p>Infrequent reminder that Manton Reece was angry about this 11 years ago, and then <em>did something about it</em>.</p>\n<p>This isn&rsquo;t to brag on his behalf; rather, one of the many reasons as to why I wholeheartedly trust and have invested in Micro.blog.</p>\n",
+				"content_text": "Infrequent reminder that Manton Reece was angry about this 11 years ago, and then _did something about it_.\n\nThis isn't to brag on his behalf; rather, one of the many reasons as to why I wholeheartedly trust and have invested in Micro.blog.\n",
+				"date_published": "2023-01-15T23:56:33+00:00",
+				"url": "https://swoods.net/2023/01/15/infrequent-reminder-that.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/01/15/can-you-imagine.html",
+				
+				"content_html": "<p>Can you imagine the size of the file containing project names at Google?</p>\n",
+				"content_text": "Can you imagine the size of the file containing project names at Google?\n",
+				"date_published": "2023-01-15T17:06:38+00:00",
+				"url": "https://swoods.net/2023/01/15/can-you-imagine.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/01/14/rewatched-dune-villeneuve.html",
+				
+				"content_html": "<p>Re-watched Dune&hellip; Villeneuve is a force unto himself.</p>\n",
+				"content_text": "Re-watched Dune... Villeneuve is a force unto himself.\n",
+				"date_published": "2023-01-14T23:37:58+00:00",
+				"url": "https://swoods.net/2023/01/14/rewatched-dune-villeneuve.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/01/14/the-best-way.html",
+				
+				"content_html": "<p>The best way to travel around the web is to <em>always</em> remember one thing:</p>\n<p>Not everything is for you.</p>\n",
+				"content_text": "The best way to travel around the web is to _always_ remember one thing:\n\nNot everything is for you.\n",
+				"date_published": "2023-01-14T18:41:41+00:00",
+				"url": "https://swoods.net/2023/01/14/the-best-way.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/01/14/i-tapped-a.html",
+				
+				"content_html": "<p>I tapped a button on Overcast and have no idea what happened. Had a look on the website and Marco Arment&rsquo;s post about the redesign and&hellip; just nothing.</p>\n<p>Becoming less impressed by devs who think they can build software without an accompanying manual.</p>\n",
+				"content_text": "I tapped a button on Overcast and have no idea what happened. Had a look on the website and Marco Arment's post about the redesign and... just nothing.\n\nBecoming less impressed by devs who think they can build software without an accompanying manual.\n",
+				"date_published": "2023-01-14T15:05:12+00:00",
+				"url": "https://swoods.net/2023/01/14/i-tapped-a.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/01/14/marvels-spiderman-posted.html",
+				
+				"content_html": "<p>🎮 <a href=\"https://www.giantbomb.com/marvels-spider-man/3030-54233/\">Marvel&rsquo;s Spider-Man (2018)</a> - ★★★★★</p>\n<p><img src=\"https://www.giantbomb.com/a/uploads/original/0/3699/3037524-marvel%27s%20spider-man.jpg\" alt=\"Marvel&rsquo;s Spider-Man poster\"></p>\n<p>(posted via <a href=\"https://lantern.rknight.me/\">Lantern</a>)</p>\n",
+				"content_text": "🎮 [Marvel's Spider-Man (2018)](https://www.giantbomb.com/marvels-spider-man/3030-54233/) - ★★★★★\r\n\r\n![Marvel's Spider-Man poster](https://www.giantbomb.com/a/uploads/original/0/3699/3037524-marvel%27s%20spider-man.jpg)\r\n\r\n(posted via [Lantern](https://lantern.rknight.me/))\n",
+				"date_published": "2023-01-14T14:58:51+00:00",
+				"url": "https://swoods.net/2023/01/14/marvels-spiderman-posted.html",
+				"tags": ["links","short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2023/01/12/one-day-the.html",
 				
 				"content_html": "<p>One day the Micro.blog team will include a Mastodon Developer, for sure. 😂</p>\n",
