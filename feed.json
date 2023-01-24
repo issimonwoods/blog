@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2023/01/23/the-alleviated-weight.html",
+				
+				"content_html": "<p>The alleviated weight from triaging important paperwork is quite something. Suddenly so many things feel as if they are <em>possible</em>.</p>\n",
+				"content_text": "The alleviated weight from triaging important paperwork is quite something. Suddenly so many things feel as if they are _possible_.\n",
+				"date_published": "2023-01-23T16:44:42+00:00",
+				"url": "https://swoods.net/2023/01/23/the-alleviated-weight.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/01/21/i-only-had.html",
+				
+				"content_html": "<p>I only had one more book to add to a shelf for tonight and then Micro.blog&hellip; just fails. Darn.</p>\n",
+				"content_text": "I only had one more book to add to a shelf for tonight and then Micro.blog... just fails. Darn.\n",
+				"date_published": "2023-01-21T03:16:06+00:00",
+				"url": "https://swoods.net/2023/01/21/i-only-had.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/01/20/mozilla-are-now.html",
+				
+				"content_html": "<p>Mozilla are now <a href=\"https://support.mozilla.org/en-US/kb/extensions-button?redirectslug=unified-extensions&amp;redirectlocale=en-US#w_can-i-remove-the-extensions-button-from-the-toolbar-or-customize-its-location\">forcing a button into the toolbar for Firefox</a>.</p>\n<p>One of the main reasons I use this browser is because of the relatively easy customisation. <em>Flexibility</em> is paramount.</p>\n<p>&hellip; sigh. Another reason, once I&rsquo;ve figured out the Micro.blog issue that I&rsquo;ll go back to Safari.</p>\n",
+				"content_text": "Mozilla are now [forcing a button into the toolbar for Firefox](https://support.mozilla.org/en-US/kb/extensions-button?redirectslug=unified-extensions&redirectlocale=en-US#w_can-i-remove-the-extensions-button-from-the-toolbar-or-customize-its-location).\n\nOne of the main reasons I use this browser is because of the relatively easy customisation. _Flexibility_ is paramount.\n\n... sigh. Another reason, once I've figured out the Micro.blog issue that I'll go back to Safari.\n",
+				"date_published": "2023-01-20T00:21:28+00:00",
+				"url": "https://swoods.net/2023/01/20/mozilla-are-now.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/01/20/i-dont-think.html",
+				
+				"content_html": "<p>I don&rsquo;t think personal bloggers owe their audiences anything. It is almost irrelevant if you make changes or somehow compromise the reading experience. We&rsquo;re just lucky enough to see any part of your journey.</p>\n<p>Personal blogging is primarily for the writer, not the reader.</p>\n",
+				"content_text": "I don't think personal bloggers owe their audiences anything. It is almost irrelevant if you make changes or somehow compromise the reading experience. We're just lucky enough to see any part of your journey.\n\nPersonal blogging is primarily for the writer, not the reader.\n",
+				"date_published": "2023-01-20T00:11:39+00:00",
+				"url": "https://swoods.net/2023/01/20/i-dont-think.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/01/19/between-the-behaviour.html",
+				
+				"content_html": "<p>Between the behaviour of Nadella and Musk re; layoffs, I know which company I&rsquo;d consider for future employment.</p>\n",
+				"content_text": "Between the behaviour of Nadella and Musk re; layoffs, I know which company I'd consider for future employment.\n",
+				"date_published": "2023-01-19T21:24:36+00:00",
+				"url": "https://swoods.net/2023/01/19/between-the-behaviour.html",
+				"tags": ["short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2023/01/18/stationery-is-much.html",
 				
 				"content_html": "<p>Stationery is <em>much</em> more attractive than any slab of glass or metal. There are times when software is dazzling, life-changing even. However, even glancing at the notebooks and dictionary and pens I&rsquo;ve had for <em>years</em> continues to inspire me. Physicality is special.</p>\n",
