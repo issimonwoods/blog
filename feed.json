@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2023/04/17/still-catching-up.html",
+				
+				"content_html": "<p>Still catching up on ATP. I forgot how much I enjoy listening to <a href=\"https://micro.blog/siracusa@mastodon.social\">@siracusa@mastodon.social</a> talk about tech. It&rsquo;s always good to hear a rounded point-of-view that goes beyond the usual, knee-jerk reactions that fill up the various timelines.</p>\n",
+				"content_text": "Still catching up on ATP. I forgot how much I enjoy listening to [@siracusa@mastodon.social](https://micro.blog/siracusa@mastodon.social) talk about tech. It's always good to hear a rounded point-of-view that goes beyond the usual, knee-jerk reactions that fill up the various timelines.\n",
+				"date_published": "2023-04-17T23:31:40+01:00",
+				"url": "https://swoods.net/2023/04/17/still-catching-up.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/04/16/the-level-of.html",
+				
+				"content_html": "<p>The level of denial I continue to see in people with regard to the pandemic is amazing. I&rsquo;m not really surprised; after ten years of caring for my wife I&rsquo;ve had my eyes opened to the sheer effort the average person will invest in constantly running from the reality of our fragile humanity.</p>\n",
+				"content_text": "The level of denial I continue to see in people with regard to the pandemic is amazing. I'm not really surprised; after ten years of caring for my wife I've had my eyes opened to the sheer effort the average person will invest in constantly running from the reality of our fragile humanity.\n",
+				"date_published": "2023-04-16T23:54:52+01:00",
+				"url": "https://swoods.net/2023/04/16/the-level-of.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/04/16/having-inflicted-pointless.html",
+				
+				"content_html": "<p>Having inflicted pointless distractions upon myself over the past few days, I turned the corner by making a dent in the chores — specifically in the Eternal Chore, the kitchen — and now feel much better.</p>\n<p>Variety of work really does often get the job done. Need to put effort into better maintenance.</p>\n",
+				"content_text": "Having inflicted pointless distractions upon myself over the past few days, I turned the corner by making a dent in the chores — specifically in the Eternal Chore, the kitchen — and now feel much better.\n\nVariety of work really does often get the job done. Need to put effort into better maintenance.\n",
+				"date_published": "2023-04-16T17:47:10+01:00",
+				"url": "https://swoods.net/2023/04/16/having-inflicted-pointless.html",
+				"tags": ["short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2023/04/13/the-archive-download.html",
 				
 				"content_html": "<p>The archive download for my Twitter account failed (&ldquo;Something went wrong&rdquo;) and so I was pointed to a form to complete, the page for which is a 404.</p>\n<p>What a dumpster fire.</p>\n",
