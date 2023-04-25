@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2023/04/20/given-the-ability.html",
+				
+				"content_html": "<p>Given the ability to do so, I would make Private Eye freely available in all libraries, GPs, at bus stops, and in schools. Oh and football stadiums also.</p>\n<p>Too many people in this country have proven that they&rsquo;re unwilling to seek out good and effective literature insofar as the news is concerned.</p>\n",
+				"content_text": "Given the ability to do so, I would make Private Eye freely available in all libraries, GPs, at bus stops, and in schools. Oh and football stadiums also.\n\nToo many people in this country have proven that they're unwilling to seek out good and effective literature insofar as the news is concerned.\n",
+				"date_published": "2023-04-20T19:05:14+01:00",
+				"url": "https://swoods.net/2023/04/20/given-the-ability.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/04/20/the-number-of.html",
+				
+				"content_html": "<p>The number of pyramid schemes you see via adverts on YouTube is staggering. The web is awash with grift.</p>\n",
+				"content_text": "The number of pyramid schemes you see via adverts on YouTube is staggering. The web is awash with grift.\n",
+				"date_published": "2023-04-20T13:54:52+01:00",
+				"url": "https://swoods.net/2023/04/20/the-number-of.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/04/19/can-selfreporting-make.html",
+				"title": "Can self-reporting make Micro.blog seem less muddled?",
+				"content_html": "<p>The following is mostly in response to <a href=\"https://micro.blog/JohnPhilpin/18499446\">John Philpin&rsquo;s comment in a Micro.blog conversation</a>, specifically the third paragraph:</p>\n<blockquote>\n<p>To be clear - likely all very theoretical since micro blog is well below the radar, <strong>but it highlights how &lsquo;clarity&rsquo; on MicroBlog, takes work and iterations</strong> - and you can even break the rules and not know 😬.</p>\n</blockquote>\n<p>(emphasis mine)</p>\n<p>If we could find some lost treasure — and thus fund an expansions to the Micro.blog team — then it would be possible to produce regular mini-versions of the &ldquo;State of Micro.blog&rdquo; session from Micro Camp, focused on how these issues are being tackled on the platform.</p>\n<p>I say that because social issues — ethics, people, incidents, etc — are a moving target that require regular updates and can&rsquo;t be properly accounted for with the &ldquo;just trust us&rdquo; model that has been in use on social platforms for the past twenty years.</p>\n<p>For example: <a href=\"https://twitter.com/rahaeli/status/1594756281650524160\">rahaeli&rsquo;s minimum expectations when signing up for a new service</a> could be the type of checklist against which the team&rsquo;s efforts could be regularly self-reported as part of the aforementioned mini-session.</p>\n<p>I mean, maybe this kind of thing is already being discussed — I know there was an invitation for people to get involved via email last year and I failed to do so — and it&rsquo;s all still private at the moment. Either way there doesn&rsquo;t appear to be much going on, in an overtly public manner. Otherwise I don&rsquo;t think there would be a need to ask such questions for the concerns raised in the original thread.</p>\n",
+				"content_text": "The following is mostly in response to [John Philpin's comment in a Micro.blog conversation](https://micro.blog/JohnPhilpin/18499446), specifically the third paragraph:\n\n> To be clear - likely all very theoretical since micro blog is well below the radar, __but it highlights how 'clarity' on MicroBlog, takes work and iterations__ - and you can even break the rules and not know 😬.\n\n(emphasis mine)\n\nIf we could find some lost treasure — and thus fund an expansions to the Micro.blog team — then it would be possible to produce regular mini-versions of the \"State of Micro.blog\" session from Micro Camp, focused on how these issues are being tackled on the platform.\n\nI say that because social issues — ethics, people, incidents, etc — are a moving target that require regular updates and can't be properly accounted for with the \"just trust us\" model that has been in use on social platforms for the past twenty years.\n\nFor example: [rahaeli's minimum expectations when signing up for a new service](https://twitter.com/rahaeli/status/1594756281650524160) could be the type of checklist against which the team's efforts could be regularly self-reported as part of the aforementioned mini-session.\n\nI mean, maybe this kind of thing is already being discussed — I know there was an invitation for people to get involved via email last year and I failed to do so — and it's all still private at the moment. Either way there doesn't appear to be much going on, in an overtly public manner. Otherwise I don't think there would be a need to ask such questions for the concerns raised in the original thread.\n",
+				"date_published": "2023-04-19T18:52:47+01:00",
+				"url": "https://swoods.net/2023/04/19/can-selfreporting-make.html",
+				"tags": ["long","links"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2023/04/17/still-catching-up.html",
 				
 				"content_html": "<p>Still catching up on ATP. I forgot how much I enjoy listening to <a href=\"https://micro.blog/siracusa@mastodon.social\">@siracusa@mastodon.social</a> talk about tech. It&rsquo;s always good to hear a rounded point-of-view that goes beyond the usual, knee-jerk reactions that fill up the various timelines.</p>\n",
