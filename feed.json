@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2023/04/29/quote-tweets-are.html",
+				
+				"content_html": "<blockquote>\n<p>Quote tweets are happening but <strong>you can’t block anyone and muting doesn’t work</strong>.</p>\n</blockquote>\n<p>(emphasis mine)</p>\n<p>— <a href=\"https://www.theverge.com/2023/4/27/23701551/bluesky-skeets-now\">Elizabeth Lopatto</a>, <em>They&rsquo;re &lsquo;skeets&rsquo; now</em></p>\n<p>Is this post a joke or serious? Still trying to work out why Micro.blog is connected to this thing.</p>\n",
+				"content_text": "> Quote tweets are happening but __you can’t block anyone and muting doesn’t work__.\n\n(emphasis mine)\n\n— [Elizabeth Lopatto](https://www.theverge.com/2023/4/27/23701551/bluesky-skeets-now), _They're 'skeets' now_\n\nIs this post a joke or serious? Still trying to work out why Micro.blog is connected to this thing.\n",
+				"date_published": "2023-04-29T01:23:41+01:00",
+				"url": "https://swoods.net/2023/04/29/quote-tweets-are.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/04/27/til-how-to.html",
+				
+				"content_html": "<p>TIL how to hide extension icons in Safari.</p>\n",
+				"content_text": "TIL how to hide extension icons in Safari.\n",
+				"date_published": "2023-04-27T15:07:48+01:00",
+				"url": "https://swoods.net/2023/04/27/til-how-to.html",
+				"tags": ["short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2023/04/20/given-the-ability.html",
 				
 				"content_html": "<p>Given the ability to do so, I would make Private Eye freely available in all libraries, GPs, at bus stops, and in schools. Oh and football stadiums also.</p>\n<p>Too many people in this country have proven that they&rsquo;re unwilling to seek out good and effective literature insofar as the news is concerned.</p>\n",
