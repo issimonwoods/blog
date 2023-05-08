@@ -7,6 +7,96 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2023/05/07/til-about-saint.html",
+				
+				"content_html": "<p>TIL about Saint Pierre and Miquelon.</p>\n",
+				"content_text": "TIL about Saint Pierre and Miquelon.\n",
+				"date_published": "2023-05-07T18:54:12+01:00",
+				"url": "https://swoods.net/2023/05/07/til-about-saint.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/05/06/if-you-wouldnt.html",
+				
+				"content_html": "<blockquote>\n<p>If you wouldn&rsquo;t take someone&rsquo;s guide cane to show off how well you can twirl it about, you absolutely shouldn&rsquo;t be misusing alt text for the sake of a joke.</p>\n</blockquote>\n<p>— <a href=\"https://www.bbc.co.uk/news/newsbeat-65473838\">Becky Brynolf</a>, the head of social media at the Royal Institute of Blind People</p>\n",
+				"content_text": "> If you wouldn't take someone's guide cane to show off how well you can twirl it about, you absolutely shouldn't be misusing alt text for the sake of a joke.\n\n— [Becky Brynolf](https://www.bbc.co.uk/news/newsbeat-65473838), the head of social media at the Royal Institute of Blind People\n",
+				"date_published": "2023-05-06T01:55:36+01:00",
+				"url": "https://swoods.net/2023/05/06/if-you-wouldnt.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/05/05/registering-a-domain.html",
+				
+				"content_html": "<p>Registering a domain <a href=\"https://daringfireball.net/linked/2023/05/02/icloud-plus-domain-name-registration\">through your phone&rsquo;s <em>Settings app</em> is the ultimate competitor to domain sellers</a>.</p>\n<p>I wonder if you can do anything with it other than managing the Apple Mail integration. I mean, I doubt it but it would be cool if you could register it this way and then hook it up to a website.</p>\n",
+				"content_text": "Registering a domain [through your phone's _Settings app_ is the ultimate competitor to domain sellers](https://daringfireball.net/linked/2023/05/02/icloud-plus-domain-name-registration).\n\nI wonder if you can do anything with it other than managing the Apple Mail integration. I mean, I doubt it but it would be cool if you could register it this way and then hook it up to a website.\n",
+				"date_published": "2023-05-05T13:03:45+01:00",
+				"url": "https://swoods.net/2023/05/05/registering-a-domain.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/05/05/it-is-the.html",
+				
+				"content_html": "<p>It is the year 2023 and here I am having to <em>print out some bills</em>.</p>\n",
+				"content_text": "It is the year 2023 and here I am having to _print out some bills_.\n",
+				"date_published": "2023-05-05T10:39:40+01:00",
+				"url": "https://swoods.net/2023/05/05/it-is-the.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/05/05/practising-the-art.html",
+				
+				"content_html": "<p>Practising the art of ignoring the stupid shit people say.</p>\n<p>Feeling grateful that other people have extended that same courtesy to me.</p>\n",
+				"content_text": "Practising the art of ignoring the stupid shit people say.\n\nFeeling grateful that other people have extended that same courtesy to me.\n",
+				"date_published": "2023-05-05T03:36:43+01:00",
+				"url": "https://swoods.net/2023/05/05/practising-the-art.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/05/03/the-solution-to.html",
+				
+				"content_html": "<p>The solution to please a lot of people: Apple buys 1Password.</p>\n<p>&ldquo;But what about non-Apple platforms!?&rdquo; Here&rsquo;s the thing: Apple now has a chance to improve the part of their workforce that develops non-Apple apps, websites, and so on.</p>\n<p>It won&rsquo;t happen but I&rsquo;d be happy if it ever did.</p>\n",
+				"content_text": "The solution to please a lot of people: Apple buys 1Password.\n\n\"But what about non-Apple platforms!?\" Here's the thing: Apple now has a chance to improve the part of their workforce that develops non-Apple apps, websites, and so on.\n\nIt won't happen but I'd be happy if it ever did.\n",
+				"date_published": "2023-05-03T19:14:18+01:00",
+				"url": "https://swoods.net/2023/05/03/the-solution-to.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/05/02/testing-autocomplete-on.html",
+				
+				"content_html": "<p>testing auto-complete on the web, <a href=\"https://micro.blog/vincent\">@vincent</a> 👀</p>\n",
+				"content_text": "testing auto-complete on the web, [@vincent](https://micro.blog/vincent) 👀\n",
+				"date_published": "2023-05-02T19:20:32+01:00",
+				"url": "https://swoods.net/2023/05/02/testing-autocomplete-on.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/05/02/whenever-i-see.html",
+				
+				"content_html": "<p>Whenever I see people talk about Ticketmaster, it is never about how it is a good experience.</p>\n<p>Yet another physical activity translated into digital and nowhere near improved enough to justify removing the physical option.</p>\n",
+				"content_text": "Whenever I see people talk about Ticketmaster, it is never about how it is a good experience.\n\nYet another physical activity translated into digital and nowhere near improved enough to justify removing the physical option.\n",
+				"date_published": "2023-05-02T16:42:25+01:00",
+				"url": "https://swoods.net/2023/05/02/whenever-i-see.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/05/02/feeling-qualified-to.html",
+				
+				"content_html": "<p>Feeling qualified to teach a course on procrastination.</p>\n",
+				"content_text": "Feeling qualified to teach a course on procrastination.\n",
+				"date_published": "2023-05-02T15:27:42+01:00",
+				"url": "https://swoods.net/2023/05/02/feeling-qualified-to.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/05/02/the-ai-thing.html",
+				
+				"content_html": "<p>The &ldquo;AI&rdquo; thing is not new; as a species, we have always spent our energy on improving technology to make work obsolete.</p>\n<p>Now that the tech workers are facing exactly that, there are suddenly lots of think-pieces on the tech-worker-biased web about how &ldquo;everything is going to change 😱&rdquo;.</p>\n",
+				"content_text": "The \"AI\" thing is not new; as a species, we have always spent our energy on improving technology to make work obsolete.\n\nNow that the tech workers are facing exactly that, there are suddenly lots of think-pieces on the tech-worker-biased web about how \"everything is going to change 😱\".\n",
+				"date_published": "2023-05-02T15:19:20+01:00",
+				"url": "https://swoods.net/2023/05/02/the-ai-thing.html",
+				"tags": ["short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2023/04/29/quote-tweets-are.html",
 				
 				"content_html": "<blockquote>\n<p>Quote tweets are happening but <strong>you can’t block anyone and muting doesn’t work</strong>.</p>\n</blockquote>\n<p>(emphasis mine)</p>\n<p>— <a href=\"https://www.theverge.com/2023/4/27/23701551/bluesky-skeets-now\">Elizabeth Lopatto</a>, <em>They&rsquo;re &lsquo;skeets&rsquo; now</em></p>\n<p>Is this post a joke or serious? Still trying to work out why Micro.blog is connected to this thing.</p>\n",
