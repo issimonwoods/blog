@@ -7,6 +7,60 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2023/05/28/i-thought-the.html",
+				
+				"content_html": "<p>I thought the Discourse chat worked very well for Micro Camp.</p>\n<p>I wonder if anybody else thinks they would be a good space for further off-timeline chat?</p>\n<p>If I remember correctly I think <a href=\"https://micro.blog/pratik\">@pratik</a> floated the idea of it being an (un)official Micro.blog messaging service, which is interesting.</p>\n",
+				"content_text": "I thought the Discourse chat worked very well for Micro Camp.\n\nI wonder if anybody else thinks they would be a good space for further off-timeline chat?\n\nIf I remember correctly I think [@pratik](https://micro.blog/pratik) floated the idea of it being an (un)official Micro.blog messaging service, which is interesting.\n",
+				"date_published": "2023-05-28T16:50:01+01:00",
+				"url": "https://swoods.net/2023/05/28/i-thought-the.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/05/27/most-of-us.html",
+				
+				"content_html": "<blockquote>\n<p>Most of us use language like an awkward and crude tool to gesture vaguely at the inexpressible within.</p>\n</blockquote>\n<p>— Jeremy, <a href=\"https://weblog.restlesslens.me/2023/05/26/towards-better-postcards.html\"><em>Towards Better Postcards</em></a></p>\n",
+				"content_text": "> Most of us use language like an awkward and crude tool to gesture vaguely at the inexpressible within.\r\n\r\n— Jeremy, [_Towards Better Postcards_](https://weblog.restlesslens.me/2023/05/26/towards-better-postcards.html)\n",
+				"date_published": "2023-05-27T01:11:39+01:00",
+				"url": "https://swoods.net/2023/05/27/most-of-us.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/05/27/sed-posuere-consectetur.html",
+				
+				"content_html": "<p>Sed posuere consectetur est at lobortis. Vestibulum id ligula porta felis euismod semper. Etiam porta sem malesuada magna mollis euismod. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.</p>\n",
+				"content_text": "Sed posuere consectetur est at lobortis. Vestibulum id ligula porta felis euismod semper. Etiam porta sem malesuada magna mollis euismod. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.\n",
+				"date_published": "2023-05-27T00:07:45+01:00",
+				"url": "https://swoods.net/2023/05/27/sed-posuere-consectetur.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/05/26/had-a-fun.html",
+				
+				"content_html": "<p>Had a fun, short chat with <a href=\"https://micro.blog/jean\">@jean</a>, <a href=\"https://micro.blog/jsonbecker\">@jsonbecker</a>, and <a href=\"https://micro.blog/check\">@check</a> during Jean&rsquo;s first &ldquo;office hours&rdquo;. One of the things we talked about was feature requests and community involvement, and as a result I&rsquo;m going to share a couple of links to my blog:</p>\n<ul>\n<li><a href=\"https://swoods.net/2018/12/07/my-microblog-wishlist.html\">My Micro.blog Wishlist</a></li>\n<li><a href=\"https://swoods.net/categories/microblog-wishes/\">Microblog Wishes category</a></li>\n</ul>\n",
+				"content_text": "Had a fun, short chat with [@jean](https://micro.blog/jean), [@jsonbecker](https://micro.blog/jsonbecker), and [@check](https://micro.blog/check) during Jean's first \"office hours\". One of the things we talked about was feature requests and community involvement, and as a result I'm going to share a couple of links to my blog:\n\n- [My Micro.blog Wishlist](https://swoods.net/2018/12/07/my-microblog-wishlist.html)\n- [Microblog Wishes category](https://swoods.net/categories/microblog-wishes/)\n",
+				"date_published": "2023-05-26T22:39:46+01:00",
+				"url": "https://swoods.net/2023/05/26/had-a-fun.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/05/26/its-weird-how.html",
+				
+				"content_html": "<p>It&rsquo;s weird how we classify books; children&rsquo;s fiction, crime, history, etc. As if you&rsquo;re only interested in a certain book because it has been sorted into an arbitrary type and then judged accordingly.</p>\n<p>I understand that&rsquo;s how capitalism likes to do things but it&rsquo;s still odd.</p>\n",
+				"content_text": "It's weird how we classify books; children's fiction, crime, history, etc. As if you're only interested in a certain book because it has been sorted into an arbitrary type and then judged accordingly.\n\nI understand that's how capitalism likes to do things but it's still odd.\n",
+				"date_published": "2023-05-26T10:25:14+01:00",
+				"url": "https://swoods.net/2023/05/26/its-weird-how.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/05/23/i-enjoy-the.html",
+				
+				"content_html": "<p>I enjoy the individual style of people&rsquo;s writing. I have zero interest in what is produced after the robot has &ldquo;fixed it&rdquo; for you.</p>\n",
+				"content_text": "I enjoy the individual style of people's writing. I have zero interest in what is produced after the robot has \"fixed it\" for you.\n",
+				"date_published": "2023-05-23T18:57:57+01:00",
+				"url": "https://swoods.net/2023/05/23/i-enjoy-the.html",
+				"tags": ["short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2023/05/23/it-was-time.html",
 				
 				"content_html": "<p>It was time for an upgrade.</p>\n<!-- raw HTML omitted -->\n<p>And for scale:</p>\n<!-- raw HTML omitted -->\n",
@@ -783,8 +837,8 @@
 			{
 				"id": "http://simonmumbles.micro.blog/2023/03/06/after-an-unintentional.html",
 				
-				"content_html": "<p>After an unintentional ten-day break, I&rsquo;m back on my daily bullshit. I&rsquo;ve been enjoying the freedom of the dot grid format in a journalling book, like rows of tiles waiting to be connected. 📙</p>\n<p><img src=\"https://swoods.net/uploads/2023/4dc489bc1e.jpg\" alt=\"The empty page of a notebook, the &ldquo;Theme System journal&rdquo;\"></p>\n",
-				"content_text": "After an unintentional ten-day break, I'm back on my daily bullshit. I've been enjoying the freedom of the dot grid format in a journalling book, like rows of tiles waiting to be connected. 📙\n\n![The empty page of a notebook, the \"Theme System journal\"](https://swoods.net/uploads/2023/4dc489bc1e.jpg)\n",
+				"content_html": "<p>After an unintentional ten-day break, I&rsquo;m back on my daily bullshit. I&rsquo;ve been enjoying the freedom of the dot grid format in a journalling book, like rows of tiles waiting to be connected. 📙</p>\n<p><img src=\"https://cdn.uploads.micro.blog/1614/2023/4dc489bc1e.jpg\" alt=\"The empty page of a notebook, the &ldquo;Theme System journal&rdquo;\"></p>\n",
+				"content_text": "After an unintentional ten-day break, I'm back on my daily bullshit. I've been enjoying the freedom of the dot grid format in a journalling book, like rows of tiles waiting to be connected. 📙\n\n![The empty page of a notebook, the \"Theme System journal\"](https://cdn.uploads.micro.blog/1614/2023/4dc489bc1e.jpg)\n",
 				"date_published": "2023-03-06T12:21:48+01:00",
 				"url": "https://swoods.net/2023/03/06/after-an-unintentional.html",
 				"tags": ["links","short"]
