@@ -7,6 +7,69 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2023/07/05/ended-yesterday-in.html",
+				
+				"content_html": "<p>Ended yesterday in Pixelmator; started today in Pixelmator. Work on <a href=\"https://micro.blog/TIL\">@TIL</a> continues&hellip;</p>\n",
+				"content_text": "Ended yesterday in Pixelmator; started today in Pixelmator. Work on [@TIL](https://micro.blog/TIL) continues...\n",
+				"date_published": "2023-07-05T09:23:43+01:00",
+				"url": "https://swoods.net/2023/07/05/ended-yesterday-in.html",
+				"tags": ["Today I Learned","links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/07/04/i-watched-a.html",
+				
+				"content_html": "<p>I watched a video of the PM being &ldquo;grilled&rdquo; by a committee.</p>\n<p>Eh. The man clearly couldn&rsquo;t care less, and why should he be worried? The voting populace of this country wouldn&rsquo;t concern me at all.</p>\n",
+				"content_text": "I watched a video of the PM being \"grilled\" by a committee.\n\nEh. The man clearly couldn't care less, and why should he be worried? The voting populace of this country wouldn't concern me at all.\n",
+				"date_published": "2023-07-04T20:57:57+01:00",
+				"url": "https://swoods.net/2023/07/04/i-watched-a.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/07/03/it-feels-good.html",
+				
+				"content_html": "<p>It feels <a href=\"https://today-i-learned.net/2023/07/03/return-to-buy.html\">good to be back</a>:</p>\n<blockquote>\n<p>It has been both a lot of fun and a relief to work on TIL again. The feeling I get from connecting to more of the open web, at the cost of the closed web, is… comfort, I think?</p>\n</blockquote>\n",
+				"content_text": "It feels [good to be back](https://today-i-learned.net/2023/07/03/return-to-buy.html):\n\n> It has been both a lot of fun and a relief to work on TIL again. The feeling I get from connecting to more of the open web, at the cost of the closed web, is… comfort, I think?\n",
+				"date_published": "2023-07-03T11:36:56+01:00",
+				"url": "https://swoods.net/2023/07/03/it-feels-good.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/07/03/tomorrow-belatedly-a.html",
+				
+				"content_html": "<p>Tomorrow, belatedly, a new post on <a href=\"https://micro.blog/TIL\">@TIL</a>&hellip; 😮‍💨</p>\n",
+				"content_text": "Tomorrow, belatedly, a new post on [@TIL](https://micro.blog/TIL)... 😮‍💨\n",
+				"date_published": "2023-07-03T02:30:05+01:00",
+				"url": "https://swoods.net/2023/07/03/tomorrow-belatedly-a.html",
+				"tags": ["Today I Learned","links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/07/01/one-of-the.html",
+				
+				"content_html": "<p>One of the great lies told by the US corporate overlords of the web is that everything should be easy and without any effort.</p>\n<p>As if being online is so radically different from the real world <em>just because we wish it</em>.</p>\n<p>This is magical thinking nonsense in full effect.</p>\n",
+				"content_text": "One of the great lies told by the US corporate overlords of the web is that everything should be easy and without any effort.\n\nAs if being online is so radically different from the real world _just because we wish it_.\n\nThis is magical thinking nonsense in full effect.\n",
+				"date_published": "2023-07-01T23:20:42+01:00",
+				"url": "https://swoods.net/2023/07/01/one-of-the.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/06/30/transferred-to-partner.html",
+				
+				"content_html": "<p>&ldquo;TRANSFERRED TO PARTNER CARRIER&rdquo;</p>\n<p>My favourite message of yours so far, Fedex 🙏</p>\n",
+				"content_text": "\"TRANSFERRED TO PARTNER CARRIER\"\n\nMy favourite message of yours so far, Fedex 🙏\n",
+				"date_published": "2023-06-30T18:43:08+01:00",
+				"url": "https://swoods.net/2023/06/30/transferred-to-partner.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/06/30/the-new-password.html",
+				
+				"content_html": "<p>The new 1Password experience:</p>\n<ul>\n<li>Start saving login -&gt;</li>\n<li>Awkwardly find the generator via browser extension -&gt;</li>\n<li>Copy password to save in login -&gt;</li>\n<li>Login is <em>not</em> saved -&gt;</li>\n<li>Password has disappeared.</li>\n</ul>\n<p>I looked around and found no immediate way to get any help.</p>\n<p>Truly, a significant drop in standards.</p>\n",
+				"content_text": "The new 1Password experience:\n\n- Start saving login ->\n- Awkwardly find the generator via browser extension ->\n- Copy password to save in login ->\n- Login is _not_ saved ->\n- Password has disappeared.\n\nI looked around and found no immediate way to get any help.\n\nTruly, a significant drop in standards.\n",
+				"date_published": "2023-06-30T18:31:25+01:00",
+				"url": "https://swoods.net/2023/06/30/the-new-password.html",
+				"tags": ["short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2023/06/30/the-problem-with.html",
 				
 				"content_html": "<p>The problem with welcoming a Lab-Retriever into our home for the past year is that I now would like to give a home to all of the large dogs.</p>\n<p>&hellip; <em>all of them</em>.</p>\n",
