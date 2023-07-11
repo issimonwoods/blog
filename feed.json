@@ -7,6 +7,96 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2023/07/11/one-of-the.html",
+				
+				"content_html": "<p>One of the things I miss about the old social web is how much easier it was to avoid spoilers for films and television shows.</p>\n",
+				"content_text": "One of the things I miss about the old social web is how much easier it was to avoid spoilers for films and television shows.\n",
+				"date_published": "2023-07-11T20:57:09+01:00",
+				"url": "https://swoods.net/2023/07/11/one-of-the.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/07/10/via-microblog-news.html",
+				
+				"content_html": "<p>via <a href=\"https://news.micro.blog/2023/07/10/fixed-an-issue.html\">Micro.blog News</a>:</p>\n<blockquote>\n<p>Fixed an issue processing some Substack feeds. Also now prefers the full-length text of a post (newsletter email?) from Substack.</p>\n</blockquote>\n<p>Ahem. That&rsquo;s <em>content blob</em>, thank you very much.</p>\n",
+				"content_text": "via [Micro.blog News](https://news.micro.blog/2023/07/10/fixed-an-issue.html):\n\n> Fixed an issue processing some Substack feeds. Also now prefers the full-length text of a post (newsletter email?) from Substack.\n\nAhem. That's _content blob_, thank you very much.\n",
+				"date_published": "2023-07-10T19:08:22+01:00",
+				"url": "https://swoods.net/2023/07/10/via-microblog-news.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/07/10/ideas-inspire-the.html",
+				
+				"content_html": "<p>Ideas inspire the work.</p>\n<p>The work inspires ideas.</p>\n",
+				"content_text": "Ideas inspire the work.\n\nThe work inspires ideas.\n",
+				"date_published": "2023-07-10T19:03:33+01:00",
+				"url": "https://swoods.net/2023/07/10/ideas-inspire-the.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/07/10/a-minute-nap.html",
+				
+				"content_html": "<p>A 30-minute nap at midday is just what I needed 😌</p>\n",
+				"content_text": "A 30-minute nap at midday is just what I needed 😌\n",
+				"date_published": "2023-07-10T12:43:55+01:00",
+				"url": "https://swoods.net/2023/07/10/a-minute-nap.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/07/08/ive-been-comfortable.html",
+				
+				"content_html": "<p>I&rsquo;ve been comfortable on Micro.blog basically since the day I joined. That&rsquo;s over 5 years of feeling comfortable. Any changes made to the platform are unlikely to be the cause of my leaving.</p>\n<p>This is one of the reasons I no longer share any feature requests I might have.</p>\n<p>And that&rsquo;s all good :)</p>\n",
+				"content_text": "I've been comfortable on Micro.blog basically since the day I joined. That's over 5 years of feeling comfortable. Any changes made to the platform are unlikely to be the cause of my leaving.\n\nThis is one of the reasons I no longer share any feature requests I might have.\n\nAnd that's all good :)\n",
+				"date_published": "2023-07-08T18:35:28+01:00",
+				"url": "https://swoods.net/2023/07/08/ive-been-comfortable.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/07/08/the-sudden-presence.html",
+				
+				"content_html": "<p>The sudden presence of Threads, and its use by people who are literally saying &ldquo;I never had Twitter and don&rsquo;t know what this is&rdquo; is a reminder to those of us in the world of the open web and blogging:</p>\n<p>For <em>lots of people</em> Meta = the web. And it has been so for a long time.</p>\n",
+				"content_text": "The sudden presence of Threads, and its use by people who are literally saying \"I never had Twitter and don't know what this is\" is a reminder to those of us in the world of the open web and blogging:\n\nFor _lots of people_ Meta = the web. And it has been so for a long time.\n",
+				"date_published": "2023-07-08T14:26:48+01:00",
+				"url": "https://swoods.net/2023/07/08/the-sudden-presence.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/07/07/my-brain-is.html",
+				
+				"content_html": "<p>My brain is wired up&hellip; wrong/right:</p>\n<p>I never cared about the &ldquo;live&rdquo; aspect of Twitter. Having lived a life like lots of other people lucky enough to do so in a rich country, with approximately <em>zero</em> access to a live feed of the world; I was, and am happy with keeping news at a reasonable distance.</p>\n",
+				"content_text": "My brain is wired up... wrong/right:\n\nI never cared about the \"live\" aspect of Twitter. Having lived a life like lots of other people lucky enough to do so in a rich country, with approximately _zero_ access to a live feed of the world; I was, and am happy with keeping news at a reasonable distance.\n",
+				"date_published": "2023-07-07T14:13:19+01:00",
+				"url": "https://swoods.net/2023/07/07/my-brain-is.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/07/06/im-definitely-getting.html",
+				
+				"content_html": "<p>I&rsquo;m definitely getting older.</p>\n<p>Whilst I continue to dislike certain aspects of Meta, I am also unconvinced that vitriolic and sudden reactions truly contribute in any way to actually building something.</p>\n<p>It is <em>so easy</em> to be angry on the web. The real work is difficult, and requires a level head.</p>\n",
+				"content_text": "I'm definitely getting older.\n\nWhilst I continue to dislike certain aspects of Meta, I am also unconvinced that vitriolic and sudden reactions truly contribute in any way to actually building something.\n\nIt is _so easy_ to be angry on the web. The real work is difficult, and requires a level head.\n",
+				"date_published": "2023-07-06T22:09:36+01:00",
+				"url": "https://swoods.net/2023/07/06/im-definitely-getting.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/07/06/this-new-threads.html",
+				
+				"content_html": "<p>This new Threads app seems like a way for Meta to attempt to improve its reputation for the people who care about such things.</p>\n<p>The scale at which they operate means they can pretend to care about the open web, and it doesn&rsquo;t matter when they lie about such things.</p>\n",
+				"content_text": "This new Threads app seems like a way for Meta to attempt to improve its reputation for the people who care about such things.\n\nThe scale at which they operate means they can pretend to care about the open web, and it doesn't matter when they lie about such things.\n",
+				"date_published": "2023-07-06T20:42:05+01:00",
+				"url": "https://swoods.net/2023/07/06/this-new-threads.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/07/06/why-are-these.html",
+				
+				"content_html": "<p>Why are these trendy social networks launching with URLs for their website that <em>don&rsquo;t actually show the website</em>?</p>\n<p>Are there people who, like me, actually like websites and enjoy using the browser but for some reason enjoy hitting these walls? Is that a thing?</p>\n",
+				"content_text": "Why are these trendy social networks launching with URLs for their website that _don't actually show the website_?\n\nAre there people who, like me, actually like websites and enjoy using the browser but for some reason enjoy hitting these walls? Is that a thing?\n",
+				"date_published": "2023-07-06T19:20:12+01:00",
+				"url": "https://swoods.net/2023/07/06/why-are-these.html",
+				"tags": ["short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2023/07/05/ended-yesterday-in.html",
 				
 				"content_html": "<p>Ended yesterday in Pixelmator; started today in Pixelmator. Work on <a href=\"https://micro.blog/TIL\">@TIL</a> continues&hellip;</p>\n",
