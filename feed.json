@@ -7,6 +7,78 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2023/07/16/why-the-very.html",
+				
+				"content_html": "<p><a href=\"https://www.youtube.com/watch?v=zffyKT_37i4\">&hellip; why?</a></p>\n<p>— the very definition of life with a cat.</p>\n",
+				"content_text": "[... why?](https://www.youtube.com/watch?v=zffyKT_37i4)\n\n— the very definition of life with a cat.\n",
+				"date_published": "2023-07-16T19:31:51+01:00",
+				"url": "https://swoods.net/2023/07/16/why-the-very.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/07/16/its-been-fifteen.html",
+				
+				"content_html": "<p>It&rsquo;s been fifteen months since <a href=\"https://swoods.net/2022/04/04/the-newest-member.html\">Hogan became a part of the family</a>.</p>\n<p>Can confirm we&rsquo;ll <em>always</em> have at least one Retriever/Labrador/Retriever-Labrador in our family from now on.</p>\n",
+				"content_text": "It's been fifteen months since [Hogan became a part of the family](https://swoods.net/2022/04/04/the-newest-member.html).\n\nCan confirm we'll _always_ have at least one Retriever/Labrador/Retriever-Labrador in our family from now on.\n",
+				"date_published": "2023-07-16T19:27:54+01:00",
+				"url": "https://swoods.net/2023/07/16/its-been-fifteen.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/07/16/joels-baby-girl.html",
+				
+				"content_html": "<p>Joel&rsquo;s &ldquo;baby girl&rdquo; in episode 8 still knocks me out. Oof. 📺</p>\n",
+				"content_text": "Joel's \"baby girl\" in episode 8 still knocks me out. Oof. 📺\n",
+				"date_published": "2023-07-16T10:15:44+01:00",
+				"url": "https://swoods.net/2023/07/16/joels-baby-girl.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/07/16/ive-gone-from.html",
+				
+				"content_html": "<p>I&rsquo;ve gone from being somebody who has multiple CARROT widgets on my phone to being somebody who maybe checks the weather here or there. And I feel <em>much</em> better for it.</p>\n<p>The next move: get a digital radio for the kitchen, with which I will sometimes catch the weather of a morning.</p>\n",
+				"content_text": "I've gone from being somebody who has multiple CARROT widgets on my phone to being somebody who maybe checks the weather here or there. And I feel _much_ better for it.\n\nThe next move: get a digital radio for the kitchen, with which I will sometimes catch the weather of a morning.\n",
+				"date_published": "2023-07-16T10:11:40+01:00",
+				"url": "https://swoods.net/2023/07/16/ive-gone-from.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/07/15/we-recently-watched.html",
+				
+				"content_html": "<p>We recently watched John Wick 4, Dungeons &amp; Dragons, and Guardians of the Galaxy 3. All very good films, in different ways. 📽</p>\n",
+				"content_text": "We recently watched John Wick 4, Dungeons & Dragons, and Guardians of the Galaxy 3. All very good films, in different ways. 📽\n",
+				"date_published": "2023-07-15T02:12:46+01:00",
+				"url": "https://swoods.net/2023/07/15/we-recently-watched.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/07/12/today-is-a.html",
+				
+				"content_html": "<p>Today is a very Monday day.</p>\n",
+				"content_text": "Today is a very Monday day.\n",
+				"date_published": "2023-07-12T16:03:05+01:00",
+				"url": "https://swoods.net/2023/07/12/today-is-a.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/07/11/updated-my-mb.html",
+				
+				"content_html": "<p>Updated my MB bio:</p>\n<p>&ldquo;herder of small beasts&rdquo; -&gt; &ldquo;herder of beasts&rdquo;</p>\n<p>Hogan is in no way &ldquo;small&rdquo;.</p>\n",
+				"content_text": "Updated my MB bio:\n\n\"herder of small beasts\" -> \"herder of beasts\"\n\nHogan is in no way \"small\".\n",
+				"date_published": "2023-07-11T23:04:46+01:00",
+				"url": "https://swoods.net/2023/07/11/updated-my-mb.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/07/11/testing-mentions-after.html",
+				
+				"content_html": "<p>testing mentions:</p>\n<p>after a bracket (@challenges</p>\n<p>before a bracket <a href=\"https://micro.blog/challenges\">@challenges</a>)</p>\n<p>with a comma <a href=\"https://micro.blog/challenges\">@challenges</a>,</p>\n",
+				"content_text": "testing mentions:\n\nafter a bracket (@challenges \n\nbefore a bracket [@challenges](https://micro.blog/challenges))\n\nwith a comma [@challenges](https://micro.blog/challenges),\n",
+				"date_published": "2023-07-11T23:00:12+01:00",
+				"url": "https://swoods.net/2023/07/11/testing-mentions-after.html",
+				"tags": ["links","short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2023/07/11/one-of-the.html",
 				
 				"content_html": "<p>One of the things I miss about the old social web is how much easier it was to avoid spoilers for films and television shows.</p>\n",
