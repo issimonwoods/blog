@@ -7,6 +7,60 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2023/07/21/it-should-be.html",
+				
+				"content_html": "<p>It should be illegal for estate agents to describe 80Mbps as &ldquo;Super-fast&rdquo;.</p>\n",
+				"content_text": "It should be illegal for estate agents to describe 80Mbps as \"Super-fast\".\n",
+				"date_published": "2023-07-21T23:55:58+01:00",
+				"url": "https://swoods.net/2023/07/21/it-should-be.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/07/21/finally-completed-switching.html",
+				
+				"content_html": "<p>Finally completed switching the publishing schedule for <a href=\"https://micro.blog/TIL\">@TIL</a> from Fantastical to TaskPaper. This makes me happy for a number of reasons, not least of all is the fact that the work continues whilst simultaneously my working environment is greatly improved.</p>\n",
+				"content_text": "Finally completed switching the publishing schedule for [@TIL](https://micro.blog/TIL) from Fantastical to TaskPaper. This makes me happy for a number of reasons, not least of all is the fact that the work continues whilst simultaneously my working environment is greatly improved.\n",
+				"date_published": "2023-07-21T18:48:57+01:00",
+				"url": "https://swoods.net/2023/07/21/finally-completed-switching.html",
+				"tags": ["Today I Learned","links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/07/19/kudos-to-the.html",
+				
+				"content_html": "<p>Kudos to the brilliant indie developers who have to tolerate the terrible words of people who seem to think that an insult is constructive.</p>\n<p>You&rsquo;re truly doing great work by parsing out the incompetent communication of people who, for whatever reason, think that being mean is a route to success.</p>\n",
+				"content_text": "Kudos to the brilliant indie developers who have to tolerate the terrible words of people who seem to think that an insult is constructive.\n\nYou're truly doing great work by parsing out the incompetent communication of people who, for whatever reason, think that being mean is a route to success.\n",
+				"date_published": "2023-07-19T18:19:49+01:00",
+				"url": "https://swoods.net/2023/07/19/kudos-to-the.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/07/19/pro-tip-do.html",
+				
+				"content_html": "<p>Pro tip: do not miss the last step of your stairs, fall, and damage your toes. Turns out you need those for doing basically everything!</p>\n",
+				"content_text": "Pro tip: do not miss the last step of your stairs, fall, and damage your toes. Turns out you need those for doing basically everything!\n",
+				"date_published": "2023-07-19T16:53:58+01:00",
+				"url": "https://swoods.net/2023/07/19/pro-tip-do.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/07/17/claire-got-a.html",
+				
+				"content_html": "<p>Claire got a job offer for her dream location!</p>\n<p>um&hellip; now we need to move again</p>\n",
+				"content_text": "Claire got a job offer for her dream location!\n\num... now we need to move again\n",
+				"date_published": "2023-07-17T16:36:25+01:00",
+				"url": "https://swoods.net/2023/07/17/claire-got-a.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/07/16/i-am-famous.html",
+				
+				"content_html": "<p>I am &ldquo;Famous internet people who I have looked up to are starting to get diagnosed with cancer&rdquo; years-old.</p>\n",
+				"content_text": "I am \"Famous internet people who I have looked up to are starting to get diagnosed with cancer\" years-old.\n",
+				"date_published": "2023-07-16T23:21:22+01:00",
+				"url": "https://swoods.net/2023/07/16/i-am-famous.html",
+				"tags": ["short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2023/07/16/why-the-very.html",
 				
 				"content_html": "<p><a href=\"https://www.youtube.com/watch?v=zffyKT_37i4\">&hellip; why?</a></p>\n<p>— the very definition of life with a cat.</p>\n",
