@@ -7,6 +7,69 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2023/08/02/today-we-met.html",
+				
+				"content_html": "<p>Today we met a Rhodesian Ridgeback named Frank. He is 13 years-old, living with arthritis, and the most gentle sweetest boy 😭</p>\n",
+				"content_text": "Today we met a Rhodesian Ridgeback named Frank. He is 13 years-old, living with arthritis, and the most gentle sweetest boy 😭\n",
+				"date_published": "2023-08-02T13:56:49+01:00",
+				"url": "https://swoods.net/2023/08/02/today-we-met.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/08/02/much-prefer-the.html",
+				
+				"content_html": "<p>Much prefer the weather compared to last year&rsquo;s. Given our current set-up, extreme heat is the worst possibility. I&rsquo;m sure I&rsquo;ll feel differently once we get back to living on the coast and have a car.</p>\n",
+				"content_text": "Much prefer the weather compared to last year's. Given our current set-up, extreme heat is the worst possibility. I'm sure I'll feel differently once we get back to living on the coast and have a car.\n",
+				"date_published": "2023-08-02T09:30:26+01:00",
+				"url": "https://swoods.net/2023/08/02/much-prefer-the.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/07/30/finally-added-some.html",
+				
+				"content_html": "<p>Finally added some shortcuts to the Micro.blog Mac app. It was handy to have <a href=\"https://help.micro.blog/t/keyboard-shortcuts/2029\">the new Help document</a>.</p>\n<p>This included a reminder of the &ldquo;Go to User&hellip;&rdquo; feature, which is a wonderfully quick way to search for people. I assume it works the same way as Discover Search.</p>\n",
+				"content_text": "Finally added some shortcuts to the Micro.blog Mac app. It was handy to have [the new Help document](https://help.micro.blog/t/keyboard-shortcuts/2029).\n\nThis included a reminder of the \"Go to User...\" feature, which is a wonderfully quick way to search for people. I assume it works the same way as Discover Search.\n",
+				"date_published": "2023-07-30T19:10:38+01:00",
+				"url": "https://swoods.net/2023/07/30/finally-added-some.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/07/28/not-feeling-great.html",
+				
+				"content_html": "<p>Not feeling great about the fact that Apple charges £1400 for my computer and yet it&rsquo;s apparently only worth <em>£380</em> in trade-in value.</p>\n",
+				"content_text": "Not feeling great about the fact that Apple charges £1400 for my computer and yet it's apparently only worth _£380_ in trade-in value.\n",
+				"date_published": "2023-07-28T18:27:47+01:00",
+				"url": "https://swoods.net/2023/07/28/not-feeling-great.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/07/28/i-have-observed.html",
+				
+				"content_html": "<p>I have observed that a number of people do not know about &ldquo;internet weather&rdquo;.</p>\n<p>I&rsquo;m going to research whether the big companies running the big online platforms have better access to stable servers and related technology. I have a hunch this is true but need to confirm it.</p>\n",
+				"content_text": "I have observed that a number of people do not know about \"internet weather\".\n\nI'm going to research whether the big companies running the big online platforms have better access to stable servers and related technology. I have a hunch this is true but need to confirm it.\n",
+				"date_published": "2023-07-28T16:42:12+01:00",
+				"url": "https://swoods.net/2023/07/28/i-have-observed.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/07/28/the-problem-with.html",
+				
+				"content_html": "<p>The problem with working on stuff for Micro.blog is that I&rsquo;m looking at the timeline- and oops! there goes 30 minutes in the blink of an eye 😅</p>\n",
+				"content_text": "The problem with working on stuff for Micro.blog is that I'm looking at the timeline- and oops! there goes 30 minutes in the blink of an eye 😅\n",
+				"date_published": "2023-07-28T14:32:34+01:00",
+				"url": "https://swoods.net/2023/07/28/the-problem-with.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/07/28/i-wonder-if.html",
+				
+				"content_html": "<p>I wonder if there&rsquo;s something to a Micro.blog community meet-up in the week leading to Jean&rsquo;s <a href=\"https://micro.welltempered.net/2023/07/27/reminder-ill-be.html\">Community Manager Hours</a>. 🤔</p>\n<ul>\n<li>Multiple sessions for timezones, schedules, etc.</li>\n<li>A chance for people to pass on notes for Jean&rsquo;s session.</li>\n<li>Not recorded, kept private, just subject-specific notes.</li>\n</ul>\n",
+				"content_text": "I wonder if there's something to a Micro.blog community meet-up in the week leading to Jean's [Community Manager Hours](https://micro.welltempered.net/2023/07/27/reminder-ill-be.html). 🤔\n\n- Multiple sessions for timezones, schedules, etc.\n- A chance for people to pass on notes for Jean's session.\n- Not recorded, kept private, just subject-specific notes.\n",
+				"date_published": "2023-07-28T12:17:29+01:00",
+				"url": "https://swoods.net/2023/07/28/i-wonder-if.html",
+				"tags": ["links","short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2023/07/28/115645.html",
 				
 				"content_html": "<p>🆕🎙⏺😬🤞</p>\n",
