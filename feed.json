@@ -7,6 +7,78 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2023/09/02/those-who-speak.html",
+				
+				"content_html": "<p>&ldquo;Those who speak, don&rsquo;t know; and those who know,\ndon&rsquo;t speak.&rdquo;</p>\n",
+				"content_text": "\"Those who speak, don't know; and those who know,\ndon't speak.\"\n",
+				"date_published": "2023-09-02T22:29:05+01:00",
+				"url": "https://swoods.net/2023/09/02/those-who-speak.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/09/02/just-went-to.html",
+				
+				"content_html": "<p>Just went to Google Maps and suddenly North Wessex Downs has disappeared.</p>\n",
+				"content_text": "Just went to Google Maps and suddenly North Wessex Downs has disappeared.\n",
+				"date_published": "2023-09-02T17:22:53+01:00",
+				"url": "https://swoods.net/2023/09/02/just-went-to.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/09/02/michael-parkinson-died.html",
+				
+				"content_html": "<p>Michael Parkinson died!?</p>\n",
+				"content_text": "Michael Parkinson died!?\n",
+				"date_published": "2023-09-02T00:54:39+01:00",
+				"url": "https://swoods.net/2023/09/02/michael-parkinson-died.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/09/01/its-frustrating-to.html",
+				
+				"content_html": "<p>It&rsquo;s frustrating to feel good about the new photo challenge and then be met with two broken parts of Micro.blog:</p>\n<ul>\n<li>Sunlit, the exclusive photo-sharing app has not updated my custom domain which I changed over a year ago.</li>\n<li>The main app, which cuts off the text field when entering a description.</li>\n</ul>\n",
+				"content_text": "It's frustrating to feel good about the new photo challenge and then be met with two broken parts of Micro.blog:\r\n\r\n- Sunlit, the exclusive photo-sharing app has not updated my custom domain which I changed over a year ago.\r\n- The main app, which cuts off the text field when entering a description.\n",
+				"date_published": "2023-09-01T22:47:03+01:00",
+				"url": "https://swoods.net/2023/09/01/its-frustrating-to.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/09/01/a-september-heatwave.html",
+				
+				"content_html": "<p>A September heatwave just before we leave. One last &ldquo;fuck you&rdquo; from the inlands.</p>\n",
+				"content_text": "A September heatwave just before we leave. One last \"fuck you\" from the inlands.\n",
+				"date_published": "2023-09-01T13:56:50+01:00",
+				"url": "https://swoods.net/2023/09/01/a-september-heatwave.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/09/01/using-the-same.html",
+				
+				"content_html": "<p>Using the same trick as last time and bookmarking <a href=\"https://micro.blog/challenges/22878321\">the Photoblogging Prompts</a> to give me quick access to them outside of Gluon. 📷</p>\n",
+				"content_text": "Using the same trick as last time and bookmarking [the Photoblogging Prompts](https://micro.blog/challenges/22878321) to give me quick access to them outside of Gluon. 📷\n",
+				"date_published": "2023-09-01T08:25:55+01:00",
+				"url": "https://swoods.net/2023/09/01/using-the-same.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/08/30/its-great-to.html",
+				
+				"content_html": "<p>It&rsquo;s great to see that the folks at Hobinichi <a href=\"https://www.1101.com/store/techo/en/magazine/contents/y24_techo_shopping/2pe59jo9i.html\">have expanded their ordering system to include international customers</a>.</p>\n<p>I have picked out my planner for next year — giving the &ldquo;Cousin Avec&rdquo; a whirl this time — and look forward to Friday when orders become available. 📔</p>\n",
+				"content_text": "It's great to see that the folks at Hobinichi [have expanded their ordering system to include international customers](https://www.1101.com/store/techo/en/magazine/contents/y24_techo_shopping/2pe59jo9i.html).\n\nI have picked out my planner for next year — giving the \"Cousin Avec\" a whirl this time — and look forward to Friday when orders become available. 📔\n",
+				"date_published": "2023-08-30T01:11:08+01:00",
+				"url": "https://swoods.net/2023/08/30/its-great-to.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/08/24/ive-been-looking.html",
+				
+				"content_html": "<p>I&rsquo;ve been looking at some of the Hello pages <a href=\"https://alastairjohnston.com/introducing-hello-pages/\">linked to by Alastair Johnston</a>. It&rsquo;s been several months since I first read his introduction and the appeal has only grown stronger.</p>\n",
+				"content_text": "I've been looking at some of the Hello pages [linked to by Alastair Johnston](https://alastairjohnston.com/introducing-hello-pages/). It's been several months since I first read his introduction and the appeal has only grown stronger.\n",
+				"date_published": "2023-08-24T10:55:52+01:00",
+				"url": "https://swoods.net/2023/08/24/ive-been-looking.html",
+				"tags": ["links","short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2023/08/23/degree-night-forecast.html",
 				
 				"content_html": "<p>10-degree night forecast for Thursday into Friday. Autumn is keen to get here and I am so happy about that.</p>\n",
