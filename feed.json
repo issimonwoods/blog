@@ -7,10 +7,28 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2023/10/03/the-internet-has.html",
+				
+				"content_html": "<p>The internet has now become a much less reliable fixture of our life.</p>\n<p>My early thoughts are mostly positive. I have quickly entered a personal phase of reflection, which feels much overdue.</p>\n",
+				"content_text": "The internet has now become a much less reliable fixture of our life.\r\n\r\nMy early thoughts are mostly positive. I have quickly entered a personal phase of reflection, which feels much overdue.\n",
+				"date_published": "2023-10-03T00:38:24+01:00",
+				"url": "https://swoods.net/2023/10/03/the-internet-has.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/10/01/pro-tip-when.html",
+				
+				"content_html": "<p>Pro tip: when opening a shipping container, you open one door <em>first</em>. Because science.</p>\n",
+				"content_text": "Pro tip: when opening a shipping container, you open one door _first_. Because science. \n",
+				"date_published": "2023-10-01T09:00:07+01:00",
+				"url": "https://swoods.net/2023/10/01/pro-tip-when.html",
+				"tags": ["short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2023/09/26/turns-out-i.html",
 				
-				"content_html": "<p>Turns out I should have brought at least some of my coffee tools to our temporary home. It’s a much smaller place but there’s nothing like the drink you learn to make yourself. For now, a single cafeteria will have to do.</p>\n",
-				"content_text": "Turns out I should have brought at least some of my coffee tools to our temporary home. It’s a much smaller place but there’s nothing like the drink you learn to make yourself. For now, a single cafeteria will have to do.\n",
+				"content_html": "<p>Turns out I should have brought at least some of my coffee tools to our temporary home. It’s a much smaller place but there’s nothing like the drink you learn to make yourself. For now, a single cafetière will have to do.</p>\n",
+				"content_text": "Turns out I should have brought at least some of my coffee tools to our temporary home. It’s a much smaller place but there’s nothing like the drink you learn to make yourself. For now, a single cafetière will have to do.\n",
 				"date_published": "2023-09-26T13:47:27+01:00",
 				"url": "https://swoods.net/2023/09/26/turns-out-i.html",
 				"tags": ["short"]
