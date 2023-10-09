@@ -7,6 +7,69 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2023/10/09/using-microblog-on.html",
+				
+				"content_html": "<p>Using Micro.blog on the Mac: 1.9.3</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Using Micro.blog on the Mac: 1.9.3\n\n\n\n<img src=\"uploads/2023/22001dc6f5.jpg\" width=\"498\" height=\"330\" alt=\"\">\n",
+				"date_published": "2023-10-09T12:41:04+01:00",
+				"url": "https://swoods.net/2023/10/09/using-microblog-on.html",
+				"tags": ["short","photos"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/10/07/beach-visit-hogan.html",
+				
+				"content_html": "<p>Beach visit. Hogan approves.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Beach visit. Hogan approves.\n\n<img src=\"uploads/2023/7f56701e12.jpg\" width=\"450\" height=\"600\" alt=\"A wet golden Labrador standing up against a fence, with his head turned towards the camera.\">\n",
+				"date_published": "2023-10-07T15:42:20+01:00",
+				"url": "https://swoods.net/2023/10/07/beach-visit-hogan.html",
+				"tags": ["short","photos"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/10/06/test.html",
+				
+				"content_html": "<p>test</p>\n",
+				"content_text": "test\n",
+				"date_published": "2023-10-06T09:07:58+01:00",
+				"url": "https://swoods.net/2023/10/06/test.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/10/05/an-unexpected-gift.html",
+				
+				"content_html": "<p>An unexpected gift whilst I was gone; Patrick Rhone started a <a href=\"https://foryou.micro.blog/\">new blog</a> and it is of course brilliant.</p>\n<p>Given that we&rsquo;ve just moved to a part of this country in which two ideas are immediately present; independence is paramount <em>and</em> only trust in others can build our world; I am grateful for this.</p>\n",
+				"content_text": "An unexpected gift whilst I was gone; Patrick Rhone started a [new blog](https://foryou.micro.blog/) and it is of course brilliant.\r\n\r\nGiven that we've just moved to a part of this country in which two ideas are immediately present; independence is paramount _and_ only trust in others can build our world; I am grateful for this.\n",
+				"date_published": "2023-10-05T16:41:43+01:00",
+				"url": "https://swoods.net/2023/10/05/an-unexpected-gift.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/10/05/i-failed-to.html",
+				
+				"content_html": "<p>I <a href=\"https://swoods.net/2023/10/05/one-of-the.html\">failed</a> to participate in the photoblogging challenge — it was a hilariously short-sighted goal tbh — but I have got some work done for TIL and blogged a little, even in our current transitory state.</p>\n<p>I&rsquo;ll take the little wins.</p>\n",
+				"content_text": "I [failed](https://swoods.net/2023/10/05/one-of-the.html) to participate in the photoblogging challenge — it was a hilariously short-sighted goal tbh — but I have got some work done for TIL and blogged a little, even in our current transitory state.\r\n\r\nI'll take the little wins.\n",
+				"date_published": "2023-10-05T16:32:54+01:00",
+				"url": "https://swoods.net/2023/10/05/i-failed-to.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/10/05/so-nice-to.html",
+				
+				"content_html": "<p>So nice to see Akamai continuing the good work of destroying Linode&rsquo;s reputation.</p>\n",
+				"content_text": "So nice to see Akamai continuing the good work of destroying Linode's reputation.\n",
+				"date_published": "2023-10-05T16:11:58+01:00",
+				"url": "https://swoods.net/2023/10/05/so-nice-to.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/10/05/one-of-the.html",
+				
+				"content_html": "<p>One of the best things about this move — the end is in sight — is that, as a result of our goal to never leave this county, it is highly unlikely our lives will be so affected by upheaval that I&rsquo;ll so easily fail the Micro.blog photoblogging challenge&hellip; again. 😂</p>\n",
+				"content_text": "One of the best things about this move — the end is in sight — is that, as a result of our goal to never leave this county, it is highly unlikely our lives will be so affected by upheaval that I'll so easily fail the Micro.blog photoblogging challenge... again. 😂\n",
+				"date_published": "2023-10-05T16:10:17+01:00",
+				"url": "https://swoods.net/2023/10/05/one-of-the.html",
+				"tags": ["short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2023/10/03/the-internet-has.html",
 				
 				"content_html": "<p>The internet has now become a much less reliable fixture of our life.</p>\n<p>My early thoughts are mostly positive. I have quickly entered a personal phase of reflection, which feels much overdue.</p>\n",
@@ -1054,7 +1117,7 @@
 				"id": "http://simonmumbles.micro.blog/2023/05/23/it-was-time.html",
 				
 				"content_html": "<p>It was time for an upgrade.</p>\n<!-- raw HTML omitted -->\n<p>And for scale:</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It was time for an upgrade.\n\n<img src=\"uploads/2023/9319fe92ef.jpg\" width=\"450\" height=\"600\" alt=\"A large physical copy of the Oxford English Dictionary, standing on a desk in front of a keyboard and iMac.\">\n\nAnd for scale:\n\n<img src=\"uploads/2023/11ab5d3d16.jpg\" width=\"450\" height=\"600\" alt=\"A large physical copy of the Oxford English Dictionary, lying on top of a desk with an A6-sized Hobonichi Techo Planner on top of it for scale; the dictionary is roughly A4 size.\">\n",
+				"content_text": "It was time for an upgrade.\n\n<img src=\"https://cdn.uploads.micro.blog/1614/2023/9319fe92ef.jpg\" width=\"450\" height=\"600\" alt=\"A large physical copy of the Oxford English Dictionary, standing on a desk in front of a keyboard and iMac.\">\n\nAnd for scale:\n\n<img src=\"https://cdn.uploads.micro.blog/1614/2023/11ab5d3d16.jpg\" width=\"450\" height=\"600\" alt=\"A large physical copy of the Oxford English Dictionary, lying on top of a desk with an A6-sized Hobonichi Techo Planner on top of it for scale; the dictionary is roughly A4 size.\">\n",
 				"date_published": "2023-05-23T09:52:56+01:00",
 				"url": "https://swoods.net/2023/05/23/it-was-time.html",
 				"tags": ["short","photos"]
@@ -1783,7 +1846,7 @@
 				"id": "http://simonmumbles.micro.blog/2023/03/09/none-of-them.html",
 				
 				"content_html": "<p>None of them have walked away yet, though this is still early days for this part of the experiment.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "None of them have walked away yet, though this is still early days for this part of the experiment.\n\n<img src=\"uploads/2023/e7069a1a0d.jpg\" width=\"600\" height=\"450\" alt=\"A dog and two cats, all eating from their bowls in a line next to each other with two water bowls separating the dog from the two cats.\">\n",
+				"content_text": "None of them have walked away yet, though this is still early days for this part of the experiment.\n\n<img src=\"https://cdn.uploads.micro.blog/1614/2023/e7069a1a0d.jpg\" width=\"600\" height=\"450\" alt=\"A dog and two cats, all eating from their bowls in a line next to each other with two water bowls separating the dog from the two cats.\">\n",
 				"date_published": "2023-03-09T02:52:33+01:00",
 				"url": "https://swoods.net/2023/03/09/none-of-them.html",
 				"tags": ["short","photos"]
@@ -1791,8 +1854,8 @@
 			{
 				"id": "http://simonmumbles.micro.blog/2023/03/08/after-a-whole.html",
 				
-				"content_html": "<p>After a whole day of exhausting cat work, a well earned rest.</p>\n<p><img src=\"https://swoods.net/uploads/2023/0f6eea9791.jpg\" alt=\"Top-down view of a black and white cat, curled up in her bed, asleep.\"></p>\n",
-				"content_text": "After a whole day of exhausting cat work, a well earned rest.\n\n![Top-down view of a black and white cat, curled up in her bed, asleep.](https://swoods.net/uploads/2023/0f6eea9791.jpg)\n",
+				"content_html": "<p>After a whole day of exhausting cat work, a well earned rest.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/1614/2023/0f6eea9791.jpg\" alt=\"Top-down view of a black and white cat, curled up in her bed, asleep.\"></p>\n",
+				"content_text": "After a whole day of exhausting cat work, a well earned rest.\n\n![Top-down view of a black and white cat, curled up in her bed, asleep.](https://cdn.uploads.micro.blog/1614/2023/0f6eea9791.jpg)\n",
 				"date_published": "2023-03-08T02:59:15+01:00",
 				"url": "https://swoods.net/2023/03/08/after-a-whole.html",
 				"tags": ["links","short"]
@@ -1809,8 +1872,8 @@
 			{
 				"id": "http://simonmumbles.micro.blog/2023/03/06/this-has-quickly.html",
 				
-				"content_html": "<p>This has quickly become one of my favourites, for a variety of common note-taking and specifically for my daily task cards. A feat of engineering for which I am grateful.</p>\n<p><img src=\"https://swoods.net/uploads/2023/77df626fcd.jpg\" alt=\"Close photo of a pen — the Pilot G-2 07 — atop a desk.\"></p>\n",
-				"content_text": "This has quickly become one of my favourites, for a variety of common note-taking and specifically for my daily task cards. A feat of engineering for which I am grateful.\n\n![Close photo of a pen — the Pilot G-2 07 — atop a desk.](https://swoods.net/uploads/2023/77df626fcd.jpg)\n",
+				"content_html": "<p>This has quickly become one of my favourites, for a variety of common note-taking and specifically for my daily task cards. A feat of engineering for which I am grateful.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/1614/2023/77df626fcd.jpg\" alt=\"Close photo of a pen — the Pilot G-2 07 — atop a desk.\"></p>\n",
+				"content_text": "This has quickly become one of my favourites, for a variety of common note-taking and specifically for my daily task cards. A feat of engineering for which I am grateful.\n\n![Close photo of a pen — the Pilot G-2 07 — atop a desk.](https://cdn.uploads.micro.blog/1614/2023/77df626fcd.jpg)\n",
 				"date_published": "2023-03-06T21:48:14+01:00",
 				"url": "https://swoods.net/2023/03/06/this-has-quickly.html",
 				"tags": ["links","short"]
@@ -1827,8 +1890,8 @@
 			{
 				"id": "http://simonmumbles.micro.blog/2023/03/06/after-an-unintentional.html",
 				
-				"content_html": "<p>After an unintentional ten-day break, I&rsquo;m back on my daily bullshit. I&rsquo;ve been enjoying the freedom of the dot grid format in a journalling book, like rows of tiles waiting to be connected. 📙</p>\n<p><img src=\"https://swoods.net/uploads/2023/4dc489bc1e.jpg\" alt=\"The empty page of a notebook, the &ldquo;Theme System journal&rdquo;\"></p>\n",
-				"content_text": "After an unintentional ten-day break, I'm back on my daily bullshit. I've been enjoying the freedom of the dot grid format in a journalling book, like rows of tiles waiting to be connected. 📙\n\n![The empty page of a notebook, the \"Theme System journal\"](https://swoods.net/uploads/2023/4dc489bc1e.jpg)\n",
+				"content_html": "<p>After an unintentional ten-day break, I&rsquo;m back on my daily bullshit. I&rsquo;ve been enjoying the freedom of the dot grid format in a journalling book, like rows of tiles waiting to be connected. 📙</p>\n<p><img src=\"https://cdn.uploads.micro.blog/1614/2023/4dc489bc1e.jpg\" alt=\"The empty page of a notebook, the &ldquo;Theme System journal&rdquo;\"></p>\n",
+				"content_text": "After an unintentional ten-day break, I'm back on my daily bullshit. I've been enjoying the freedom of the dot grid format in a journalling book, like rows of tiles waiting to be connected. 📙\n\n![The empty page of a notebook, the \"Theme System journal\"](https://cdn.uploads.micro.blog/1614/2023/4dc489bc1e.jpg)\n",
 				"date_published": "2023-03-06T12:21:48+01:00",
 				"url": "https://swoods.net/2023/03/06/after-an-unintentional.html",
 				"tags": ["links","short"]
@@ -1864,7 +1927,7 @@
 				"id": "http://simonmumbles.micro.blog/2023/03/04/i-was-spoiled.html",
 				
 				"content_html": "<p>I was spoiled rotten yet again by Claire for my birthday. These Trakke slings have different lengths of zipped openings so I can now spend some time to decide what they would each be best carrying.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I was spoiled rotten yet again by Claire for my birthday. These Trakke slings have different lengths of zipped openings so I can now spend some time to decide what they would each be best carrying.\n\n<img src=\"uploads/2023/7bda3c2b66.jpg\" width=\"450\" height=\"600\" alt=\"Two small, pouch-style bags hanging from a door-hung rack, on top of hanging jackets. One is closed, the other open.\">\n",
+				"content_text": "I was spoiled rotten yet again by Claire for my birthday. These Trakke slings have different lengths of zipped openings so I can now spend some time to decide what they would each be best carrying.\n\n<img src=\"https://cdn.uploads.micro.blog/1614/2023/7bda3c2b66.jpg\" width=\"450\" height=\"600\" alt=\"Two small, pouch-style bags hanging from a door-hung rack, on top of hanging jackets. One is closed, the other open.\">\n",
 				"date_published": "2023-03-04T23:50:23+01:00",
 				"url": "https://swoods.net/2023/03/04/i-was-spoiled.html",
 				"tags": ["short","photos"]
@@ -1873,7 +1936,7 @@
 				"id": "http://simonmumbles.micro.blog/2023/03/03/the-solitude-of.html",
 				
 				"content_html": "<p>The solitude of the office is mitigated by my desk buddies.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The solitude of the office is mitigated by my desk buddies.\n\n<img src=\"uploads/2023/3ae509d7cd.jpg\" width=\"450\" height=\"600\" alt=\"A selection of four figurines — a Beholder from Dungeons & Dragons, Rian from The Dark Crystal, Grogu from Star Wars, and Wall-E — and a die on top of a monitor stand, all positioned in front of a desktop computer.\">\n",
+				"content_text": "The solitude of the office is mitigated by my desk buddies.\n\n<img src=\"https://cdn.uploads.micro.blog/1614/2023/3ae509d7cd.jpg\" width=\"450\" height=\"600\" alt=\"A selection of four figurines — a Beholder from Dungeons & Dragons, Rian from The Dark Crystal, Grogu from Star Wars, and Wall-E — and a die on top of a monitor stand, all positioned in front of a desktop computer.\">\n",
 				"date_published": "2023-03-03T19:37:52+01:00",
 				"url": "https://swoods.net/2023/03/03/the-solitude-of.html",
 				"tags": ["short","photos"]
@@ -1891,7 +1954,7 @@
 				"id": "http://simonmumbles.micro.blog/2023/03/02/she-was-much.html",
 				
 				"content_html": "<p>She was much more interested in claiming the new toy than going out, and given the weather I can&rsquo;t say I blame her.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "She was much more interested in claiming the new toy than going out, and given the weather I can't say I blame her.\n\n<img src=\"uploads/2023/79b23f5004.jpg\" width=\"600\" height=\"450\" alt=\"A black and white cat, sitting atop a scratching furniture toy, looking directly at the camera.\">\n",
+				"content_text": "She was much more interested in claiming the new toy than going out, and given the weather I can't say I blame her.\n\n<img src=\"https://cdn.uploads.micro.blog/1614/2023/79b23f5004.jpg\" width=\"600\" height=\"450\" alt=\"A black and white cat, sitting atop a scratching furniture toy, looking directly at the camera.\">\n",
 				"date_published": "2023-03-03T00:47:44+01:00",
 				"url": "https://swoods.net/2023/03/02/she-was-much.html",
 				"tags": ["short","photos"]
@@ -1908,8 +1971,8 @@
 			{
 				"id": "http://simonmumbles.micro.blog/2023/03/02/the-new-pen.html",
 				
-				"content_html": "<p><img src=\"https://swoods.net/uploads/2023/4d19d73b90.jpg\" alt=\"The side of a notebook, with a pen loop attached and filled with a colour-matching yellow pen.\"></p>\n<p>The new pen for Hogan&rsquo;s journal, now secure.</p>\n",
-				"content_text": "![The side of a notebook, with a pen loop attached and filled with a colour-matching yellow pen.](https://swoods.net/uploads/2023/4d19d73b90.jpg)\n\nThe new pen for Hogan's journal, now secure.\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/1614/2023/4d19d73b90.jpg\" alt=\"The side of a notebook, with a pen loop attached and filled with a colour-matching yellow pen.\"></p>\n<p>The new pen for Hogan&rsquo;s journal, now secure.</p>\n",
+				"content_text": "![The side of a notebook, with a pen loop attached and filled with a colour-matching yellow pen.](https://cdn.uploads.micro.blog/1614/2023/4d19d73b90.jpg)\n\nThe new pen for Hogan's journal, now secure.\n",
 				"date_published": "2023-03-02T02:03:50+01:00",
 				"url": "https://swoods.net/2023/03/02/the-new-pen.html",
 				"tags": ["links","short"]
@@ -3016,7 +3079,7 @@
 				"id": "http://simonmumbles.micro.blog/2022/12/08/nice-one-tim.html",
 				
 				"content_html": "<p>Nice <a href=\"https://addcontext.xyz/search/apple-keynotes?q=good%20morning\">one</a>, Tim 😂</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Nice [one](https://addcontext.xyz/search/apple-keynotes?q=good%20morning), Tim 😂\n\n<img src=\"uploads/2022/98065ef508.png\" width=\"591\" height=\"600\" alt=\"Screenshot of a website that searches Apple keynotes, including a search for “good morning” and the results; of which there are 168 results, which I have highlighted with a green circle.\">\n",
+				"content_text": "Nice [one](https://addcontext.xyz/search/apple-keynotes?q=good%20morning), Tim 😂\n\n<img src=\"https://cdn.uploads.micro.blog/1614/2022/98065ef508.png\" width=\"591\" height=\"600\" alt=\"Screenshot of a website that searches Apple keynotes, including a search for “good morning” and the results; of which there are 168 results, which I have highlighted with a green circle.\">\n",
 				"date_published": "2022-12-08T17:37:29+01:00",
 				"url": "https://swoods.net/2022/12/08/nice-one-tim.html",
 				"tags": ["links","short","photos"]
@@ -3880,7 +3943,7 @@
 				"id": "http://simonmumbles.micro.blog/2022/10/22/double-dog-day.html",
 				
 				"content_html": "<p>Double dog day is best day. Hogan is on the right, with his new friend Arlo on the left.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Double dog day is best day. Hogan is on the right, with his new friend Arlo on the left.\n\n<img src=\"uploads/2022/57e82b685a.jpg\" width=\"434\" height=\"600\" alt=\"\">\n",
+				"content_text": "Double dog day is best day. Hogan is on the right, with his new friend Arlo on the left.\n\n<img src=\"https://cdn.uploads.micro.blog/1614/2022/57e82b685a.jpg\" width=\"434\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-22T20:12:09+01:00",
 				"url": "https://swoods.net/2022/10/22/double-dog-day.html",
 				"tags": ["short"]
@@ -4528,7 +4591,7 @@
 				"id": "http://simonmumbles.micro.blog/2022/08/08/this-is-a.html",
 				
 				"content_html": "<p>This is a tired good boy, who passed his qualification as an assistance companion today and is now a permanent member of our family. 🥳</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This is a tired good boy, who passed his qualification as an assistance companion today and is now a permanent member of our family. 🥳\n\n<img src=\"uploads/2022/9b1ae0a754.jpg\" width=\"600\" height=\"450\" alt=\"A golden retriever dog, lying down on a carpeted floor with some of his soft toys in the background.\" />\n",
+				"content_text": "This is a tired good boy, who passed his qualification as an assistance companion today and is now a permanent member of our family. 🥳\n\n<img src=\"https://cdn.uploads.micro.blog/1614/2022/9b1ae0a754.jpg\" width=\"600\" height=\"450\" alt=\"A golden retriever dog, lying down on a carpeted floor with some of his soft toys in the background.\" />\n",
 				"date_published": "2022-08-08T13:10:41+01:00",
 				"url": "https://swoods.net/2022/08/08/this-is-a.html",
 				"tags": ["short"]
@@ -4771,7 +4834,7 @@
 				"id": "http://simonmumbles.micro.blog/2022/07/13/232049.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2022/45f63c5926.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/1614/2022/45f63c5926.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-07-13T23:20:49+01:00",
 				"url": "https://swoods.net/2022/07/13/232049.html",
 				"tags": ["short"]
@@ -5419,7 +5482,7 @@
 				"id": "http://simonmumbles.micro.blog/2022/04/14/rare-item-productivity.html",
 				
 				"content_html": "<p>Rare item. +1 Productivity.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Rare item. +1 Productivity.\n\n<img src=\"uploads/2022/2b8f7dfeef.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Rare item. +1 Productivity.\n\n<img src=\"https://cdn.uploads.micro.blog/1614/2022/2b8f7dfeef.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-14T16:49:49+01:00",
 				"url": "https://swoods.net/2022/04/14/rare-item-productivity.html",
 				"tags": ["short"]
@@ -5464,7 +5527,7 @@
 				"id": "http://simonmumbles.micro.blog/2022/04/04/the-newest-member.html",
 				
 				"content_html": "<p>The newest member of our family: Hogan.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The newest member of our family: Hogan.\n\n<img src=\"uploads/2022/d1d2856341.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "The newest member of our family: Hogan.\n\n<img src=\"https://cdn.uploads.micro.blog/1614/2022/d1d2856341.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-04T13:23:40+01:00",
 				"url": "https://swoods.net/2022/04/04/the-newest-member.html",
 				"tags": ["short"]
@@ -5563,7 +5626,7 @@
 				"id": "http://simonmumbles.micro.blog/2022/03/24/some-days-are.html",
 				
 				"content_html": "<p>Some days are the best days.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Some days are the best days.\n\n<img src=\"uploads/2022/caa5316cb1.jpg\" width=\"281\" height=\"600\" alt=\"A golden labrador, sitting on a stone porch.\" />\n",
+				"content_text": "Some days are the best days.\n\n<img src=\"https://cdn.uploads.micro.blog/1614/2022/caa5316cb1.jpg\" width=\"281\" height=\"600\" alt=\"A golden labrador, sitting on a stone porch.\" />\n",
 				"date_published": "2022-03-24T14:53:10+01:00",
 				"url": "https://swoods.net/2022/03/24/some-days-are.html",
 				"tags": ["short"]
@@ -5608,7 +5671,7 @@
 				"id": "http://simonmumbles.micro.blog/2022/03/16/microboot.html",
 				
 				"content_html": "<p>Micro.boot</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.boot\n\n<img src=\"uploads/2022/be31531d13.jpg\" width=\"322\" height=\"600\" alt=\"Screenshot of the Micro.blog timeline, showing two posts in a row that feature a photos of pairs of boots.\" />\n",
+				"content_text": "Micro.boot\n\n<img src=\"https://cdn.uploads.micro.blog/1614/2022/be31531d13.jpg\" width=\"322\" height=\"600\" alt=\"Screenshot of the Micro.blog timeline, showing two posts in a row that feature a photos of pairs of boots.\" />\n",
 				"date_published": "2022-03-16T22:26:28+01:00",
 				"url": "https://swoods.net/2022/03/16/microboot.html",
 				"tags": ["short"]
@@ -5806,7 +5869,7 @@
 				"id": "http://simonmumbles.micro.blog/2022/02/23/the-irony-of.html",
 				
 				"content_html": "<p>The irony of not being able to buy the box set of The West Wing digitally, or currently stream it in my country, and the show includes this glorious line of dialogue:</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The irony of not being able to buy the box set of The West Wing digitally, or currently stream it in my country, and the show includes this glorious line of dialogue:\n\n<img src=\"uploads/2022/62b33ea82b.gif\" width=\"480\" height=\"270\" alt=\"A GIF of the character Toby Ziegler saying “There is no law, there is no decency.”\" />\n",
+				"content_text": "The irony of not being able to buy the box set of The West Wing digitally, or currently stream it in my country, and the show includes this glorious line of dialogue:\n\n<img src=\"https://cdn.uploads.micro.blog/1614/2022/62b33ea82b.gif\" width=\"480\" height=\"270\" alt=\"A GIF of the character Toby Ziegler saying “There is no law, there is no decency.”\" />\n",
 				"date_published": "2022-02-23T19:20:00+01:00",
 				"url": "https://swoods.net/2022/02/23/the-irony-of.html",
 				"tags": ["short"]
@@ -5995,7 +6058,7 @@
 				"id": "http://simonmumbles.micro.blog/2022/02/04/homescreen-february.html",
 				
 				"content_html": "<p>Homescreen: February, 2022</p>\n<!-- raw HTML omitted -->\n<p>(Thought Detox; Doppler; Camera; Messages)</p>\n",
-				"content_text": "Homescreen: February, 2022\n\n<img src=\"uploads/2022/5e395eca95.jpg\" width=\"337\" height=\"600\" alt=\"\" />\n\n(Thought Detox; Doppler; Camera; Messages)\n",
+				"content_text": "Homescreen: February, 2022\n\n<img src=\"https://cdn.uploads.micro.blog/1614/2022/5e395eca95.jpg\" width=\"337\" height=\"600\" alt=\"\" />\n\n(Thought Detox; Doppler; Camera; Messages)\n",
 				"date_published": "2022-02-04T09:37:01+01:00",
 				"url": "https://swoods.net/2022/02/04/homescreen-february.html",
 				"tags": ["short"]
@@ -6058,7 +6121,7 @@
 				"id": "http://simonmumbles.micro.blog/2022/01/28/145647.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2022/451bcf5623.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/1614/2022/451bcf5623.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-28T15:56:47+01:00",
 				"url": "https://swoods.net/2022/01/28/145647.html",
 				"tags": ["short"]
@@ -6148,7 +6211,7 @@
 				"id": "http://simonmumbles.micro.blog/2022/01/17/published-another-batch.html",
 				
 				"content_html": "<p>Published <a href=\"https://today-i-learned.net/2022/01/17/til-post-type.html\">another batch of updates</a> for TIL earlier on, including a new post type and filter.</p>\n<p>The most fun was redesigning the posts footer, including category buttons:</p>\n<!-- raw HTML omitted -->\n<p>Thanks to <a href=\"https://micro.blog/amit\">@amit</a> for <a href=\"https://github.com/am1t/musings/blob/6be978ecda12f3b016684f1e5c9579d7d7cb2742/layouts/post/single.html#L14\">his code</a> and to <a href=\"https://micro.blog/frostedechoes\">@frostedechoes</a> for <a href=\"https://help.micro.blog/t/categories-tags-in-post/761/18\">sharing said code</a>!</p>\n",
-				"content_text": "Published [another batch of updates](https://today-i-learned.net/2022/01/17/til-post-type.html) for TIL earlier on, including a new post type and filter.\n\nThe most fun was redesigning the posts footer, including category buttons:\n\n<img src=\"uploads/2022/4c5da1909e.png\" width=\"600\" height=\"75\" alt=\"Screenshot of the new posts footer for Today I Learned; including the post date, permalink, and category button.\" />\n\nThanks to [@amit](https://micro.blog/amit) for [his code](https://github.com/am1t/musings/blob/6be978ecda12f3b016684f1e5c9579d7d7cb2742/layouts/post/single.html#L14) and to [@frostedechoes](https://micro.blog/frostedechoes) for [sharing said code](https://help.micro.blog/t/categories-tags-in-post/761/18)!\n",
+				"content_text": "Published [another batch of updates](https://today-i-learned.net/2022/01/17/til-post-type.html) for TIL earlier on, including a new post type and filter.\n\nThe most fun was redesigning the posts footer, including category buttons:\n\n<img src=\"https://cdn.uploads.micro.blog/1614/2022/4c5da1909e.png\" width=\"600\" height=\"75\" alt=\"Screenshot of the new posts footer for Today I Learned; including the post date, permalink, and category button.\" />\n\nThanks to [@amit](https://micro.blog/amit) for [his code](https://github.com/am1t/musings/blob/6be978ecda12f3b016684f1e5c9579d7d7cb2742/layouts/post/single.html#L14) and to [@frostedechoes](https://micro.blog/frostedechoes) for [sharing said code](https://help.micro.blog/t/categories-tags-in-post/761/18)!\n",
 				"date_published": "2022-01-17T22:21:08+01:00",
 				"url": "https://swoods.net/2022/01/17/published-another-batch.html",
 				"tags": ["links","short"]
@@ -6247,7 +6310,7 @@
 				"id": "http://simonmumbles.micro.blog/2022/01/12/today-i-learned.html",
 				
 				"content_html": "<p>Today I Learned returned yesterday, and now I have <a href=\"https://today-i-learned.net/2022/01/12/edit-til-new.html\">released a new update</a> that includes the new domain for the site:</p>\n<p><strong>today-i-learned.net</strong></p>\n<p>I&rsquo;m happy to have also updated the site with the new footer, the design of which is now settled until 2.0 (months from now) at the earliest:</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Today I Learned returned yesterday, and now I have [released a new update](https://today-i-learned.net/2022/01/12/edit-til-new.html) that includes the new domain for the site:\n\n __today-i-learned.net__\n\nI'm happy to have also updated the site with the new footer, the design of which is now settled until 2.0 (months from now) at the earliest:\n\n<img src=\"uploads/2022/19511d7af2.png\" width=\"600\" height=\"324\" alt=\"Screenshot of the new 3-column footer for the bottom of the Today I Learned website.\" />\n",
+				"content_text": "Today I Learned returned yesterday, and now I have [released a new update](https://today-i-learned.net/2022/01/12/edit-til-new.html) that includes the new domain for the site:\n\n __today-i-learned.net__\n\nI'm happy to have also updated the site with the new footer, the design of which is now settled until 2.0 (months from now) at the earliest:\n\n<img src=\"https://cdn.uploads.micro.blog/1614/2022/19511d7af2.png\" width=\"600\" height=\"324\" alt=\"Screenshot of the new 3-column footer for the bottom of the Today I Learned website.\" />\n",
 				"date_published": "2022-01-12T18:34:00+01:00",
 				"url": "https://swoods.net/2022/01/12/today-i-learned.html",
 				"tags": ["links","short"]
@@ -6463,7 +6526,7 @@
 				"id": "http://simonmumbles.micro.blog/2022/01/01/000951.html",
 				
 				"content_html": "<p>😉</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "😉\n\n<img src=\"uploads/2022/a6efd659df.jpg\" width=\"450\" height=\"600\" alt=\"Part of a desk, including a computer, keyboard, pen, AirPods case, glass of whiskey on a coaster, notebooks, and the Analog productivity system.\" />\n",
+				"content_text": "😉\n\n<img src=\"https://cdn.uploads.micro.blog/1614/2022/a6efd659df.jpg\" width=\"450\" height=\"600\" alt=\"Part of a desk, including a computer, keyboard, pen, AirPods case, glass of whiskey on a coaster, notebooks, and the Analog productivity system.\" />\n",
 				"date_published": "2022-01-01T01:09:51+01:00",
 				"url": "https://swoods.net/2022/01/01/000951.html",
 				"tags": ["short"]
@@ -6490,7 +6553,7 @@
 				"id": "http://simonmumbles.micro.blog/2021/12/30/095509.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2021/dec3acaf57.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/1614/2021/dec3acaf57.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-30T10:55:09+01:00",
 				"url": "https://swoods.net/2021/12/30/095509.html",
 				"tags": ["short"]
@@ -6562,7 +6625,7 @@
 				"id": "http://simonmumbles.micro.blog/2021/12/24/happy-holidays.html",
 				
 				"content_html": "<p>Happy holidays! ❤️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Happy holidays! ❤️\n\n<img src=\"uploads/2021/55315bf170.jpg\" width=\"450\" height=\"600\" alt=\"A box labelled “charity”, with a black cat peeking over the edge from inside of the box.\" />\n",
+				"content_text": "Happy holidays! ❤️\n\n<img src=\"https://cdn.uploads.micro.blog/1614/2021/55315bf170.jpg\" width=\"450\" height=\"600\" alt=\"A box labelled “charity”, with a black cat peeking over the edge from inside of the box.\" />\n",
 				"date_published": "2021-12-24T23:04:31+01:00",
 				"url": "https://swoods.net/2021/12/24/happy-holidays.html",
 				"tags": ["short"]
@@ -6571,7 +6634,7 @@
 				"id": "http://simonmumbles.micro.blog/2021/12/22/callay.html",
 				
 				"content_html": "<p><em>Callay</em></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "_Callay_\n\n<img src=\"uploads/2021/14621a52b3.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "_Callay_\n\n<img src=\"https://cdn.uploads.micro.blog/1614/2021/14621a52b3.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-22T15:47:40+01:00",
 				"url": "https://swoods.net/2021/12/22/callay.html",
 				"tags": ["short"]
@@ -6580,7 +6643,7 @@
 				"id": "http://simonmumbles.micro.blog/2021/12/22/callooh.html",
 				
 				"content_html": "<p><em>Callooh</em></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "_Callooh_\n\n<img src=\"uploads/2021/8e6793e391.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "_Callooh_\n\n<img src=\"https://cdn.uploads.micro.blog/1614/2021/8e6793e391.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-22T15:24:00+01:00",
 				"url": "https://swoods.net/2021/12/22/callooh.html",
 				"tags": ["short"]
@@ -6589,7 +6652,7 @@
 				"id": "http://simonmumbles.micro.blog/2021/12/19/me-and-likes.html",
 				
 				"content_html": "<p>Me and <em>Likes</em></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Me and _Likes_\r\n\r\n<img src=\"uploads/2021/8e41ab34de.jpg\" width=\"500\" height=\"534\" alt=\"\" />\n",
+				"content_text": "Me and _Likes_\r\n\r\n<img src=\"https://simonmumbles.micro.blog/uploads/2021/8e41ab34de.jpg\" width=\"500\" height=\"534\" alt=\"\" />\n",
 				"date_published": "2021-12-19T16:23:49+01:00",
 				"url": "https://swoods.net/2021/12/19/me-and-likes.html",
 				"tags": ["short"]
@@ -6895,7 +6958,7 @@
 				"id": "http://simonmumbles.micro.blog/2021/11/30/now-it-feels.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p><em>Now</em> it feels like we&rsquo;ve moved in.</p>\n<!-- raw HTML omitted -->\n<p>&hellip; although not everybody is as impressed.</p>\n",
-				"content_text": "<img src=\"uploads/2021/0a06ea9bf8.jpg\" width=\"600\" height=\"800\" alt=\"\" />\r\n\r\n_Now_ it feels like we've moved in.\r\n\r\n<img src=\"uploads/2021/104b4b5b5f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\r\n\r\n... although not everybody is as impressed.\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/1614/2021/0a06ea9bf8.jpg\" width=\"600\" height=\"800\" alt=\"\" />\r\n\r\n_Now_ it feels like we've moved in.\r\n\r\n<img src=\"https://cdn.uploads.micro.blog/1614/2021/104b4b5b5f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\r\n\r\n... although not everybody is as impressed.\n",
 				"date_published": "2021-11-30T14:46:05+01:00",
 				"url": "https://swoods.net/2021/11/30/now-it-feels.html",
 				"tags": ["short"]
@@ -7444,7 +7507,7 @@
 				"id": "http://simonmumbles.micro.blog/2021/10/18/im-quite-happy.html",
 				
 				"content_html": "<p>I&rsquo;m quite happy with how <a href=\"https://til.micro.blog/2021/10/18/edit-the-bottom.html\">v1.8 of the TIL site</a> has ended up. Feels like the small improvements have added up over the past few updates, and the larger redesigned elements are always fun to reveal. This time around the footer got the big change:</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I'm quite happy with how [v1.8 of the TIL site](https://til.micro.blog/2021/10/18/edit-the-bottom.html) has ended up. Feels like the small improvements have added up over the past few updates, and the larger redesigned elements are always fun to reveal. This time around the footer got the big change:\n\n<img src=\"uploads/2021/3ddc47770d.png\" width=\"800\" height=\"399\" alt=\"Screenshot of the redesigned footer for the Today I Learned website.\" />\n",
+				"content_text": "I'm quite happy with how [v1.8 of the TIL site](https://til.micro.blog/2021/10/18/edit-the-bottom.html) has ended up. Feels like the small improvements have added up over the past few updates, and the larger redesigned elements are always fun to reveal. This time around the footer got the big change:\n\n<img src=\"https://cdn.uploads.micro.blog/1614/2021/3ddc47770d.png\" width=\"800\" height=\"399\" alt=\"Screenshot of the redesigned footer for the Today I Learned website.\" />\n",
 				"date_published": "2021-10-18T16:05:00+01:00",
 				"url": "https://swoods.net/2021/10/18/im-quite-happy.html",
 				"tags": ["links","short"]
@@ -7687,7 +7750,7 @@
 				"id": "http://simonmumbles.micro.blog/2021/10/06/yet-another-random.html",
 				
 				"content_html": "<p>Yet another random magical encounter on a street. I won’t grow tired of meeting these neighbours 😻</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Yet another random magical encounter on a street. I won’t grow tired of meeting these neighbours 😻\n\n<img src=\"uploads/2021/7c279b77a8.jpg\" width=\"450\" height=\"600\" alt=\"A black and white cat standing alert in the street.\" />\n",
+				"content_text": "Yet another random magical encounter on a street. I won’t grow tired of meeting these neighbours 😻\n\n<img src=\"https://cdn.uploads.micro.blog/1614/2021/7c279b77a8.jpg\" width=\"450\" height=\"600\" alt=\"A black and white cat standing alert in the street.\" />\n",
 				"date_published": "2021-10-06T16:21:10+01:00",
 				"url": "https://swoods.net/2021/10/06/yet-another-random.html",
 				"tags": ["short"]
@@ -7705,7 +7768,7 @@
 				"id": "http://simonmumbles.micro.blog/2021/10/05/when-you-enjoy.html",
 				
 				"content_html": "<p>When you enjoy your work it can be easy to forget that these are tools and not toys.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "When you enjoy your work it can be easy to forget that these are tools and not toys.\n\n<img src=\"uploads/2021/c81947ffcf.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "When you enjoy your work it can be easy to forget that these are tools and not toys.\n\n<img src=\"https://cdn.uploads.micro.blog/1614/2021/c81947ffcf.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-05T21:56:24+01:00",
 				"url": "https://swoods.net/2021/10/05/when-you-enjoy.html",
 				"tags": ["short"]
@@ -7723,7 +7786,7 @@
 				"id": "http://simonmumbles.micro.blog/2021/10/04/what-you-cant.html",
 				
 				"content_html": "<p>What you can’t see: the sharp reminders that not everything is always as it seems with these beasties.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "What you can’t see: the sharp reminders that not everything is always as it seems with these beasties.\n\n<img src=\"uploads/2021/e789ecafa6.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "What you can’t see: the sharp reminders that not everything is always as it seems with these beasties.\n\n<img src=\"https://cdn.uploads.micro.blog/1614/2021/e789ecafa6.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-04T23:19:22+01:00",
 				"url": "https://swoods.net/2021/10/04/what-you-cant.html",
 				"tags": ["short"]
@@ -7759,7 +7822,7 @@
 				"id": "http://simonmumbles.micro.blog/2021/10/04/105600.html",
 				
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "<a href=\"https://til.micro.blog\"><img src=\"uploads/2021/cadb75d57b.jpg\" width=\"316\" height=\"210\" alt=\"A road sign with the word 'Today' on it.\" /></a>\n",
+				"content_text": "<a href=\"https://til.micro.blog\"><img src=\"https://cdn.uploads.micro.blog/1614/2021/cadb75d57b.jpg\" width=\"316\" height=\"210\" alt=\"A road sign with the word 'Today' on it.\" /></a>\n",
 				"date_published": "2021-10-04T10:56:00+01:00",
 				"url": "https://swoods.net/2021/10/04/105600.html",
 				"tags": ["short"]
@@ -7795,7 +7858,7 @@
 				"id": "http://simonmumbles.micro.blog/2021/10/03/is-the-majority.html",
 				
 				"content_html": "<p>Is the majority of the heat escaping through the keyboard 😂</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Is the majority of the heat escaping through the keyboard 😂\n\n<img src=\"uploads/2021/5638a1082c.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Is the majority of the heat escaping through the keyboard 😂\n\n<img src=\"https://cdn.uploads.micro.blog/1614/2021/5638a1082c.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-03T14:31:06+01:00",
 				"url": "https://swoods.net/2021/10/03/is-the-majority.html",
 				"tags": ["short"]
@@ -7822,7 +7885,7 @@
 				"id": "http://simonmumbles.micro.blog/2021/10/02/that-glow-is.html",
 				
 				"content_html": "<p>That glow is from a light literally next to the door at which I was standing. Other than that, at night there is much more dark than light here.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "That glow is from a light literally next to the door at which I was standing. Other than that, at night there is much more dark than light here.\n\n<img src=\"uploads/2021/345755d93f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "That glow is from a light literally next to the door at which I was standing. Other than that, at night there is much more dark than light here.\n\n<img src=\"https://cdn.uploads.micro.blog/1614/2021/345755d93f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-02T23:56:28+01:00",
 				"url": "https://swoods.net/2021/10/02/that-glow-is.html",
 				"tags": ["short"]
@@ -7849,7 +7912,7 @@
 				"id": "http://simonmumbles.micro.blog/2021/10/01/an-approaching-touch.html",
 				
 				"content_html": "<p>An approaching touch 👀</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "An approaching touch 👀\n\n<img src=\"uploads/2021/fc0d22f8a3.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "An approaching touch 👀\n\n<img src=\"https://cdn.uploads.micro.blog/1614/2021/fc0d22f8a3.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-01T09:24:50+01:00",
 				"url": "https://swoods.net/2021/10/01/an-approaching-touch.html",
 				"tags": ["short"]
@@ -7993,7 +8056,7 @@
 				"id": "http://simonmumbles.micro.blog/2021/09/21/as-a-man.html",
 				
 				"content_html": "<p>As a man once said:</p>\n<p>Boom.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "As a man once said:\n\nBoom.\n\n<img src=\"uploads/2021/55c48118e5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "As a man once said:\n\nBoom.\n\n<img src=\"https://simonmumbles.micro.blog/uploads/2021/55c48118e5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-09-21T12:54:31+01:00",
 				"url": "https://swoods.net/2021/09/21/as-a-man.html",
 				"tags": ["short"]
@@ -8056,7 +8119,7 @@
 				"id": "http://simonmumbles.micro.blog/2021/09/15/me-and-new.html",
 				
 				"content_html": "<p>Me and new social networks.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Me and new social networks.\n\n<img src=\"uploads/2021/8e41ab34de.jpg\" width=\"500\" height=\"534\" alt=\"\" />\n",
+				"content_text": "Me and new social networks.\n\n<img src=\"https://simonmumbles.micro.blog/uploads/2021/8e41ab34de.jpg\" width=\"500\" height=\"534\" alt=\"\" />\n",
 				"date_published": "2021-09-15T07:30:32+01:00",
 				"url": "https://swoods.net/2021/09/15/me-and-new.html",
 				"tags": ["short"]
@@ -8110,7 +8173,7 @@
 				"id": "http://simonmumbles.micro.blog/2021/09/11/goodbye-little-buddy.html",
 				
 				"content_html": "<p>Goodbye little buddy 👋</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Goodbye little buddy 👋\n\n<img src=\"uploads/2021/ffe2fc6f55.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Goodbye little buddy 👋\n\n<img src=\"https://simonmumbles.micro.blog/uploads/2021/ffe2fc6f55.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-09-11T18:03:07+01:00",
 				"url": "https://swoods.net/2021/09/11/goodbye-little-buddy.html",
 				"tags": ["short"]
@@ -8191,7 +8254,7 @@
 				"id": "http://simonmumbles.micro.blog/2021/09/09/its-fair-to.html",
 				
 				"content_html": "<p>It’s fair to say they are having… mixed reactions to the move 😂</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "It’s fair to say they are having… mixed reactions to the move 😂\n\n<img src=\"uploads/2021/fdbe6190c0.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/98581268cf.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "It’s fair to say they are having… mixed reactions to the move 😂\n\n<img src=\"https://simonmumbles.micro.blog/uploads/2021/fdbe6190c0.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://simonmumbles.micro.blog/uploads/2021/98581268cf.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-09-09T21:42:02+01:00",
 				"url": "https://swoods.net/2021/09/09/its-fair-to.html",
 				"tags": ["short"]
@@ -8290,7 +8353,7 @@
 				"id": "http://simonmumbles.micro.blog/2021/09/01/this-was-lunchtime.html",
 				
 				"content_html": "<p>This was lunchtime today. 10/10 would recommend</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This was lunchtime today. 10/10 would recommend\n\n<img src=\"uploads/2021/069b62fb1f.jpg\" width=\"600\" height=\"600\" alt=\"A log on the edge of a pond, surrounded by trees.\" />\n",
+				"content_text": "This was lunchtime today. 10/10 would recommend\n\n<img src=\"https://simonmumbles.micro.blog/uploads/2021/069b62fb1f.jpg\" width=\"600\" height=\"600\" alt=\"A log on the edge of a pond, surrounded by trees.\" />\n",
 				"date_published": "2021-09-01T21:41:22+01:00",
 				"url": "https://swoods.net/2021/09/01/this-was-lunchtime.html",
 				"tags": ["short"]
@@ -8299,7 +8362,7 @@
 				"id": "http://simonmumbles.micro.blog/2021/09/01/en-route-to.html",
 				
 				"content_html": "<p>En route to Claire’s new job. This place really is something else…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "En route to Claire’s new job. This place really is something else…\n\n<img src=\"uploads/2021/4f97ef1ba3.jpg\" width=\"450\" height=\"600\" alt=\"A wooded area, with a stream and natural footpaths.\" />\n",
+				"content_text": "En route to Claire’s new job. This place really is something else…\n\n<img src=\"https://simonmumbles.micro.blog/uploads/2021/4f97ef1ba3.jpg\" width=\"450\" height=\"600\" alt=\"A wooded area, with a stream and natural footpaths.\" />\n",
 				"date_published": "2021-09-01T09:26:12+01:00",
 				"url": "https://swoods.net/2021/09/01/en-route-to.html",
 				"tags": ["short"]
@@ -8407,7 +8470,7 @@
 				"id": "http://simonmumbles.micro.blog/2021/08/18/say-hello-to.html",
 				
 				"content_html": "<p>Say hello to the redesigned <a href=\"https://micro.blog/TIL\">@TIL</a>. 😎</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Say hello to the redesigned [@TIL](https://micro.blog/TIL). 😎\n\n<img src=\"uploads/2021/3912815ccc.png\" width=\"600\" height=\"419\" alt=\"Screenshot of a browser with the Today I Learned website open, displaying the new design.\" />\n",
+				"content_text": "Say hello to the redesigned [@TIL](https://micro.blog/TIL). 😎\n\n<img src=\"http://simonmumbles.micro.blog/uploads/2021/3912815ccc.png\" width=\"600\" height=\"419\" alt=\"Screenshot of a browser with the Today I Learned website open, displaying the new design.\" />\n",
 				"date_published": "2021-08-18T14:59:32+01:00",
 				"url": "https://swoods.net/2021/08/18/say-hello-to.html",
 				"tags": ["Today I Learned","links","short"]
@@ -8425,7 +8488,7 @@
 				"id": "http://simonmumbles.micro.blog/2021/08/18/first-batch-for.html",
 				
 				"content_html": "<p>First batch for months. The dark times are over. 😌</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "First batch for months. The dark times are over. 😌\n\n<img src=\"uploads/2021/557daddbce.jpg\" width=\"450\" height=\"600\" alt=\"Four new bags of coffee, on top of a kitchen counter.\" />\n",
+				"content_text": "First batch for months. The dark times are over. 😌\n\n<img src=\"http://simonmumbles.micro.blog/uploads/2021/557daddbce.jpg\" width=\"450\" height=\"600\" alt=\"Four new bags of coffee, on top of a kitchen counter.\" />\n",
 				"date_published": "2021-08-18T11:50:22+01:00",
 				"url": "https://swoods.net/2021/08/18/first-batch-for.html",
 				"tags": ["short"]
@@ -8569,7 +8632,7 @@
 				"id": "http://simonmumbles.micro.blog/2021/08/10/home-screen-august.html",
 				
 				"content_html": "<p>Home Screen: August, 2021</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Home Screen: August, 2021\n\n<img src=\"uploads/2021/2407db3881.png\" />\n",
+				"content_text": "Home Screen: August, 2021\n\n<img src=\"http://simonmumbles.micro.blog/uploads/2021/2407db3881.png\" />\n",
 				"date_published": "2021-08-10T16:43:32+01:00",
 				"url": "https://swoods.net/2021/08/10/home-screen-august.html",
 				"tags": ["short"]
@@ -8973,8 +9036,8 @@
 			{
 				"id": "http://simonmumbles.micro.blog/2021/06/08/083516.html",
 				
-				"content_html": "<p>&lt;img src=&ldquo;uploads/2021/a95d27cb83.png&rdquo; alt=“Screenshot of the iPad OS preview page for WWDC, with a circle around the section regarding Full Keyboard Navigation.” /&gt;</p>\n<p>🤔</p>\n",
-				"content_text": "<img src=\"uploads/2021/a95d27cb83.png\" alt=“Screenshot of the iPad OS preview page for WWDC, with a circle around the section regarding Full Keyboard Navigation.” />\n\n🤔\n",
+				"content_html": "<p>&lt;img src=&ldquo;<a href=\"http://simonmumbles.micro.blog/uploads/2021/a95d27cb83.png%22\">http://simonmumbles.micro.blog/uploads/2021/a95d27cb83.png&quot;</a> alt=“Screenshot of the iPad OS preview page for WWDC, with a circle around the section regarding Full Keyboard Navigation.” /&gt;</p>\n<p>🤔</p>\n",
+				"content_text": "<img src=\"http://simonmumbles.micro.blog/uploads/2021/a95d27cb83.png\" alt=“Screenshot of the iPad OS preview page for WWDC, with a circle around the section regarding Full Keyboard Navigation.” />\n\n🤔\n",
 				"date_published": "2021-06-08T08:35:16+01:00",
 				"url": "https://swoods.net/2021/06/08/083516.html",
 				"tags": ["short"]
@@ -8991,8 +9054,8 @@
 			{
 				"id": "http://simonmumbles.micro.blog/2021/06/06/one-of-many.html",
 				
-				"content_html": "<p>One of many examples of how absurdly bad the hardware keyboard support for the iPad truly is.</p>\n<p>What happened to “measure a thousand times”?</p>\n<p>&lt;img src=&ldquo;uploads/2021/040aef9486.png&rdquo; alt=“Screenshot of iPad with multiple apps open, and two different information panes for keyboard shortcuts appearing simultaneously.”/&gt;</p>\n",
-				"content_text": "One of many examples of how absurdly bad the hardware keyboard support for the iPad truly is.\n\nWhat happened to “measure a thousand times”?\n\n<img src=\"uploads/2021/040aef9486.png\" alt=“Screenshot of iPad with multiple apps open, and two different information panes for keyboard shortcuts appearing simultaneously.”/>\n",
+				"content_html": "<p>One of many examples of how absurdly bad the hardware keyboard support for the iPad truly is.</p>\n<p>What happened to “measure a thousand times”?</p>\n<p>&lt;img src=&ldquo;<a href=\"http://simonmumbles.micro.blog/uploads/2021/040aef9486.png%22\">http://simonmumbles.micro.blog/uploads/2021/040aef9486.png&quot;</a> alt=“Screenshot of iPad with multiple apps open, and two different information panes for keyboard shortcuts appearing simultaneously.”/&gt;</p>\n",
+				"content_text": "One of many examples of how absurdly bad the hardware keyboard support for the iPad truly is.\n\nWhat happened to “measure a thousand times”?\n\n<img src=\"http://simonmumbles.micro.blog/uploads/2021/040aef9486.png\" alt=“Screenshot of iPad with multiple apps open, and two different information panes for keyboard shortcuts appearing simultaneously.”/>\n",
 				"date_published": "2021-06-06T03:02:23+01:00",
 				"url": "https://swoods.net/2021/06/06/one-of-many.html",
 				"tags": ["short"]
@@ -10036,7 +10099,7 @@
 				"id": "http://simonmumbles.micro.blog/2021/02/06/the-thing-about.html",
 				
 				"content_html": "<p>The thing about living with pets; you never know where they’ll appear.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The thing about living with pets; you never know where they’ll appear.\n\n<img src=\"uploads/2021/9afcc7aad5.jpg\" width=\"600\" height=\"600\" alt=\"Cat lying on a dining chair, revealed by a lifted tablecloth.\" />\n",
+				"content_text": "The thing about living with pets; you never know where they’ll appear.\n\n<img src=\"http://simonmumbles.micro.blog/uploads/2021/9afcc7aad5.jpg\" width=\"600\" height=\"600\" alt=\"Cat lying on a dining chair, revealed by a lifted tablecloth.\" />\n",
 				"date_published": "2021-02-06T17:05:32+01:00",
 				"url": "https://swoods.net/2021/02/06/the-thing-about.html",
 				"tags": ["short"]
@@ -10063,7 +10126,7 @@
 				"id": "http://simonmumbles.micro.blog/2021/02/04/layers-of-joy.html",
 				
 				"content_html": "<p>Layers of joy.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Layers of joy.\n\n<img src=\"uploads/2021/76e8a45156.jpg\" width=\"600\" height=\"400\" alt=\"Close-up on a jar of coffee beans.\" />\n",
+				"content_text": "Layers of joy.\n\n<img src=\"http://simonmumbles.micro.blog/uploads/2021/76e8a45156.jpg\" width=\"600\" height=\"400\" alt=\"Close-up on a jar of coffee beans.\" />\n",
 				"date_published": "2021-02-04T19:34:03+01:00",
 				"url": "https://swoods.net/2021/02/04/layers-of-joy.html",
 				"tags": ["short"]
@@ -10081,7 +10144,7 @@
 				"id": "http://simonmumbles.micro.blog/2021/02/03/were-relieved-that.html",
 				
 				"content_html": "<p>We’re relieved that she approves of the new furniture, in enough comfort to drape her paw thus.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We’re relieved that she approves of the new furniture, in enough comfort to drape her paw thus.\n\n<img src=\"uploads/2021/0d953b81e1.jpg\" width=\"450\" height=\"600\" alt=\"Cat lying in a cat-bed, attached to a wall.\" />\n",
+				"content_text": "We’re relieved that she approves of the new furniture, in enough comfort to drape her paw thus.\n\n<img src=\"http://simonmumbles.micro.blog/uploads/2021/0d953b81e1.jpg\" width=\"450\" height=\"600\" alt=\"Cat lying in a cat-bed, attached to a wall.\" />\n",
 				"date_published": "2021-02-03T22:16:49+01:00",
 				"url": "https://swoods.net/2021/02/03/were-relieved-that.html",
 				"tags": ["short"]
@@ -10090,7 +10153,7 @@
 				"id": "http://simonmumbles.micro.blog/2021/02/02/this-was-my.html",
 				
 				"content_html": "<p>This was my second cup of tea for the day. The first, my morning beverage, was  sadly due to a lack of coffee.</p>\n<p>A new grinder is on the way to solve this dilemma!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This was my second cup of tea for the day. The first, my morning beverage, was  sadly due to a lack of coffee.\n\nA new grinder is on the way to solve this dilemma!\n\n<img src=\"uploads/2021/f1685d1e18.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "This was my second cup of tea for the day. The first, my morning beverage, was  sadly due to a lack of coffee.\n\nA new grinder is on the way to solve this dilemma!\n\n<img src=\"http://simonmumbles.micro.blog/uploads/2021/f1685d1e18.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-02T18:33:39+01:00",
 				"url": "https://swoods.net/2021/02/02/this-was-my.html",
 				"tags": ["short"]
@@ -10099,7 +10162,7 @@
 				"id": "http://simonmumbles.micro.blog/2021/02/01/close-up-with.html",
 				
 				"content_html": "<p>Close up with the most important part of the day.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Close up with the most important part of the day.\n\n<img src=\"uploads/2021/efc390d84c.jpg\" width=\"600\" height=\"599\" alt=\"Coffee being poured into a glass.\" />\n",
+				"content_text": "Close up with the most important part of the day.\n\n<img src=\"http://simonmumbles.micro.blog/uploads/2021/efc390d84c.jpg\" width=\"600\" height=\"599\" alt=\"Coffee being poured into a glass.\" />\n",
 				"date_published": "2021-02-01T15:26:56+01:00",
 				"url": "https://swoods.net/2021/02/01/close-up-with.html",
 				"tags": ["short"]
@@ -10621,7 +10684,7 @@
 				"id": "http://simonmumbles.micro.blog/2020/09/13/021815.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>🤨</p>\n",
-				"content_text": "<img src=\"uploads/2020/2e740028f9.png\" width=\"429\" height=\"282\" alt=\"\" />\r\n\r\n🤨\n",
+				"content_text": "<img src=\"http://simonmumbles.micro.blog/uploads/2020/2e740028f9.png\" width=\"429\" height=\"282\" alt=\"\" />\r\n\r\n🤨\n",
 				"date_published": "2020-09-13T02:18:15+01:00",
 				"url": "https://swoods.net/2020/09/13/021815.html",
 				"tags": ["short"]
@@ -10963,7 +11026,7 @@
 				"id": "http://simonmumbles.micro.blog/2020/08/21/ive-just-spent.html",
 				
 				"content_html": "<p>I&rsquo;ve just spent less than an hour reorganising my iPhone home screen. Apple have nailed these new features and I&rsquo;m even using the Today View more and now have a single page &ndash; no dots! &ndash; and considering this is the first version, on a beta, it is suprisingly slick:</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I've just spent less than an hour reorganising my iPhone home screen. Apple have nailed these new features and I'm even using the Today View more and now have a single page -- no dots! -- and considering this is the first version, on a beta, it is suprisingly slick:\r\n\r\n\n\n<img src=\"uploads/2020/60af4d7d44.jpg\" width=\"337\" height=\"600\" alt=\"Screenshot of an iPhone homescreen using iOS 14.\" />\n",
+				"content_text": "I've just spent less than an hour reorganising my iPhone home screen. Apple have nailed these new features and I'm even using the Today View more and now have a single page -- no dots! -- and considering this is the first version, on a beta, it is suprisingly slick:\r\n\r\n\n\n<img src=\"http://simonmumbles.micro.blog/uploads/2020/60af4d7d44.jpg\" width=\"337\" height=\"600\" alt=\"Screenshot of an iPhone homescreen using iOS 14.\" />\n",
 				"date_published": "2020-08-21T01:00:00+01:00",
 				"url": "https://swoods.net/2020/08/21/ive-just-spent.html",
 				"tags": ["short"]
@@ -11008,7 +11071,7 @@
 				"id": "http://simonmumbles.micro.blog/2020/08/19/lets-see-what.html",
 				
 				"content_html": "<p>Let’s see what happens</p>\n<!-- raw HTML omitted -->\n<p>With the new editor in Sunlit</p>\n<!-- raw HTML omitted -->\n<p>That’s pretty nice!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Let’s see what happens\n\n<img src=\"uploads/2020/6849c17734.jpg\" width=\"3024.0\" height=\"4032.0\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n\nWith the new editor in Sunlit\n\n<img src=\"uploads/2020/3fa8f5f202.jpg\" width=\"3024.0\" height=\"4032.0\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n\nThat’s pretty nice!\n\n<a href=\"http://simonmumbles.micro.blog/uploads/2020/5da57f4024.jpg\"><img src=\"uploads/2020/5da57f4024.jpg\" width=\"3024.0\" height=\"4032.0\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://simonmumbles.micro.blog/uploads/2020/b102a9a483.jpg\"><img src=\"uploads/2020/b102a9a483.jpg\" width=\"3024.0\" height=\"4032.0\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n",
+				"content_text": "Let’s see what happens\n\n<img src=\"http://simonmumbles.micro.blog/uploads/2020/6849c17734.jpg\" width=\"3024.0\" height=\"4032.0\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n\nWith the new editor in Sunlit\n\n<img src=\"http://simonmumbles.micro.blog/uploads/2020/3fa8f5f202.jpg\" width=\"3024.0\" height=\"4032.0\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n\nThat’s pretty nice!\n\n<a href=\"http://simonmumbles.micro.blog/uploads/2020/5da57f4024.jpg\"><img src=\"http://simonmumbles.micro.blog/uploads/2020/5da57f4024.jpg\" width=\"3024.0\" height=\"4032.0\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://simonmumbles.micro.blog/uploads/2020/b102a9a483.jpg\"><img src=\"http://simonmumbles.micro.blog/uploads/2020/b102a9a483.jpg\" width=\"3024.0\" height=\"4032.0\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n",
 				"date_published": "2020-08-19T01:47:37+01:00",
 				"url": "https://swoods.net/2020/08/19/lets-see-what.html",
 				"tags": ["short"]
@@ -11071,7 +11134,7 @@
 				"id": "http://simonmumbles.micro.blog/2020/08/17/happy-with-the.html",
 				
 				"content_html": "<p>Happy with the completion of my new set-up. 😎</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Happy with the completion of my new set-up. 😎\n\n<img src=\"uploads/2020/f14a93f037.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_text": "Happy with the completion of my new set-up. 😎\n\n<img src=\"http://simonmumbles.micro.blog/uploads/2020/f14a93f037.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2020-08-17T14:15:46+01:00",
 				"url": "https://swoods.net/2020/08/17/happy-with-the.html",
 				"tags": ["short"]
@@ -11233,7 +11296,7 @@
 				"id": "http://simonmumbles.micro.blog/2020/08/06/flow-into-flow.html",
 				
 				"content_html": "<p>Flow into flow.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Flow into flow.\n\n<img src=\"uploads/2020/379d6e0ce9.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Flow into flow.\n\n<img src=\"http://simonmumbles.micro.blog/uploads/2020/379d6e0ce9.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-08-06T02:34:28+01:00",
 				"url": "https://swoods.net/2020/08/06/flow-into-flow.html",
 				"tags": ["short"]
@@ -11260,7 +11323,7 @@
 				"id": "http://simonmumbles.micro.blog/2020/08/04/peace-in-the.html",
 				
 				"content_html": "<p>Peace in the kingdom?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Peace in the kingdom?\n\n<img src=\"uploads/2020/09dd2d0a0e.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Peace in the kingdom?\n\n<img src=\"http://simonmumbles.micro.blog/uploads/2020/09dd2d0a0e.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-08-04T14:48:17+01:00",
 				"url": "https://swoods.net/2020/08/04/peace-in-the.html",
 				"tags": ["short"]
@@ -11269,7 +11332,7 @@
 				"id": "http://simonmumbles.micro.blog/2020/08/04/bug-hunter-hard.html",
 				
 				"content_html": "<p>Bug hunter, hard at work.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Bug hunter, hard at work.\n\n<img src=\"uploads/2020/780d5ef4ed.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Bug hunter, hard at work.\n\n<img src=\"http://simonmumbles.micro.blog/uploads/2020/780d5ef4ed.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-08-04T00:10:38+01:00",
 				"url": "https://swoods.net/2020/08/04/bug-hunter-hard.html",
 				"tags": ["short"]
@@ -11287,7 +11350,7 @@
 				"id": "http://simonmumbles.micro.blog/2020/08/02/the-floating-bag.html",
 				
 				"content_html": "<p>The floating bag, soothing Darjeeling within.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The floating bag, soothing Darjeeling within.\n\n<img src=\"uploads/2020/381a2d5b0a.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "The floating bag, soothing Darjeeling within.\n\n<img src=\"http://simonmumbles.micro.blog/uploads/2020/381a2d5b0a.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-08-02T20:19:10+01:00",
 				"url": "https://swoods.net/2020/08/02/the-floating-bag.html",
 				"tags": ["short"]
@@ -11341,7 +11404,7 @@
 				"id": "http://simonmumbles.micro.blog/2020/08/01/look.html",
 				
 				"content_html": "<p>Look up&hellip;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Look up...\n\n<img src=\"uploads/2020/eddc97a2ca.jpg\" width=\"450\" height=\"600\" alt=\"Cat lying down on desk, looking up.\" />\n",
+				"content_text": "Look up...\n\n<img src=\"http://simonmumbles.micro.blog/uploads/2020/eddc97a2ca.jpg\" width=\"450\" height=\"600\" alt=\"Cat lying down on desk, looking up.\" />\n",
 				"date_published": "2020-08-01T02:29:00+01:00",
 				"url": "https://swoods.net/2020/08/01/look.html",
 				"tags": ["short"]
@@ -11386,7 +11449,7 @@
 				"id": "http://simonmumbles.micro.blog/2020/07/29/025911.html",
 				
 				"content_html": "<p>🤔</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🤔\n\n<img src=\"uploads/2020/b1077b97e1.png\" width=\"600\" height=\"576\" alt=\"Micro.blog screenshot with dark mode via extension.\" />\n",
+				"content_text": "🤔\n\n<img src=\"http://simonmumbles.micro.blog/uploads/2020/b1077b97e1.png\" width=\"600\" height=\"576\" alt=\"Micro.blog screenshot with dark mode via extension.\" />\n",
 				"date_published": "2020-07-29T02:59:11+01:00",
 				"url": "https://swoods.net/2020/07/29/025911.html",
 				"tags": ["short"]
@@ -11656,7 +11719,7 @@
 				"id": "http://simonmumbles.micro.blog/2020/07/09/valiant-disney-protecting.html",
 				
 				"content_html": "<p><a href=\"https://www.kickscondor.com/\">Valiant Disney, protecting all of the children.</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Valiant Disney, protecting all of the children.](https://www.kickscondor.com/)\r\n\r\n<img src=\"uploads/2020/15f4c97a8b.png\" width=\"912\" height=\"608\" alt=\"\" />\n",
+				"content_text": "[Valiant Disney, protecting all of the children.](https://www.kickscondor.com/)\r\n\r\n<img src=\"http://simonmumbles.micro.blog/uploads/2020/15f4c97a8b.png\" width=\"912\" height=\"608\" alt=\"\" />\n",
 				"date_published": "2020-07-09T14:32:22+01:00",
 				"url": "https://swoods.net/2020/07/09/valiant-disney-protecting.html",
 				"tags": ["links","short"]
@@ -11962,7 +12025,7 @@
 				"id": "http://simonmumbles.micro.blog/2020/05/14/hope-what-do.html",
 				
 				"content_html": "<p>Hope. 📷</p>\n<p>(What do you think, <a href=\"https://micro.blog/macgenie\">@macgenie</a>, one photo for the week? 😜)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hope. 📷\n\n(What do you think, [@macgenie](https://micro.blog/macgenie), one photo for the week? 😜)\n\n<img src=\"uploads/2020/0212ef2de4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Hope. 📷\n\n(What do you think, [@macgenie](https://micro.blog/macgenie), one photo for the week? 😜)\n\n<img src=\"http://simonmumbles.micro.blog/uploads/2020/0212ef2de4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-05-14T10:16:25+01:00",
 				"url": "https://swoods.net/2020/05/14/hope-what-do.html",
 				"tags": ["links","short"]
@@ -11980,7 +12043,7 @@
 				"id": "http://simonmumbles.micro.blog/2020/05/12/red.html",
 				
 				"content_html": "<p>Red 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Red 📷\n\n<img src=\"uploads/2020/09d4259cf2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Red 📷\n\n<img src=\"http://simonmumbles.micro.blog/uploads/2020/09d4259cf2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-05-12T00:55:39+01:00",
 				"url": "https://swoods.net/2020/05/12/red.html",
 				"tags": ["short"]
@@ -12187,7 +12250,7 @@
 				"id": "http://simonmumbles.micro.blog/2020/04/25/121636.html",
 				
 				"content_html": "<p>🙃</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🙃\n\n\n\n<img src=\"uploads/2020/0285f7f5d5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "🙃\n\n\n\n<img src=\"http://simonmumbles.micro.blog/uploads/2020/0285f7f5d5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-04-25T12:16:36+01:00",
 				"url": "https://swoods.net/2020/04/25/121636.html",
 				"tags": ["short"]
@@ -12394,7 +12457,7 @@
 				"id": "http://simonmumbles.micro.blog/2020/04/01/reward.html",
 				
 				"content_html": "<p>Reward. 🍻</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Reward. 🍻\n\n<img src=\"uploads/2020/184cc19410.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Reward. 🍻\n\n<img src=\"http://simonmumbles.micro.blog/uploads/2020/184cc19410.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-04-01T00:27:55+01:00",
 				"url": "https://swoods.net/2020/04/01/reward.html",
 				"tags": ["short"]
@@ -13591,7 +13654,7 @@
 				"id": "http://simonmumbles.micro.blog/2020/02/13/she-is-precious.html",
 				
 				"content_html": "<p>SHE IS PRECIOUS 😭😭😭</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "SHE IS PRECIOUS 😭😭😭\n\n<img src=\"uploads/2020/1520b468f3.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "SHE IS PRECIOUS 😭😭😭\n\n<img src=\"https://simonmumbles.micro.blog/uploads/2020/1520b468f3.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-02-13T17:12:13+01:00",
 				"url": "https://swoods.net/2020/02/13/she-is-precious.html",
 				"tags": ["short"]
@@ -14230,7 +14293,7 @@
 				"id": "http://simonmumbles.micro.blog/2020/01/19/first-new-books.html",
 				
 				"content_html": "<p>First new books of the year. 📚</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "First new books of the year. 📚\n\n<img src=\"uploads/2020/44705717e2.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_text": "First new books of the year. 📚\n\n<img src=\"https://simonmumbles.micro.blog/uploads/2020/44705717e2.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-01-19T21:17:06+01:00",
 				"url": "https://swoods.net/2020/01/19/first-new-books.html",
 				"tags": ["short"]
@@ -14410,7 +14473,7 @@
 				"id": "http://simonmumbles.micro.blog/2020/01/12/back-on-my.html",
 				
 				"content_html": "<p>Back on my bullshit.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Back on my bullshit.\n\n<img src=\"uploads/2020/3c20b9e3b6.jpg\" width=\"338\" height=\"600\" alt=\"Screenshot of my iPhone SE as of the time of publishing.\" />\n",
+				"content_text": "Back on my bullshit.\n\n<img src=\"https://simonmumbles.micro.blog/uploads/2020/3c20b9e3b6.jpg\" width=\"338\" height=\"600\" alt=\"Screenshot of my iPhone SE as of the time of publishing.\" />\n",
 				"date_published": "2020-01-12T22:38:28+01:00",
 				"url": "https://swoods.net/2020/01/12/back-on-my.html",
 				"tags": ["short"]
@@ -14635,7 +14698,7 @@
 				"id": "http://simonmumbles.micro.blog/2020/01/02/ht-leo-ji.html",
 				
 				"content_html": "<p>😒</p>\n<p>(<a href=\"https://twitter.com/theleoji/status/1212387604064280581\">h/t Leo Ji</a>)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "😒\r\n\r\n([h/t Leo Ji](https://twitter.com/theleoji/status/1212387604064280581))\n\n<img src=\"uploads/2020/dc39c0b6ee.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "😒\r\n\r\n([h/t Leo Ji](https://twitter.com/theleoji/status/1212387604064280581))\n\n<img src=\"https://simonmumbles.micro.blog/uploads/2020/dc39c0b6ee.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-01-02T06:30:18+01:00",
 				"url": "https://swoods.net/2020/01/02/ht-leo-ji.html",
 				"tags": ["links","short"]
@@ -14734,7 +14797,7 @@
 				"id": "http://simonmumbles.micro.blog/2019/12/29/i-would-very.html",
 				
 				"content_html": "<p>I would very much like to upgrade to Flickr Pro but how can <em>anyone</em> trust this page?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I would very much like to upgrade to Flickr Pro but how can _anyone_ trust this page?\n\n<img src=\"uploads/2019/b823808960.jpg\" width=\"600\" height=\"362\" alt=\"\" />\n",
+				"content_text": "I would very much like to upgrade to Flickr Pro but how can _anyone_ trust this page?\n\n<img src=\"https://simonmumbles.micro.blog/uploads/2019/b823808960.jpg\" width=\"600\" height=\"362\" alt=\"\" />\n",
 				"date_published": "2019-12-29T09:28:29+01:00",
 				"url": "https://swoods.net/2019/12/29/i-would-very.html",
 				"tags": ["short"]
@@ -14887,7 +14950,7 @@
 				"id": "http://simonmumbles.micro.blog/2019/12/05/this-job-board.html",
 				
 				"content_html": "<p>This job board on Techmeme reads like a list of threats.</p>\n<p>(Note: Automattic has&hellip; ambitions.)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This job board on Techmeme reads like a list of threats.\n\n(Note: Automattic has... ambitions.)\n\n<img src=\"uploads/2019/5ffb86b5d8.jpg\" width=\"369\" height=\"530\" alt=\"\" />\n",
+				"content_text": "This job board on Techmeme reads like a list of threats.\n\n(Note: Automattic has... ambitions.)\n\n<img src=\"https://simonmumbles.micro.blog/uploads/2019/5ffb86b5d8.jpg\" width=\"369\" height=\"530\" alt=\"\" />\n",
 				"date_published": "2019-12-06T00:38:14+01:00",
 				"url": "https://swoods.net/2019/12/05/this-job-board.html",
 				"tags": ["short"]
@@ -14905,7 +14968,7 @@
 				"id": "http://simonmumbles.micro.blog/2019/12/05/she-likes-the.html",
 				
 				"content_html": "<p>She likes the new rug. A lot.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "She likes the new rug. A lot.\n\n<img src=\"uploads/2019/e58bfbda28.jpg\" width=\"337\" height=\"600\" alt=\"\" />\n",
+				"content_text": "She likes the new rug. A lot.\n\n<img src=\"https://simonmumbles.micro.blog/uploads/2019/e58bfbda28.jpg\" width=\"337\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-12-05T02:36:15+01:00",
 				"url": "https://swoods.net/2019/12/05/she-likes-the.html",
 				"tags": ["short"]
@@ -14950,7 +15013,7 @@
 				"id": "http://simonmumbles.micro.blog/2019/12/02/home-screen-december.html",
 				
 				"content_html": "<p>Home Screen: December, 2019</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Home Screen: December, 2019\n\n<img src=\"uploads/2019/af8ec2c7e3.jpg\" width=\"338\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Home Screen: December, 2019\n\n<img src=\"https://simonmumbles.micro.blog/uploads/2019/af8ec2c7e3.jpg\" width=\"338\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-12-02T02:23:32+01:00",
 				"url": "https://swoods.net/2019/12/02/home-screen-december.html",
 				"tags": ["short"]
@@ -15004,7 +15067,7 @@
 				"id": "http://simonmumbles.micro.blog/2019/11/30/what-they-do.html",
 				
 				"content_html": "<p>what they do in the shadows</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "what they do in the shadows\n\n<img src=\"uploads/2019/d772b831f4.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_text": "what they do in the shadows\n\n<img src=\"https://simonmumbles.micro.blog/uploads/2019/d772b831f4.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-11-30T06:13:29+01:00",
 				"url": "https://swoods.net/2019/11/30/what-they-do.html",
 				"tags": ["short"]
@@ -15022,7 +15085,7 @@
 				"id": "http://simonmumbles.micro.blog/2019/11/29/got-my-new.html",
 				
 				"content_html": "<p>Got my new phone.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Got my new phone.\n\n<img src=\"uploads/2019/0007750489.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Got my new phone.\n\n<img src=\"https://simonmumbles.micro.blog/uploads/2019/0007750489.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-11-29T19:00:00+01:00",
 				"url": "https://swoods.net/2019/11/29/got-my-new.html",
 				"tags": ["short"]
@@ -15058,7 +15121,7 @@
 				"id": "http://simonmumbles.micro.blog/2019/11/27/treat-day.html",
 				
 				"content_html": "<p>treat day</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "treat day\n\n<img src=\"uploads/2019/a2f9ff9a5f.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_text": "treat day\n\n<img src=\"https://simonmumbles.micro.blog/uploads/2019/a2f9ff9a5f.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2019-11-27T18:29:54+01:00",
 				"url": "https://swoods.net/2019/11/27/treat-day.html",
 				"tags": ["short"]
@@ -15067,7 +15130,7 @@
 				"id": "http://simonmumbles.micro.blog/2019/11/27/slippery-slope.html",
 				
 				"content_html": "<p>Slippery slope.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Slippery slope.\n\n<img src=\"uploads/2019/259bda9d8d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Slippery slope.\n\n<img src=\"https://simonmumbles.micro.blog/uploads/2019/259bda9d8d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-11-27T15:04:48+01:00",
 				"url": "https://swoods.net/2019/11/27/slippery-slope.html",
 				"tags": ["short"]
@@ -15121,7 +15184,7 @@
 				"id": "http://simonmumbles.micro.blog/2019/11/24/113717.html",
 				
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "<a href=\"https://twitter.com/jack/status/560861182622724096\"><img src=\"uploads/2018/07ea51bc55.jpg\" width=\"215\" height=\"106\" alt=\"\" /></a>\n",
+				"content_text": "<a href=\"https://twitter.com/jack/status/560861182622724096\"><img src=\"https://simonmumbles.micro.blog/uploads/2018/07ea51bc55.jpg\" width=\"215\" height=\"106\" alt=\"\" /></a>\n",
 				"date_published": "2019-11-24T12:37:17+01:00",
 				"url": "https://swoods.net/2019/11/24/113717.html",
 				"tags": ["short"]
@@ -15463,7 +15526,7 @@
 				"id": "http://simonmumbles.micro.blog/2019/10/24/its-cold-outside.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>It&rsquo;s cold outside.</p>\n",
-				"content_text": "<img src=\"uploads/2019/742165aa4b.jpg\" width=\"600\" height=\"600\" alt=\"A calico tortoiseshell cat, lying spread out in a cat bed, in front of a radiator.\" />\n\nIt's cold outside.\n",
+				"content_text": "<img src=\"https://simonmumbles.micro.blog/uploads/2019/742165aa4b.jpg\" width=\"600\" height=\"600\" alt=\"A calico tortoiseshell cat, lying spread out in a cat bed, in front of a radiator.\" />\n\nIt's cold outside.\n",
 				"date_published": "2019-10-24T18:42:09+01:00",
 				"url": "https://swoods.net/2019/10/24/its-cold-outside.html",
 				"tags": ["short"]
@@ -15634,7 +15697,7 @@
 				"id": "http://simonmumbles.micro.blog/2019/09/25/the-aforementioned-chromecast.html",
 				
 				"content_html": "<p>The aforementioned chromecast and lyrics features for Apple Music on Android (middle and left icons, below the playback controls):</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The aforementioned chromecast and lyrics features for Apple Music on Android (middle and left icons, below the playback controls):\n\n<img src=\"uploads/2019/581e832d3a.jpg\" width=\"300\" height=\"600\" alt=\"\" />\n",
+				"content_text": "The aforementioned chromecast and lyrics features for Apple Music on Android (middle and left icons, below the playback controls):\n\n<img src=\"https://simonmumbles.micro.blog/uploads/2019/581e832d3a.jpg\" width=\"300\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-09-25T04:46:34+01:00",
 				"url": "https://swoods.net/2019/09/25/the-aforementioned-chromecast.html",
 				"tags": ["short"]
@@ -15643,7 +15706,7 @@
 				"id": "http://simonmumbles.micro.blog/2019/09/25/dark-mode-for.html",
 				
 				"content_html": "<p>Dark Mode for Apple Music&hellip; on Android. Also: built-in chromecast support <em>and</em> the new lyrics feature.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Dark Mode for Apple Music... on Android. Also: built-in chromecast support _and_ the new lyrics feature.\n\n<img src=\"uploads/2019/ff0500e23d.jpg\" width=\"300\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Dark Mode for Apple Music... on Android. Also: built-in chromecast support _and_ the new lyrics feature.\n\n<img src=\"https://simonmumbles.micro.blog/uploads/2019/ff0500e23d.jpg\" width=\"300\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-09-25T04:43:13+01:00",
 				"url": "https://swoods.net/2019/09/25/dark-mode-for.html",
 				"tags": ["short"]
@@ -15895,7 +15958,7 @@
 				"id": "http://simonmumbles.micro.blog/2019/08/29/home-screen-august.html",
 				
 				"content_html": "<p>Home Screen: August, 2019</p>\n<p>As part of my move away from Google, I&rsquo;m now trying (and enjoying) the following:</p>\n<ul>\n<li>Nova Launcher: removes the clutter of the Pixel Launcher</li>\n<li>Firefox Focus: lightweight browsing FTW</li>\n<li>DuckDuckGo: results I want</li>\n<li>Protonmail: accessible privacy</li>\n</ul>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Home Screen: August, 2019\n\nAs part of my move away from Google, I'm now trying (and enjoying) the following:\n\n* Nova Launcher: removes the clutter of the Pixel Launcher\n* Firefox Focus: lightweight browsing FTW\n* DuckDuckGo: results I want\n* Protonmail: accessible privacy\n\n<img src=\"uploads/2019/b4175ad7fb.jpg\" width=\"300\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Home Screen: August, 2019\n\nAs part of my move away from Google, I'm now trying (and enjoying) the following:\n\n* Nova Launcher: removes the clutter of the Pixel Launcher\n* Firefox Focus: lightweight browsing FTW\n* DuckDuckGo: results I want\n* Protonmail: accessible privacy\n\n<img src=\"https://simonmumbles.micro.blog/uploads/2019/b4175ad7fb.jpg\" width=\"300\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-08-29T19:29:07+01:00",
 				"url": "https://swoods.net/2019/08/29/home-screen-august.html",
 				"tags": ["short"]
@@ -16183,7 +16246,7 @@
 				"id": "http://simonmumbles.micro.blog/2019/08/12/my-unpopular-opinion.html",
 				
 				"content_html": "<blockquote>\n<p>My unpopular opinion: it’s a testimony to the Clintons’ extraordinarily hardball political acumen that they’ve been subjected to these fever dream theories for 30 years and <strong>go-along-to-get-along</strong> Obama never was.</p>\n</blockquote>\n<p>&ndash; <a href=\"https://twitter.com/gruber/status/1160296179923599361\">John Gruber</a></p>\n<p>Meanwhile:</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "> My unpopular opinion: it’s a testimony to the Clintons’ extraordinarily hardball political acumen that they’ve been subjected to these fever dream theories for 30 years and __go-along-to-get-along__ Obama never was.\n\n-- [John Gruber](https://twitter.com/gruber/status/1160296179923599361)\n\nMeanwhile:\n\n<img src=\"uploads/2019/6e291a6a5e.jpg\" alt=\"\" />\n",
+				"content_text": "> My unpopular opinion: it’s a testimony to the Clintons’ extraordinarily hardball political acumen that they’ve been subjected to these fever dream theories for 30 years and __go-along-to-get-along__ Obama never was.\n\n-- [John Gruber](https://twitter.com/gruber/status/1160296179923599361)\n\nMeanwhile:\n\n<img src=\"https://simonmumbles.micro.blog/uploads/2019/6e291a6a5e.jpg\" alt=\"\" />\n",
 				"date_published": "2019-08-12T02:46:24+01:00",
 				"url": "https://swoods.net/2019/08/12/my-unpopular-opinion.html",
 				"tags": ["links","short"]
@@ -16390,7 +16453,7 @@
 				"id": "http://simonmumbles.micro.blog/2019/07/20/blep-for-macgenie.html",
 				
 				"content_html": "<p>Blep.</p>\n<p>For <a href=\"https://micro.blog/macgenie\">@macgenie</a>. 💛</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Blep.\n\nFor [@macgenie](https://micro.blog/macgenie). 💛\n\n<img src=\"uploads/2019/b1c14a589f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Blep.\n\nFor [@macgenie](https://micro.blog/macgenie). 💛\n\n<img src=\"https://simonmumbles.micro.blog/uploads/2019/b1c14a589f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-07-20T19:40:00+01:00",
 				"url": "https://swoods.net/2019/07/20/blep-for-macgenie.html",
 				"tags": ["links","short"]
@@ -17128,7 +17191,7 @@
 				"id": "http://simonmumbles.micro.blog/2019/05/19/boom-front-page.html",
 				
 				"content_html": "<p>Boom. Front page. Not bad eh, <a href=\"https://micro.blog/manton\">@manton</a>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Boom. Front page. Not bad eh, [@manton](https://micro.blog/manton).\n\n<img src=\"uploads/2019/d18f5ec895.png\" width=\"600\" height=\"400\" alt=\"\" />\n",
+				"content_text": "Boom. Front page. Not bad eh, [@manton](https://micro.blog/manton).\n\n<img src=\"https://simonmumbles.micro.blog/uploads/2019/d18f5ec895.png\" width=\"600\" height=\"400\" alt=\"\" />\n",
 				"date_published": "2019-05-19T23:48:00+01:00",
 				"url": "https://swoods.net/2019/05/19/boom-front-page.html",
 				"tags": ["links","short"]
@@ -17155,7 +17218,7 @@
 				"id": "http://simonmumbles.micro.blog/2019/05/17/a-blur-at.html",
 				
 				"content_html": "<p>A blur at night.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A blur at night.\n\n<img src=\"uploads/2019/f9d09513e4.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "A blur at night.\n\n<img src=\"https://simonmumbles.micro.blog/uploads/2019/f9d09513e4.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-05-17T22:19:55+01:00",
 				"url": "https://swoods.net/2019/05/17/a-blur-at.html",
 				"tags": ["short"]
@@ -17344,7 +17407,7 @@
 				"id": "http://simonmumbles.micro.blog/2019/04/25/115400.html",
 				
 				"content_html": "<p>👀</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "👀\n\n<img src=\"uploads/2019/784e08a083.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "👀\n\n<img src=\"https://simonmumbles.micro.blog/uploads/2019/784e08a083.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-04-25T11:54:00+01:00",
 				"url": "https://swoods.net/2019/04/25/115400.html",
 				"tags": ["short"]
@@ -17578,7 +17641,7 @@
 				"id": "http://simonmumbles.micro.blog/2019/03/18/im-going-to.html",
 				
 				"content_html": "<p>I&rsquo;m going to go ahead and break up my current blitz of replies on Micro.blog by saying: sorry!</p>\n<p>Here are some kitty tracks to help smooth over the flood of posts:</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I'm going to go ahead and break up my current blitz of replies on Micro.blog by saying: sorry!\n\nHere are some kitty tracks to help smooth over the flood of posts:\n\n\n\n<img src=\"uploads/2019/506cae3750.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "I'm going to go ahead and break up my current blitz of replies on Micro.blog by saying: sorry!\n\nHere are some kitty tracks to help smooth over the flood of posts:\n\n\n\n<img src=\"https://simonmumbles.micro.blog/uploads/2019/506cae3750.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-03-18T04:51:09+01:00",
 				"url": "https://swoods.net/2019/03/18/im-going-to.html",
 				"tags": ["short"]
@@ -17902,7 +17965,7 @@
 				"id": "http://simonmumbles.micro.blog/2019/03/02/th-microblog-post.html",
 				
 				"content_html": "<p>My 1000th Micro.blog post.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My 1000th Micro.blog post.\n\n<img src=\"uploads/2019/abfee08473.jpg\" width=\"500\" height=\"281\" alt=\"\" />\n",
+				"content_text": "My 1000th Micro.blog post.\n\n<img src=\"https://simonmumbles.micro.blog/uploads/2019/abfee08473.jpg\" width=\"500\" height=\"281\" alt=\"\" />\n",
 				"date_published": "2019-03-02T03:55:52+01:00",
 				"url": "https://swoods.net/2019/03/02/th-microblog-post.html",
 				"tags": ["short"]
@@ -19243,7 +19306,7 @@
 				"id": "http://simonmumbles.micro.blog/2018/11/23/220739.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2018/85256b6e24.jpg\" width=\"600\" height=\"590\" />\n",
+				"content_text": "\n\n<img src=\"https://simonmumbles.micro.blog/uploads/2018/85256b6e24.jpg\" width=\"600\" height=\"590\" />\n",
 				"date_published": "2018-11-23T23:07:39+01:00",
 				"url": "https://swoods.net/2018/11/23/220739.html",
 				"tags": ["short"]
@@ -19540,7 +19603,7 @@
 				"id": "http://simonmumbles.micro.blog/2018/11/11/home-screen-november.html",
 				
 				"content_html": "<p>Home Screen: November, 2018</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Home Screen: November, 2018\r\n\r\n\n\n<img src=\"uploads/2018/f58f38f5c0.jpg\" width=\"300\" height=\"600\" />\n",
+				"content_text": "Home Screen: November, 2018\r\n\r\n\n\n<img src=\"https://simonmumbles.micro.blog/uploads/2018/f58f38f5c0.jpg\" width=\"300\" height=\"600\" />\n",
 				"date_published": "2018-11-11T20:32:32+01:00",
 				"url": "https://swoods.net/2018/11/11/home-screen-november.html",
 				"tags": ["short"]
@@ -20170,7 +20233,7 @@
 				"id": "http://simonmumbles.micro.blog/2018/09/27/home-screen-september.html",
 				
 				"content_html": "<p>Home Screen: September, 2018</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Home Screen: September, 2018\r\n\r\n\n\n<img src=\"uploads/2018/3556204215.jpg\" width=\"300\" height=\"600\" />\n",
+				"content_text": "Home Screen: September, 2018\r\n\r\n\n\n<img src=\"http://simonmumbles.micro.blog/uploads/2018/3556204215.jpg\" width=\"300\" height=\"600\" />\n",
 				"date_published": "2018-09-27T21:35:52+01:00",
 				"url": "https://swoods.net/2018/09/27/home-screen-september.html",
 				"tags": ["short"]
@@ -20314,7 +20377,7 @@
 				"id": "http://simonmumbles.micro.blog/2018/09/23/brutal.html",
 				
 				"content_html": "<p>Brutal</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Brutal\n\n<img src=\"uploads/2018/37f47aab3b.jpg\" width=\"600\" height=\"450\" />\n",
+				"content_text": "Brutal\n\n<img src=\"http://simonmumbles.micro.blog/uploads/2018/37f47aab3b.jpg\" width=\"600\" height=\"450\" />\n",
 				"date_published": "2018-09-23T21:02:42+01:00",
 				"url": "https://swoods.net/2018/09/23/brutal.html",
 				"tags": ["short"]
@@ -20503,7 +20566,7 @@
 				"id": "http://simonmumbles.micro.blog/2018/09/17/red.html",
 				
 				"content_html": "<p>Red</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Red\n\n<img src=\"uploads/2018/12d650ae75.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Red\n\n<img src=\"http://simonmumbles.micro.blog/uploads/2018/12d650ae75.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-09-17T15:51:34+01:00",
 				"url": "https://swoods.net/2018/09/17/red.html",
 				"tags": ["short"]
@@ -20719,7 +20782,7 @@
 				"id": "http://simonmumbles.micro.blog/2018/09/12/162917.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2018/dec338a827.jpg\" width=\"600\" height=\"336\" />\n",
+				"content_text": "<img src=\"http://simonmumbles.micro.blog/uploads/2018/dec338a827.jpg\" width=\"600\" height=\"336\" />\n",
 				"date_published": "2018-09-12T17:29:17+01:00",
 				"url": "https://swoods.net/2018/09/12/162917.html",
 				"tags": ["short"]
@@ -20746,7 +20809,7 @@
 				"id": "http://simonmumbles.micro.blog/2018/09/07/welp-image-an.html",
 				
 				"content_html": "<p>Welp.</p>\n<p>(Image: An iPad in its box, yet to be opened.)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Welp. \n\n(Image: An iPad in its box, yet to be opened.)\n\n<img src=\"uploads/2018/0900edc9e1.jpg\">\n",
+				"content_text": "Welp. \n\n(Image: An iPad in its box, yet to be opened.)\n\n<img src=\"http://simonmumbles.micro.blog/uploads/2018/0900edc9e1.jpg\">\n",
 				"date_published": "2018-09-07T15:21:55+01:00",
 				"url": "https://swoods.net/2018/09/07/welp-image-an.html",
 				"tags": ["short"]
@@ -20971,7 +21034,7 @@
 				"id": "http://simonmumbles.micro.blog/2018/08/31/image-a-screenshot.html",
 				
 				"content_html": "<p>👀</p>\n<p>(Image: A screenshot of the Micro.blog upgrade page for the Today I Learned account.)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "👀\r\n\r\n(Image: A screenshot of the Micro.blog upgrade page for the Today I Learned account.)\n\n<img src=\"uploads/2018/5fb83565f2.jpg\" width=\"600\" height=\"157\" />\n",
+				"content_text": "👀\r\n\r\n(Image: A screenshot of the Micro.blog upgrade page for the Today I Learned account.)\n\n<img src=\"http://simonmumbles.micro.blog/uploads/2018/5fb83565f2.jpg\" width=\"600\" height=\"157\" />\n",
 				"date_published": "2018-08-31T18:46:27+01:00",
 				"url": "https://swoods.net/2018/08/31/image-a-screenshot.html",
 				"tags": ["short"]
@@ -21259,7 +21322,7 @@
 				"id": "http://simonmumbles.micro.blog/2018/08/25/home-screen-august.html",
 				
 				"content_html": "<p>Home Screen: August, 2018</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Home Screen: August, 2018\r\n\r\n\n\n<img src=\"uploads/2018/31339474d8.jpg\" width=\"300\" height=\"600\" />\n",
+				"content_text": "Home Screen: August, 2018\r\n\r\n\n\n<img src=\"http://simonmumbles.micro.blog/uploads/2018/31339474d8.jpg\" width=\"300\" height=\"600\" />\n",
 				"date_published": "2018-08-25T19:42:10+01:00",
 				"url": "https://swoods.net/2018/08/25/home-screen-august.html",
 				"tags": ["short"]
@@ -21277,7 +21340,7 @@
 				"id": "http://simonmumbles.micro.blog/2018/08/24/bad-tweets.html",
 				"title": "Bad Tweets",
 				"content_html": "<!-- raw HTML omitted -->\n<p>(Image: man appreciating his onions, with captions about twitter; &ldquo;me&rdquo; &ldquo;bad tweets&rdquo; &ldquo;Thousands of books, journals and articles I could ever want to read about.&rdquo;)</p>\n<p>I can&rsquo;t stop thinking about this image. It feels like a great representation of why I&rsquo;m generally done with both the closed web and social media in general, specifically with regard to personal use.</p>\n<p>Anyway, I&rsquo;m with <a href=\"https://twitter.com/mathowie\">Matt Haughey</a>, <a href=\"https://twitter.com/danielpunkass/status/1027362830725595137\">Daniel Jalkut</a>, <a href=\"https://twitter.com/simonw/status/1030865818739863554\">Simon Willison</a>, <a href=\"https://twitter.com/marcoarment/status/1031319660401184769\">Marco Arment</a>, and all of the people <a href=\"https://micro.blog/discover\">already using Micro.blog</a>.</p>\n<p>Let&rsquo;s get back to <em>blogging</em>.</p>\n<p>(sources: <a href=\"https://twitter.com/pat_gardner/status/1026358304212021248\">Pat&rsquo;s tweet</a>; <a href=\"https://twitter.com/medwynsofangles/status/1026118139153719296\">Medwyn&rsquo;s tweet</a>)</p>\n",
-				"content_text": "<img src=\"uploads/2018/9a120188ab.jpg\" width=\"450\" height=\"600\" />\n\n(Image: man appreciating his onions, with captions about twitter; \"me\" \"bad tweets\" \"Thousands of books, journals and articles I could ever want to read about.\")\n\nI can't stop thinking about this image. It feels like a great representation of why I'm generally done with both the closed web and social media in general, specifically with regard to personal use.\n\nAnyway, I'm with [Matt Haughey](https://twitter.com/mathowie), [Daniel Jalkut](https://twitter.com/danielpunkass/status/1027362830725595137), [Simon Willison](https://twitter.com/simonw/status/1030865818739863554), [Marco Arment](https://twitter.com/marcoarment/status/1031319660401184769), and all of the people [already using Micro.blog](https://micro.blog/discover).\n\nLet's get back to _blogging_.\n\n(sources: [Pat's tweet](https://twitter.com/pat_gardner/status/1026358304212021248); [Medwyn's tweet](https://twitter.com/medwynsofangles/status/1026118139153719296))\n",
+				"content_text": "<img src=\"http://simonmumbles.micro.blog/uploads/2018/9a120188ab.jpg\" width=\"450\" height=\"600\" />\n\n(Image: man appreciating his onions, with captions about twitter; \"me\" \"bad tweets\" \"Thousands of books, journals and articles I could ever want to read about.\")\n\nI can't stop thinking about this image. It feels like a great representation of why I'm generally done with both the closed web and social media in general, specifically with regard to personal use.\n\nAnyway, I'm with [Matt Haughey](https://twitter.com/mathowie), [Daniel Jalkut](https://twitter.com/danielpunkass/status/1027362830725595137), [Simon Willison](https://twitter.com/simonw/status/1030865818739863554), [Marco Arment](https://twitter.com/marcoarment/status/1031319660401184769), and all of the people [already using Micro.blog](https://micro.blog/discover).\n\nLet's get back to _blogging_.\n\n(sources: [Pat's tweet](https://twitter.com/pat_gardner/status/1026358304212021248); [Medwyn's tweet](https://twitter.com/medwynsofangles/status/1026118139153719296))\n",
 				"date_published": "2018-08-24T23:45:05+01:00",
 				"url": "https://swoods.net/2018/08/24/bad-tweets.html",
 				"tags": ["long","links"]
@@ -21367,7 +21430,7 @@
 				"id": "http://simonmumbles.micro.blog/2018/08/20/cool-story-bro.html",
 				
 				"content_html": "<p>cool story bro</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "cool story bro\n\n<img src=\"uploads/2018/07ea51bc55.jpg\" width=\"600\" height=\"297\" />\n",
+				"content_text": "cool story bro\n\n<img src=\"http://simonmumbles.micro.blog/uploads/2018/07ea51bc55.jpg\" width=\"600\" height=\"297\" />\n",
 				"date_published": "2018-08-20T16:29:04+01:00",
 				"url": "https://swoods.net/2018/08/20/cool-story-bro.html",
 				"tags": ["short"]
@@ -21538,7 +21601,7 @@
 				"id": "http://simonmumbles.micro.blog/2018/08/14/154023.html",
 				
 				"content_html": "<p>One of my favourite things about Ben Thompson&rsquo;s site, Stratechery is that he chooses to <em>not</em> shout at you about his subscription offering. No pop-ups or banners or whatever. Classy. 👌</p>\n<p>(Image: screenshot of Stratechery website)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "One of my favourite things about Ben Thompson's site, Stratechery is that he chooses to _not_ shout at you about his subscription offering. No pop-ups or banners or whatever. Classy. 👌\r\n\r\n(Image: screenshot of Stratechery website)\n\n<img src=\"uploads/2018/6632c5047b.jpg\" width=\"600\" height=\"395\" />\n",
+				"content_text": "One of my favourite things about Ben Thompson's site, Stratechery is that he chooses to _not_ shout at you about his subscription offering. No pop-ups or banners or whatever. Classy. 👌\r\n\r\n(Image: screenshot of Stratechery website)\n\n<img src=\"http://simonmumbles.micro.blog/uploads/2018/6632c5047b.jpg\" width=\"600\" height=\"395\" />\n",
 				"date_published": "2018-08-14T16:40:23+01:00",
 				"url": "https://swoods.net/2018/08/14/154023.html",
 				"tags": ["short"]
@@ -23671,7 +23734,7 @@
 				"id": "http://simonmumbles.micro.blog/2018/05/13/001149.html",
 				
 				"content_html": "<p>🙃</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🙃\n\n<img src=\"uploads/2018/7233e68ca6.jpg\" width=\"600\" height=\"599\" />\n",
+				"content_text": "🙃\n\n<img src=\"http://simonmumbles.micro.blog/uploads/2018/7233e68ca6.jpg\" width=\"600\" height=\"599\" />\n",
 				"date_published": "2018-05-13T01:11:49+01:00",
 				"url": "https://swoods.net/2018/05/13/001149.html",
 				"tags": ["short"]
