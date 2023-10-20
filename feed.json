@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2023/10/20/oh-i-am.html",
+				
+				"content_html": "<p>Oh&hellip; I am now in my seventh year of Micro.blog.</p>\n",
+				"content_text": "Oh... I am now in my seventh year of Micro.blog.\n",
+				"date_published": "2023-10-20T07:15:04+01:00",
+				"url": "https://swoods.net/2023/10/20/oh-i-am.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/10/19/am-i-wrong.html",
+				
+				"content_html": "<p>Am I wrong that in most cases I find it weird <em>broken account access</em> isn&rsquo;t given some sort of special automated action for people to take? Like, I have to wait for you to reply to my email when such a fundamental idea as <em>accessing the service</em> is broken&hellip; just feels weird.</p>\n",
+				"content_text": "Am I wrong that in most cases I find it weird _broken account access_ isn't given some sort of special automated action for people to take? Like, I have to wait for you to reply to my email when such a fundamental idea as _accessing the service_ is broken... just feels weird.\n",
+				"date_published": "2023-10-19T14:58:27+01:00",
+				"url": "https://swoods.net/2023/10/19/am-i-wrong.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/10/18/i-have-reserved.html",
+				
+				"content_html": "<p>I have reserved <!-- raw HTML omitted -->eight<!-- raw HTML omitted --><strong>ten</strong> books at one of our libraries. You know; priorities.</p>\n",
+				"content_text": "I have reserved <s>eight</s>__ten__ books at one of our libraries. You know; priorities.\n",
+				"date_published": "2023-10-18T12:35:44+01:00",
+				"url": "https://swoods.net/2023/10/18/i-have-reserved.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/10/18/another-day-another.html",
+				
+				"content_html": "<p>Another day, another new town, another new café, another new library.</p>\n<p>I regret not bringing coffee.</p>\n",
+				"content_text": "Another day, another new town, another new café, another new library.\n\nI regret not bringing coffee.\n",
+				"date_published": "2023-10-18T10:05:04+01:00",
+				"url": "https://swoods.net/2023/10/18/another-day-another.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/10/15/work-is-progressing.html",
+				
+				"content_html": "<p>Work is progressing. The Sidekick is gorgeous and works so well for how I like to work; a wonderful addition from the folks at <a href=\"https://www.relay.fm/cortex\">Cortex</a>.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Work is progressing. The Sidekick is gorgeous and works so well for how I like to work; a wonderful addition from the folks at [Cortex](https://www.relay.fm/cortex).\n\n<img src=\"uploads/2023/ad83f2a6-e22e-47a0-ab19-460ec4b5eaca.jpg\" width=\"600\" height=\"450\" alt=\"A 'Sidekick' notepad open with a page dated the 15th of October 2023. Includes notes about my upcoming updates to TIL with mysterious scribbles covering certain words.\">\n",
+				"date_published": "2023-10-15T17:26:41+01:00",
+				"url": "https://swoods.net/2023/10/15/work-is-progressing.html",
+				"tags": ["links","short","photos"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2023/10/15/started-a-new.html",
 				
 				"content_html": "<p>Started a new entry in my work journal for the first time in two months. We&rsquo;ve not even moved into the new house yet; such is the positive effect of this county.</p>\n<p>The power of Home is awesome.</p>\n",
