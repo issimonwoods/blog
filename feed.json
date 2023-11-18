@@ -7,6 +7,96 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2023/11/17/and-my-antihistamine.html",
+				
+				"content_html": "<p>And my antihistamine has <a href=\"https://swoods.net/2023/11/17/coffee-is-back.html\">also returned</a>. That was two awful days without it. Phew!</p>\n",
+				"content_text": "And my antihistamine has [also returned](https://swoods.net/2023/11/17/coffee-is-back.html). That was two awful days without it. Phew!\n",
+				"date_published": "2023-11-17T13:00:58+00:00",
+				"url": "https://swoods.net/2023/11/17/and-my-antihistamine.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/11/17/coffee-is-back.html",
+				
+				"content_html": "<p>Coffee is back 😌</p>\n",
+				"content_text": "Coffee is back 😌\n",
+				"date_published": "2023-11-17T11:22:20+00:00",
+				"url": "https://swoods.net/2023/11/17/coffee-is-back.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/11/17/for-the-first.html",
+				
+				"content_html": "<p>For the first time since first publishing TIL five years ago, I have created the necessary folder and files for theme updates <em>after</em> working on the updates.</p>\n<p>My new workflow involves some actual structure in which I no longer just randomly throw new things at the live site. Feels much better.</p>\n",
+				"content_text": "For the first time since first publishing TIL five years ago, I have created the necessary folder and files for theme updates _after_ working on the updates.\n\nMy new workflow involves some actual structure in which I no longer just randomly throw new things at the live site. Feels much better.\n",
+				"date_published": "2023-11-17T07:34:40+00:00",
+				"url": "https://swoods.net/2023/11/17/for-the-first.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/11/16/testing-the-latest.html",
+				
+				"content_html": "<p>testing the <a href=\"https://news.micro.blog/2023/11/16/improved-the-publishing.html\">latest update</a>&hellip;</p>\n",
+				"content_text": "testing the [latest update](https://news.micro.blog/2023/11/16/improved-the-publishing.html)...\n",
+				"date_published": "2023-11-16T15:03:56+00:00",
+				"url": "https://swoods.net/2023/11/16/testing-the-latest.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/11/16/the-coffee-is.html",
+				
+				"content_html": "<p>The coffee is gone… the tea is nearly gone… we don’t quite have the money to replenish.</p>\n<p>Ooh boy.</p>\n",
+				"content_text": "The coffee is gone… the tea is nearly gone… we don’t quite have the money to replenish.\n\nOoh boy.\n",
+				"date_published": "2023-11-16T10:19:11+00:00",
+				"url": "https://swoods.net/2023/11/16/the-coffee-is.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/11/15/i-gave-pixelfed.html",
+				
+				"content_html": "<p>I gave Pixelfed a whirl for <a href=\"https://swoods.net/2023/11/14/i-want-to.html\">my little video</a> and it was fine. Unfortunately the app doesn&rsquo;t work — it&rsquo;s in beta — so I had to use a method involving more work.</p>\n<p>I&rsquo;m going to test YouTube, which I suspect will be much easier. If so, I&rsquo;ll use YouTube for now, and then Micro.blog as soon as I can.</p>\n",
+				"content_text": "I gave Pixelfed a whirl for [my little video](https://swoods.net/2023/11/14/i-want-to.html) and it was fine. Unfortunately the app doesn't work — it's in beta — so I had to use a method involving more work.\n\nI'm going to test YouTube, which I suspect will be much easier. If so, I'll use YouTube for now, and then Micro.blog as soon as I can.\n",
+				"date_published": "2023-11-15T13:58:47+00:00",
+				"url": "https://swoods.net/2023/11/15/i-gave-pixelfed.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/11/15/i-was-looking.html",
+				
+				"content_html": "<p>I was looking at the <a href=\"https://app.indieappsales.com/\">Indie App Sales</a> shared by <a href=\"https://micro.blog/maique\">@maique</a>, found <a href=\"https://deadpan.io/ephemera/\">ephemera</a> and immediately thought of <a href=\"https://micro.blog/numericcitizen\">@numericcitizen</a>.</p>\n",
+				"content_text": "I was looking at the [Indie App Sales](https://app.indieappsales.com/) shared by [@maique](https://micro.blog/maique), found [ephemera](https://deadpan.io/ephemera/) and immediately thought of [@numericcitizen](https://micro.blog/numericcitizen).\n",
+				"date_published": "2023-11-15T11:06:15+00:00",
+				"url": "https://swoods.net/2023/11/15/i-was-looking.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/11/15/here-i-am.html",
+				
+				"content_html": "<p>Here I am searching for &ldquo;save as mp4 on mac&rdquo; because Apple is allergic to assuming some people are comfortable with using their computer to do things.</p>\n",
+				"content_text": "Here I am searching for \"save as mp4 on mac\" because Apple is allergic to assuming some people are comfortable with using their computer to do things.\n",
+				"date_published": "2023-11-15T10:08:51+00:00",
+				"url": "https://swoods.net/2023/11/15/here-i-am.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/11/15/im-overdue-a.html",
+				
+				"content_html": "<p>I&rsquo;m overdue a viewing of Pan&rsquo;s Labyrinth.</p>\n",
+				"content_text": "I'm overdue a viewing of Pan's Labyrinth.\n",
+				"date_published": "2023-11-15T09:42:25+00:00",
+				"url": "https://swoods.net/2023/11/15/im-overdue-a.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/11/14/i-want-to.html",
+				
+				"content_html": "<p>I want to share a tiny video, and even this almost-idle motivation quickly reminded me the degree to which massive ad-based networks have completely destroyed the &ldquo;free hobbyist&rdquo; section of the market.</p>\n",
+				"content_text": "I want to share a tiny video, and even this almost-idle motivation quickly reminded me the degree to which massive ad-based networks have completely destroyed the \"free hobbyist\" section of the market.\n",
+				"date_published": "2023-11-14T17:21:01+00:00",
+				"url": "https://swoods.net/2023/11/14/i-want-to.html",
+				"tags": ["short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2023/11/10/this-has-easily.html",
 				
 				"content_html": "<p>This has easily been the best move we&rsquo;ve ever made, including the logistics. However, I am still tired in all new ways and very slow to getting our usual habits up and running again.</p>\n<p>As ever: there&rsquo;s nothing so draining as moving home.</p>\n",
