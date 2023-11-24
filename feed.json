@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2023/11/24/happy-turkey-day.html",
+				
+				"content_html": "<p>Happy Turkey Day, US friendos ✌️</p>\n",
+				"content_text": "Happy Turkey Day, US friendos ✌️\n",
+				"date_published": "2023-11-24T01:18:48+00:00",
+				"url": "https://swoods.net/2023/11/24/happy-turkey-day.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/11/23/i-am-surprised.html",
+				
+				"content_html": "<p>I am surprised to learn that you can&rsquo;t easily copy and/or duplicate posts and pages in MarsEdit. This seems like such basic and obvious functionality in comparison to some of its many tricks.</p>\n",
+				"content_text": "I am surprised to learn that you can't easily copy and/or duplicate posts and pages in MarsEdit. This seems like such basic and obvious functionality in comparison to some of its many tricks.\n",
+				"date_published": "2023-11-23T11:37:31+00:00",
+				"url": "https://swoods.net/2023/11/23/i-am-surprised.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/11/22/time-for-some.html",
+				
+				"content_html": "<p>Time for some changes 👀 First: coffee.</p>\n",
+				"content_text": "Time for some changes 👀 First: coffee.\n",
+				"date_published": "2023-11-22T06:52:08+00:00",
+				"url": "https://swoods.net/2023/11/22/time-for-some.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/11/21/the-idea-that.html",
+				
+				"content_html": "<blockquote>\n<p>The idea that people will pay to support a free product is very nice, but largely unrealistic. Most simply won’t.</p>\n</blockquote>\n<p>— Ben Werdmuller, <a href=\"https://werd.io/2023/theres-no-money-in-free-software\"><em>There&rsquo;s no money in free software</em></a></p>\n<p>An observation I wish I could tell my younger self.</p>\n",
+				"content_text": "> The idea that people will pay to support a free product is very nice, but largely unrealistic. Most simply won’t.\r\n\r\n— Ben Werdmuller, [_There's no money in free software_](https://werd.io/2023/theres-no-money-in-free-software)\r\n\r\nAn observation I wish I could tell my younger self.\n",
+				"date_published": "2023-11-21T17:34:40+00:00",
+				"url": "https://swoods.net/2023/11/21/the-idea-that.html",
+				"tags": ["links","short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2023/11/17/and-my-antihistamine.html",
 				
 				"content_html": "<p>And my antihistamine has <a href=\"https://swoods.net/2023/11/17/coffee-is-back.html\">also returned</a>. That was two awful days without it. Phew!</p>\n",
