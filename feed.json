@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2023/11/30/the-apple-clone.html",
+				
+				"content_html": "<p>The Apple clone of Wrapped is awkward enough to access on my computer that I gave up.</p>\n",
+				"content_text": "The Apple clone of Wrapped is awkward enough to access on my computer that I gave up.\n",
+				"date_published": "2023-11-30T14:56:32+00:00",
+				"url": "https://swoods.net/2023/11/30/the-apple-clone.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/11/30/breaking-news-from.html",
+				
+				"content_html": "<p>Breaking news from the village.</p>\n<p>(testing the fancy new image uploader <a href=\"https://micro.blog/danielpunkass\">@danielpunkass</a> put into the MarsEdit micropost feature)</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Breaking news from the village.\n\n(testing the fancy new image uploader [@danielpunkass](https://micro.blog/danielpunkass) put into the MarsEdit micropost feature)\n\n<img src=\"uploads/2023/img-3380.jpeg\" alt=\"A sign attached to a stone wall, reads: “On this site, Sept. 5. 1782, nothing happened.”\" width=\"450\" height=\"600\" />\n",
+				"date_published": "2023-11-30T11:54:53+00:00",
+				"url": "https://swoods.net/2023/11/30/breaking-news-from.html",
+				"tags": ["links","short","photos"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/11/29/the-imminent-death.html",
+				
+				"content_html": "<p>The <a href=\"https://www.theverge.com/2023/11/29/23981363/mailchimp-shutting-down-tinyletter\">imminent death of TinyLetter</a> (h/t <a href=\"https://micro.blog/ablaze@mastodon.social\">@ablaze@mastodon.social</a>) inevitably causes me to think about the newsletter feature of Micro.blog, and how valuable it is to have within the greater package of Micro.blog itself. It&rsquo;s as if the product is insulated from typical buy-and-destroy events like this.</p>\n",
+				"content_text": "The [imminent death of TinyLetter](https://www.theverge.com/2023/11/29/23981363/mailchimp-shutting-down-tinyletter) (h/t [@ablaze@mastodon.social](https://micro.blog/ablaze@mastodon.social)) inevitably causes me to think about the newsletter feature of Micro.blog, and how valuable it is to have within the greater package of Micro.blog itself. It's as if the product is insulated from typical buy-and-destroy events like this.\n",
+				"date_published": "2023-11-29T21:05:51+00:00",
+				"url": "https://swoods.net/2023/11/29/the-imminent-death.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/11/29/the-latest-product.html",
+				
+				"content_html": "<p>The latest product from the folks at Good Enough, <a href=\"https://aboutchicken.yay.boo/\">Chicken</a>, looks good. It reminds me of ambient workspaces, which I&rsquo;d like to try out.</p>\n<p>I like the idea of being near but unobtrusive.</p>\n",
+				"content_text": "The latest product from the folks at Good Enough, [Chicken](https://aboutchicken.yay.boo/), looks good. It reminds me of ambient workspaces, which I'd like to try out.\r\n\r\nI like the idea of being near but unobtrusive.\n",
+				"date_published": "2023-11-29T18:32:44+00:00",
+				"url": "https://swoods.net/2023/11/29/the-latest-product.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/11/29/til-areas-of.html",
+				
+				"content_html": "<p>TIL Areas of Outstanding Natural Beauty are now known as National Landscapes.</p>\n<p>Meh.</p>\n",
+				"content_text": "TIL Areas of Outstanding Natural Beauty are now known as National Landscapes.\n\nMeh.\n",
+				"date_published": "2023-11-29T09:45:00+00:00",
+				"url": "https://swoods.net/2023/11/29/til-areas-of.html",
+				"tags": ["short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2023/11/25/past-me-was.html",
 				
 				"content_html": "<p>Past Me was too cheap to get ethernet included in the iMac and now I am motivated by the desire to upgrade ASAP.</p>\n<p>I am somewhat annoyed but mostly embracing the positive energy of having a goal in sight.</p>\n",
