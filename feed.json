@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2023/12/05/adam-newbold-in.html",
+				
+				"content_html": "<p>Adam Newbold in <a href=\"https://advent.weblog.lol/2023/day-2\">day 2</a> of <em>25 Days of omg.lol</em>:</p>\n<blockquote>\n<p>But, it turns out, there is a special beauty in the process itself.</p>\n</blockquote>\n<p>Not only is it reassuring to see him taking this approach for omg.lol itself, it is great to see advocacy for care in development. You don&rsquo;t need to break things to move fast.</p>\n",
+				"content_text": "Adam Newbold in [day 2](https://advent.weblog.lol/2023/day-2) of _25 Days of omg.lol_:\r\n\r\n> But, it turns out, there is a special beauty in the process itself.\r\n\r\nNot only is it reassuring to see him taking this approach for omg.lol itself, it is great to see advocacy for care in development. You don't need to break things to move fast.\n",
+				"date_published": "2023-12-05T17:20:46+00:00",
+				"url": "https://swoods.net/2023/12/05/adam-newbold-in.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/12/05/i-used-to.html",
+				
+				"content_html": "<p>I used to be all &ldquo;ew that link is more than one place, how gross&rdquo; and now I&rsquo;m all&hellip;</p>\n<p>&ldquo;<em>Please</em>.<br>\nmake. it. easy. to. link. to. your. thing.<br>\nPut that link EVERYWHERE!<br>\nIt&rsquo;s the web for fuck&rsquo;s sake.&rdquo;</p>\n",
+				"content_text": "I used to be all \"ew that link is more than one place, how gross\" and now I'm all...\n\n\"_Please_.  \nmake. it. easy. to. link. to. your. thing.  \nPut that link EVERYWHERE!  \nIt's the web for fuck's sake.\"\n",
+				"date_published": "2023-12-05T16:44:47+00:00",
+				"url": "https://swoods.net/2023/12/05/i-used-to.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/12/05/when-youre-working.html",
+				
+				"content_html": "<p>When you&rsquo;re working on six things at once and in one moment they go from your head as a simultaneous arrangement of enticing opportunities, onto paper as part of the publishing schedule.</p>\n<p>That&hellip; feels good.</p>\n",
+				"content_text": "When you're working on six things at once and in one moment they go from your head as a simultaneous arrangement of enticing opportunities, onto paper as part of the publishing schedule.\n\nThat... feels good.\n",
+				"date_published": "2023-12-05T00:29:05+00:00",
+				"url": "https://swoods.net/2023/12/05/when-youre-working.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/12/04/well-how-about.html",
+				
+				"content_html": "<blockquote>\n<p>Well, how about being really appalling when he was <em>fifty</em>.</p>\n</blockquote>\n<p>When discussing David Cameron on <a href=\"https://www.youtube.com/watch?v=B0b-S1MRv_s\">Have I Got News For You</a> eight years ago, Ian Hislop spoke to a long-running and crucial flaw in our society; our inability to focus on what really matters.</p>\n",
+				"content_text": "> Well, how about being really appalling when he was _fifty_.\r\n\r\nWhen discussing David Cameron on [Have I Got News For You](https://www.youtube.com/watch?v=B0b-S1MRv_s) eight years ago, Ian Hislop spoke to a long-running and crucial flaw in our society; our inability to focus on what really matters.\n",
+				"date_published": "2023-12-04T12:00:23+00:00",
+				"url": "https://swoods.net/2023/12/04/well-how-about.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/12/02/my-microblog-timeline.html",
+				
+				"content_html": "<p>My Micro.blog timeline is an ambience of its own. A pleasant read-through even when I&rsquo;m taking a quick break, refreshing and restorative.</p>\n<p>Thank you to everybody I follow, and those folks who I discover on a regular basis. 😌</p>\n",
+				"content_text": "My Micro.blog timeline is an ambience of its own. A pleasant read-through even when I'm taking a quick break, refreshing and restorative.\n\nThank you to everybody I follow, and those folks who I discover on a regular basis. 😌\n",
+				"date_published": "2023-12-02T15:46:13+00:00",
+				"url": "https://swoods.net/2023/12/02/my-microblog-timeline.html",
+				"tags": ["short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2023/11/30/the-apple-clone.html",
 				
 				"content_html": "<p>The Apple clone of Wrapped is awkward enough to access on my computer that I gave up.</p>\n",
@@ -19,7 +64,7 @@
 				"id": "http://simonmumbles.micro.blog/2023/11/30/breaking-news-from.html",
 				
 				"content_html": "<p>Breaking news from the village.</p>\n<p>(testing the fancy new image uploader <a href=\"https://micro.blog/danielpunkass\">@danielpunkass</a> put into the MarsEdit micropost feature)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Breaking news from the village.\n\n(testing the fancy new image uploader [@danielpunkass](https://micro.blog/danielpunkass) put into the MarsEdit micropost feature)\n\n<img src=\"uploads/2023/img-3380.jpeg\" alt=\"A sign attached to a stone wall, reads: “On this site, Sept. 5. 1782, nothing happened.”\" width=\"450\" height=\"600\" />\n",
+				"content_text": "Breaking news from the village.\n\n(testing the fancy new image uploader [@danielpunkass](https://micro.blog/danielpunkass) put into the MarsEdit micropost feature)\n\n<img src=\"https://cdn.uploads.micro.blog/1614/2023/img-3380.jpeg\" alt=\"A sign attached to a stone wall, reads: “On this site, Sept. 5. 1782, nothing happened.”\" width=\"450\" height=\"600\" />\n",
 				"date_published": "2023-11-30T11:54:53+00:00",
 				"url": "https://swoods.net/2023/11/30/breaking-news-from.html",
 				"tags": ["links","short","photos"]
@@ -298,7 +343,7 @@
 				"id": "http://simonmumbles.micro.blog/2023/10/15/work-is-progressing.html",
 				
 				"content_html": "<p>Work is progressing. The Sidekick is gorgeous and works so well for how I like to work; a wonderful addition from the folks at <a href=\"https://www.relay.fm/cortex\">Cortex</a>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Work is progressing. The Sidekick is gorgeous and works so well for how I like to work; a wonderful addition from the folks at [Cortex](https://www.relay.fm/cortex).\n\n<img src=\"uploads/2023/ad83f2a6-e22e-47a0-ab19-460ec4b5eaca.jpg\" width=\"600\" height=\"450\" alt=\"A 'Sidekick' notepad open with a page dated the 15th of October 2023. Includes notes about my upcoming updates to TIL with mysterious scribbles covering certain words.\">\n",
+				"content_text": "Work is progressing. The Sidekick is gorgeous and works so well for how I like to work; a wonderful addition from the folks at [Cortex](https://www.relay.fm/cortex).\n\n<img src=\"https://cdn.uploads.micro.blog/1614/2023/ad83f2a6-e22e-47a0-ab19-460ec4b5eaca.jpg\" width=\"600\" height=\"450\" alt=\"A 'Sidekick' notepad open with a page dated the 15th of October 2023. Includes notes about my upcoming updates to TIL with mysterious scribbles covering certain words.\">\n",
 				"date_published": "2023-10-15T16:26:41+00:00",
 				"url": "https://swoods.net/2023/10/15/work-is-progressing.html",
 				"tags": ["links","short","photos"]
