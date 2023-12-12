@@ -7,6 +7,60 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2023/12/11/its-a-shame.html",
+				
+				"content_html": "<p>It&rsquo;s a shame the collaborative playlist feature for Apple Music didn&rsquo;t make it into the new updates. That would have been nice to have during the holiday season.</p>\n",
+				"content_text": "It's a shame the collaborative playlist feature for Apple Music didn't make it into the new updates. That would have been nice to have during the holiday season.\n",
+				"date_published": "2023-12-11T23:36:29+00:00",
+				"url": "https://swoods.net/2023/12/11/its-a-shame.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/12/11/i-should-have.html",
+				
+				"content_html": "<p>I should have put <a href=\"https://swoods.net/2020/02/01/when-apple-inevitably.html\">money</a> on <a href=\"https://swoods.net/2021/04/27/i-wonder-how.html\">it</a>.</p>\n",
+				"content_text": "I should have put [money](https://swoods.net/2020/02/01/when-apple-inevitably.html) on [it](https://swoods.net/2021/04/27/i-wonder-how.html).\n",
+				"date_published": "2023-12-11T21:18:16+00:00",
+				"url": "https://swoods.net/2023/12/11/i-should-have.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/12/11/postmove-progress-report.html",
+				
+				"content_html": "<p>Post-move progress report:</p>\n<p>Finding it easier with each day to continue my previous work which had stalled at the last place; introducing structure, intent, and clarity into my daily life. Routines are now <em>possible</em>, which feels exciting.</p>\n",
+				"content_text": "Post-move progress report:\n\nFinding it easier with each day to continue my previous work which had stalled at the last place; introducing structure, intent, and clarity into my daily life. Routines are now _possible_, which feels exciting.\n",
+				"date_published": "2023-12-11T14:59:58+00:00",
+				"url": "https://swoods.net/2023/12/11/postmove-progress-report.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/12/10/listening-to-jeff.html",
+				
+				"content_html": "<p>Listening to <a href=\"https://www.youtube.com/watch?v=NqVoOC2azZI\">Jeff Bezos talk about stress</a> helps me to better understand at least some of his success.</p>\n<p>It&rsquo;s amazing, as I&rsquo;ve gotten older, to observe just how much difficulty in both my own life and that of others could be mitigated if more effort was spent in the act of; stopping and considering.</p>\n",
+				"content_text": "Listening to [Jeff Bezos talk about stress](https://www.youtube.com/watch?v=NqVoOC2azZI) helps me to better understand at least some of his success.\n\nIt's amazing, as I've gotten older, to observe just how much difficulty in both my own life and that of others could be mitigated if more effort was spent in the act of; stopping and considering.\n",
+				"date_published": "2023-12-10T23:10:33+00:00",
+				"url": "https://swoods.net/2023/12/10/listening-to-jeff.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/12/10/i-started-the.html",
+				
+				"content_html": "<p>I started the process of fixing a broken book cover for Micro.blog Books and just gave up; there are too many awkward steps and that&rsquo;s <em>after</em> you&rsquo;ve discovered the secret handshake to even attempt to help.</p>\n<p>It&rsquo;d be great if enthusiasts had an easier time with this kind of thing.</p>\n",
+				"content_text": "I started the process of fixing a broken book cover for Micro.blog Books and just gave up; there are too many awkward steps and that's _after_ you've discovered the secret handshake to even attempt to help.\n\nIt'd be great if enthusiasts had an easier time with this kind of thing.\n",
+				"date_published": "2023-12-10T14:35:38+00:00",
+				"url": "https://swoods.net/2023/12/10/i-started-the.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/12/10/hire-more-writers.html",
+				
+				"content_html": "<blockquote>\n<p>Hire more writers.</p>\n</blockquote>\n<p>— <a href=\"https://gilest.org/hire-more-writers.html\">Giles Turnbull</a></p>\n",
+				"content_text": "> Hire more writers.\r\n\r\n— [Giles Turnbull](https://gilest.org/hire-more-writers.html)\n",
+				"date_published": "2023-12-10T14:29:32+00:00",
+				"url": "https://swoods.net/2023/12/10/hire-more-writers.html",
+				"tags": ["links","short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2023/12/05/adam-newbold-in.html",
 				
 				"content_html": "<p>Adam Newbold in <a href=\"https://advent.weblog.lol/2023/day-2\">day 2</a> of <em>25 Days of omg.lol</em>:</p>\n<blockquote>\n<p>But, it turns out, there is a special beauty in the process itself.</p>\n</blockquote>\n<p>Not only is it reassuring to see him taking this approach for omg.lol itself, it is great to see advocacy for care in development. You don&rsquo;t need to break things to move fast.</p>\n",
