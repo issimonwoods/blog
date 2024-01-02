@@ -7,6 +7,105 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2024/01/02/every-now-and.html",
+				
+				"content_html": "<p>Every now and then I take a step back and consider the whole of Micro.blog, especially from the viewpoint of a blogger and website enthusiast.</p>\n<p>It&rsquo;s clear to me that this is the year I can truly build out my website to better represent <em>me</em>.</p>\n<p>Truly: one site = one identity.</p>\n<p>That&rsquo;s pretty cool.</p>\n",
+				"content_text": "Every now and then I take a step back and consider the whole of Micro.blog, especially from the viewpoint of a blogger and website enthusiast.\n\nIt's clear to me that this is the year I can truly build out my website to better represent _me_.\n\nTruly: one site = one identity.\n\nThat's pretty cool.\n",
+				"date_published": "2024-01-02T02:34:25+00:00",
+				"url": "https://swoods.net/2024/01/02/every-now-and.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/01/01/unread-for-the.html",
+				
+				"content_html": "<p><a href=\"https://micro.virtualsanity.com/2024/01/01/i-made-an.html\">Unread for the Mac</a> 👀👀👀</p>\n",
+				"content_text": "[Unread for the Mac](https://micro.virtualsanity.com/2024/01/01/i-made-an.html) 👀👀👀\n",
+				"date_published": "2024-01-01T21:03:40+00:00",
+				"url": "https://swoods.net/2024/01/01/unread-for-the.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/01/01/im-pretty-sure.html",
+				
+				"content_html": "<p>I&rsquo;m pretty sure I&rsquo;m done with <a href=\"https://til.status.lol/65929a29bbeca\">maintenance updates</a> for TIL now.</p>\n<p>Next up: some off-site fun and ✨more Orchid✨.</p>\n",
+				"content_text": "I'm pretty sure I'm done with [maintenance updates](https://til.status.lol/65929a29bbeca) for TIL now.\n\nNext up: some off-site fun and ✨more Orchid✨.\n",
+				"date_published": "2024-01-01T12:50:39+00:00",
+				"url": "https://swoods.net/2024/01/01/im-pretty-sure.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/01/01/im-also-super.html",
+				
+				"content_html": "<blockquote>\n<p>I’m also super thankful that we <em>didn’t</em> grow by some scary massive number. Hooray for more slowly-paced, sustainable growth!</p>\n</blockquote>\n<p>— Adam Neatnik, <a href=\"https://omglol.news/2023/12/31/2023-omg-lol-recap\"><em>2023 omg.lol Recap</em></a></p>\n<p>One of the many ways Adam and Manton are quite similar, all within the context of a thing I believe is important:</p>\n<p>It is very easy to say &ldquo;things should be better&rdquo;, however what truly matters is when you have this opinion and then <em>do the work</em>.</p>\n<p>Adam and Manton are more than willing to put their money where their mouth is, at a time when it is so easy to simply mouth off.</p>\n",
+				"content_text": "> I’m also super thankful that we _didn’t_ grow by some scary massive number. Hooray for more slowly-paced, sustainable growth!\r\n\r\n— Adam Neatnik, [_2023 omg.lol Recap_](https://omglol.news/2023/12/31/2023-omg-lol-recap)\r\n\r\nOne of the many ways Adam and Manton are quite similar, all within the context of a thing I believe is important:\r\n\r\nIt is very easy to say \"things should be better\", however what truly matters is when you have this opinion and then _do the work_.\r\n\r\nAdam and Manton are more than willing to put their money where their mouth is, at a time when it is so easy to simply mouth off.\n",
+				"date_published": "2024-01-01T12:40:47+00:00",
+				"url": "https://swoods.net/2024/01/01/im-also-super.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/01/01/is-the-microblog.html",
+				
+				"content_html": "<p>Is the Micro.blog CSS editor working for everybody else? The progress spinner just keeps going round and round&hellip;</p>\n",
+				"content_text": "Is the Micro.blog CSS editor working for everybody else? The progress spinner just keeps going round and round...\n",
+				"date_published": "2024-01-01T04:10:57+00:00",
+				"url": "https://swoods.net/2024/01/01/is-the-microblog.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/01/01/til-firefox-will.html",
+				
+				"content_html": "<p>TIL Firefox will accept underline CSS for an element in a certain situation whilst Safari will not.</p>\n<p>🥲</p>\n",
+				"content_text": "TIL Firefox will accept underline CSS for an element in a certain situation whilst Safari will not.\n\n🥲\n",
+				"date_published": "2024-01-01T03:56:24+00:00",
+				"url": "https://swoods.net/2024/01/01/til-firefox-will.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/01/01/ow-mynnas-termyn.html",
+				
+				"content_html": "<p>Ow mynnas termyn marthys ha Bledhen Nowydh da dhy&rsquo;hwi oll.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Ow mynnas termyn marthys ha Bledhen Nowydh da dhy'hwi oll.\n\n<img src=\"https://cdn.uploads.micro.blog/1614/2024/9b66c44445.jpg\" width=\"450\" height=\"600\" alt=\"A glass of whisky, held in front of an iMac with the screen blurred in the background.\">\n",
+				"date_published": "2024-01-01T00:29:28+00:00",
+				"url": "https://swoods.net/2024/01/01/ow-mynnas-termyn.html",
+				"tags": ["short","photos"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/12/29/giving-secrets-a.html",
+				
+				"content_html": "<p>Giving Secrets a try thanks to <a href=\"https://indieappsanta.com/\">Indie App Santa</a>. Going to work out if it&rsquo;s worth having a third-party option in use for TIL rather than using Apple for everything.</p>\n",
+				"content_text": "Giving Secrets a try thanks to [Indie App Santa](https://indieappsanta.com/). Going to work out if it's worth having a third-party option in use for TIL rather than using Apple for everything.\n",
+				"date_published": "2023-12-29T13:59:27+00:00",
+				"url": "https://swoods.net/2023/12/29/giving-secrets-a.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/12/28/is-it-me.html",
+				
+				"content_html": "<p>Is it me or has slowed performance of Micro.blog become increasingly common as of late?</p>\n",
+				"content_text": "Is it me or has slowed performance of Micro.blog become increasingly common as of late?\n",
+				"date_published": "2023-12-28T16:22:43+00:00",
+				"url": "https://swoods.net/2023/12/28/is-it-me.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/12/28/my-tech-future.html",
+				"title": "My tech future (part two)",
+				"content_html": "<p>Now a very short way <a href=\"https://swoods.net/2021/02/19/my-tech-future.html\">into the future</a>, an update;</p>\n<ul>\n<li>a basic phone;</li>\n<li>an MP3 player;</li>\n<li>[own] maybe a laptop;</li>\n<li>[own] a few reliable notebooks;</li>\n<li>[own] a selection of analogue watches;</li>\n<li>[own] and a camera.</li>\n</ul>\n<p>Feeling good about the progress I&rsquo;ve made, although at that point I already owned a camera. I am also happy to grow my collection of the bottom three items in particular.</p>\n<p>To be clear, since I didn&rsquo;t mention it in my first post these aims are for my personal life in particular. If my work demands use of other hardware and software then I&rsquo;ll use whatever is needed. Given the increasing capabilities of laptops, I wouldn&rsquo;t mind if that was all I truly needed for any professional work whilst also giving me the bare necessary access to the digital world I might need for personal use.</p>\n<p>Our start to life in Cornwall has been so good that I believe this goal is achievable rather than fanciful, and I look forward to completing the list so that I can put my ideas to the test. That includes expanding on those ideas in some sort of digital public space.</p>\n",
+				"content_text": "Now a very short way [into the future](https://swoods.net/2021/02/19/my-tech-future.html), an update;\r\n\r\n- a basic phone;\r\n- an MP3 player;\r\n- [own] maybe a laptop;\r\n- [own] a few reliable notebooks;\r\n- [own] a selection of analogue watches;\r\n- [own] and a camera.\r\n\r\nFeeling good about the progress I've made, although at that point I already owned a camera. I am also happy to grow my collection of the bottom three items in particular.\r\n\r\nTo be clear, since I didn't mention it in my first post these aims are for my personal life in particular. If my work demands use of other hardware and software then I'll use whatever is needed. Given the increasing capabilities of laptops, I wouldn't mind if that was all I truly needed for any professional work whilst also giving me the bare necessary access to the digital world I might need for personal use.\r\n\r\nOur start to life in Cornwall has been so good that I believe this goal is achievable rather than fanciful, and I look forward to completing the list so that I can put my ideas to the test. That includes expanding on those ideas in some sort of digital public space.\n",
+				"date_published": "2023-12-28T16:20:36+00:00",
+				"url": "https://swoods.net/2023/12/28/my-tech-future.html",
+				"tags": ["long","links"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2023/12/28/one-of-the.html",
+				
+				"content_html": "<p>One of the things I&rsquo;m determined to learn about Hugo is the design of templates, specifically with regard to names. It&rsquo;s certainly interesting!</p>\n",
+				"content_text": "One of the things I'm determined to learn about Hugo is the design of templates, specifically with regard to names. It's certainly interesting!\n",
+				"date_published": "2023-12-28T10:14:56+00:00",
+				"url": "https://swoods.net/2023/12/28/one-of-the.html",
+				"tags": ["short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2023/12/28/classic-films-ive.html",
 				
 				"content_html": "<p>Films I&rsquo;ve never seen:</p>\n<ul>\n<li>It&rsquo;s a Wonderful Life</li>\n<li>A Christmas Carol</li>\n<li>Scrooge</li>\n<li>Godfather, parts 1 and 2</li>\n<li>Citizen Kane</li>\n<li>The Terminator</li>\n<li>Scarface</li>\n<li>Godzilla</li>\n<li>Heat</li>\n<li>Seven Samurai</li>\n<li>Rashomon</li>\n<li>Léon</li>\n<li>Jaws</li>\n<li>Schindler&rsquo;s List</li>\n<li>Close Encounters</li>\n<li>The Color Purple</li>\n<li>12 Years a Slave</li>\n<li>The Exorcist</li>\n<li>The Princess Bride</li>\n<li>Mean Girls</li>\n</ul>\n<p>📽️</p>\n",
@@ -10503,8 +10602,8 @@
 			{
 				"id": "http://simonmumbles.micro.blog/2021/02/19/my-tech-future.html",
 				"title": "My tech future",
-				"content_html": "<p>One day, in the future, I will have;</p>\n<ul>\n<li>a basic phone;</li>\n<li>an MP3 player;</li>\n<li>maybe a laptop;</li>\n<li>a few reliable notebooks;</li>\n<li>a selection of analogue watches;</li>\n<li>and a camera.</li>\n</ul>\n<p>At this point I will have abandoned the world of personal branding and influencers and whatnot, and will likely post dispatches from my dusty old blog.</p>\n<p>And I will be oh so happy.</p>\n<p>(inspired by <a href=\"https://micro.baty.net/2021/02/18/one-of-these.html\">Jack&rsquo;s astute observation</a>)</p>\n",
-				"content_text": "One day, in the future, I will have;\r\n\r\n- a basic phone;\r\n- an MP3 player;\r\n- maybe a laptop;\r\n- a few reliable notebooks;\r\n- a selection of analogue watches;\r\n- and a camera.\r\n\r\nAt this point I will have abandoned the world of personal branding and influencers and whatnot, and will likely post dispatches from my dusty old blog.\r\n\r\nAnd I will be oh so happy.\r\n\r\n(inspired by [Jack's astute observation](https://micro.baty.net/2021/02/18/one-of-these.html))\n",
+				"content_html": "<p>One day, in the future, I will have;</p>\n<ul>\n<li>a basic phone;</li>\n<li>an MP3 player;</li>\n<li>maybe a laptop;</li>\n<li>a few reliable notebooks;</li>\n<li>a selection of analogue watches;</li>\n<li>and a camera.</li>\n</ul>\n<p>At this point I will have abandoned the world of personal branding and influencers and whatnot, and will likely post dispatches from my dusty old blog.</p>\n<p>And I will be oh so happy.</p>\n<p>(inspired by <a href=\"https://micro.baty.net/2021/02/18/one-of-these.html\">Jack&rsquo;s astute observation</a> — <a href=\"https://web.archive.org/web/20210227003409/https://micro.baty.net/2021/02/18/one-of-these.html\">Wayback copy</a>)</p>\n<p>(update: <a href=\"https://swoods.net/2023/12/28/my-tech-future.html\">part two</a>)</p>\n",
+				"content_text": "One day, in the future, I will have;\n\n- a basic phone;\n- an MP3 player;\n- maybe a laptop;\n- a few reliable notebooks;\n- a selection of analogue watches;\n- and a camera.\n\nAt this point I will have abandoned the world of personal branding and influencers and whatnot, and will likely post dispatches from my dusty old blog.\n\nAnd I will be oh so happy.\n\n(inspired by [Jack's astute observation](https://micro.baty.net/2021/02/18/one-of-these.html) — [Wayback copy](https://web.archive.org/web/20210227003409/https://micro.baty.net/2021/02/18/one-of-these.html))\n\n(update: [part two](https://swoods.net/2023/12/28/my-tech-future.html))\n",
 				"date_published": "2021-02-19T00:56:27+00:00",
 				"url": "https://swoods.net/2021/02/19/my-tech-future.html",
 				"tags": ["long","links"]
