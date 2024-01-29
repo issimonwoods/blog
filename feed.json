@@ -7,6 +7,114 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2024/01/29/i-woke-up.html",
+				
+				"content_html": "<p>I woke up in a Bill &amp; Ted frame of mind&hellip;? Ok then.</p>\n",
+				"content_text": "I woke up in a Bill & Ted frame of mind...? Ok then.\n",
+				"date_published": "2024-01-29T08:33:11+00:00",
+				"url": "https://swoods.net/2024/01/29/i-woke-up.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/01/26/know-how-to.html",
+				
+				"content_html": "<p>Know how to mess with a millennial?</p>\n<p>Show them a mirror.</p>\n",
+				"content_text": "Know how to mess with a millennial?\n\nShow them a mirror.\n",
+				"date_published": "2024-01-26T11:10:12+00:00",
+				"url": "https://swoods.net/2024/01/26/know-how-to.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/01/26/is-kobo-the.html",
+				
+				"content_html": "<p>Is Kobo the only good non-Amazon e-reader?</p>\n",
+				"content_text": "Is Kobo the only good non-Amazon e-reader?\n",
+				"date_published": "2024-01-26T03:04:17+00:00",
+				"url": "https://swoods.net/2024/01/26/is-kobo-the.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/01/26/hes-perfect.html",
+				
+				"content_html": "<p><a href=\"https://www.youtube.com/watch?v=-u2gTyf7iwI\">he&rsquo;s perfect💫</a></p>\n",
+				"content_text": "[he's perfect💫](https://www.youtube.com/watch?v=-u2gTyf7iwI)\n",
+				"date_published": "2024-01-26T02:21:32+00:00",
+				"url": "https://swoods.net/2024/01/26/hes-perfect.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/01/25/not-only-do.html",
+				
+				"content_html": "<p>Not only do I want to build a Micro.blog browser extension; I want it to include whatever that function is in which you can use third-party features when right-clicking a page.</p>\n<p>I especially want to highlight text and have the &ldquo;Quote on Micro.blog&rdquo; option to be immediately available near the cursor.</p>\n",
+				"content_text": "Not only do I want to build a Micro.blog browser extension; I want it to include whatever that function is in which you can use third-party features when right-clicking a page.\n\nI especially want to highlight text and have the \"Quote on Micro.blog\" option to be immediately available near the cursor.\n",
+				"date_published": "2024-01-25T17:21:34+00:00",
+				"url": "https://swoods.net/2024/01/25/not-only-do.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/01/25/per-the-awesome.html",
+				
+				"content_html": "<p>Per the <a href=\"https://swoods.net/2024/01/25/the-brand-new.html\">awesome new feature for MB</a>, I am immediately using this for TIL. Will be included in the next Orchid update along with another recent addition to the platform.</p>\n<p>I love it when an idea I am going to implement becomes much easier thanks to improvements made by Manton and co.</p>\n",
+				"content_text": "Per the [awesome new feature for MB](https://swoods.net/2024/01/25/the-brand-new.html), I am immediately using this for TIL. Will be included in the next Orchid update along with another recent addition to the platform.\r\n\r\nI love it when an idea I am going to implement becomes much easier thanks to improvements made by Manton and co.\n",
+				"date_published": "2024-01-25T16:44:30+00:00",
+				"url": "https://swoods.net/2024/01/25/per-the-awesome.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/01/25/the-brand-new.html",
+				
+				"content_html": "<p>The brand new <a href=\"https://news.micro.blog/2024/01/25/added-a-new.html\">One Page</a> feature for Micro.blog is pretty fucking sweet.</p>\n",
+				"content_text": "The brand new [One Page](https://news.micro.blog/2024/01/25/added-a-new.html) feature for Micro.blog is pretty fucking sweet.\n",
+				"date_published": "2024-01-25T16:37:35+00:00",
+				"url": "https://swoods.net/2024/01/25/the-brand-new.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/01/23/added-an-opml.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>🙌</p>\n<p>I&rsquo;ll soon be checking the different platforms for their export capabilities, as part of research for TIL. It&rsquo;ll be interesting to see which platform, if any, has a comprehensive offering of this feature.</p>\n",
+				"content_text": "<blockquote class=\"quoteback\" data-title=\"\" data-author=\"news\" data-avatar=\"https://micro.blog/news/avatar.jpg\" cite=\"https://news.micro.blog/2024/01/23/added-an-opml.html\"><p>Added an OPML export option for who you’re following, under Posts → “…” → Export. Finally! This is slightly incomplete because Micro.blog attempts to exclude feeds that look semi-private. We’ll continue to improve this. There is also a fediverse CSV export under Account → View Fediverse Details.</p>\r\n<footer>[@news](https://micro.blog/news) <cite><a href=\"https://news.micro.blog/2024/01/23/added-an-opml.html\" class=\"u-in-reply-to\">https://news.micro.blog/2024/01/23/added-an-opml.html</a></cite></footer></blockquote><script src=\"https://micro.blog/quoteback.js\"></script>\r\n\r\n🙌\r\n\r\nI'll soon be checking the different platforms for their export capabilities, as part of research for TIL. It'll be interesting to see which platform, if any, has a comprehensive offering of this feature.\n",
+				"date_published": "2024-01-23T18:42:10+00:00",
+				"url": "https://swoods.net/2024/01/23/added-an-opml.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/01/23/ive-been-on.html",
+				
+				"content_html": "<p>I&rsquo;ve been on the web for over twenty years and my brain still struggles to think of bread as &ldquo;a biscuit&rdquo;.</p>\n",
+				"content_text": "I've been on the web for over twenty years and my brain still struggles to think of bread as \"a biscuit\".\n",
+				"date_published": "2024-01-23T16:08:19+00:00",
+				"url": "https://swoods.net/2024/01/23/ive-been-on.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/01/23/i-continue-to.html",
+				
+				"content_html": "<p>I continue to struggle with the limit-less nature of the MB timeline. Moving through paragraphs of text intermingled with columns of photographs isn&rsquo;t my preferred scrolling experience.</p>\n<p>However; &ldquo;Read more&rdquo; links and side-scrolling widgets often feel&hellip; fragile? So idk. A tough nut to crack.</p>\n",
+				"content_text": "I continue to struggle with the limit-less nature of the MB timeline. Moving through paragraphs of text intermingled with columns of photographs isn't my preferred scrolling experience.\n\nHowever; \"Read more\" links and side-scrolling widgets often feel... fragile? So idk. A tough nut to crack.\n",
+				"date_published": "2024-01-23T15:35:26+00:00",
+				"url": "https://swoods.net/2024/01/23/i-continue-to.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/01/23/replies-vs-conversation.html",
+				"title": "Replies vs Conversation on Micro.blog",
+				"content_html": "<p>A new feature on Micro.blog inspired <a href=\"https://micro.blog/patrickrhone/29785166\">a discussion</a> over what I think of as the ongoing friction caused by the dual nature of the platform as a paid blogging host, with free(ish) social network attached.</p>\n<p>My reply got longer than I like to see in my own timeline so here we go&hellip;</p>\n<p>The reason I would prefer to use a different label is that it helps me maintain a sense of place, to be aware of the context. To me:</p>\n<ul>\n<li>Conversation = timeline</li>\n<li>Replies = blog</li>\n</ul>\n<p>(Edit: actually, this makes sense now that I&rsquo;ve written it out. <em>Conversation</em> works because that&rsquo;s where the link goes. My question now is: why is there a link to the timeline mixed in with my blog posts?</p>\n<p>Maybe this would be easier to understand if Conversation.js was better equipped as a commenting system.)</p>\n<p>This tripped me up because it appears to be an ongoing issue; I regularly see lots of people struggle with these ideas and there is no apparent proof of intent from the design side of things — what&rsquo;s the idea, why was it done that way, will it change over time, how much does feedback matter in these decisions, etc —and I wonder if these choices add to the uncertainty and difficulty? I&rsquo;m probably over-thinking it.</p>\n",
+				"content_text": "A new feature on Micro.blog inspired [a discussion](https://micro.blog/patrickrhone/29785166) over what I think of as the ongoing friction caused by the dual nature of the platform as a paid blogging host, with free(ish) social network attached.\n\nMy reply got longer than I like to see in my own timeline so here we go...\n\nThe reason I would prefer to use a different label is that it helps me maintain a sense of place, to be aware of the context. To me:\n\n- Conversation = timeline\n- Replies = blog\n \n(Edit: actually, this makes sense now that I've written it out. _Conversation_ works because that's where the link goes. My question now is: why is there a link to the timeline mixed in with my blog posts? \n\nMaybe this would be easier to understand if Conversation.js was better equipped as a commenting system.)\n\nThis tripped me up because it appears to be an ongoing issue; I regularly see lots of people struggle with these ideas and there is no apparent proof of intent from the design side of things — what's the idea, why was it done that way, will it change over time, how much does feedback matter in these decisions, etc —and I wonder if these choices add to the uncertainty and difficulty? I'm probably over-thinking it.\n",
+				"date_published": "2024-01-23T15:29:39+00:00",
+				"url": "https://swoods.net/2024/01/23/replies-vs-conversation.html",
+				"tags": ["long","links"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/01/23/never-judge-software.html",
+				
+				"content_html": "<p>Never judge software by the number, or regularity of updates.</p>\n",
+				"content_text": "Never judge software by the number, or regularity of updates.\n",
+				"date_published": "2024-01-23T14:03:43+00:00",
+				"url": "https://swoods.net/2024/01/23/never-judge-software.html",
+				"tags": ["short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2024/01/23/i-went-to.html",
 				
 				"content_html": "<p>I went to one MB meet-up about analogue tools and now I&rsquo;m wondering if I could fit a writing desk into this house.</p>\n",
