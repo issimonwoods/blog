@@ -7,6 +7,60 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2024/02/18/good-grief-bob.html",
+				
+				"content_html": "<p>£80 -&gt; £110</p>\n<p>Good grief, Bob Iger.</p>\n",
+				"content_text": "£80 -> £110\n\nGood grief, Bob Iger.\n",
+				"date_published": "2024-02-18T21:00:00+00:00",
+				"url": "https://swoods.net/2024/02/18/good-grief-bob.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/02/18/i-think-im.html",
+				
+				"content_html": "<p>I think I&rsquo;m Weird Online:</p>\n<ul>\n<li>I don&rsquo;t feel the need to catch up.</li>\n<li>I don&rsquo;t feel the desire to &ldquo;debate for good&rdquo;.</li>\n<li>I don&rsquo;t require Likes and Algorithms.</li>\n<li>I don&rsquo;t assume all technological advancements are good.</li>\n<li>I don&rsquo;t believe anyone has a right to tell others how to spend their time, especially online.</li>\n</ul>\n",
+				"content_text": "I think I'm Weird Online:\n\n- I don't feel the need to catch up.\n- I don't feel the desire to \"debate for good\".\n- I don't require Likes and Algorithms.\n- I don't assume all technological advancements are good.\n- I don't believe anyone has a right to tell others how to spend their time, especially online.\n",
+				"date_published": "2024-02-18T02:01:50+00:00",
+				"url": "https://swoods.net/2024/02/18/i-think-im.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/02/17/missed-the-latest.html",
+				
+				"content_html": "<p>Missed the <a href=\"https://www.cygnoir.net/2024/02/17/another-microblog-analog.html\">latest Analog Tools meetup</a>, which appears to have been a lot of fun.</p>\n<p>This is why, ironically, I need to keep working on properly establishing my planning, scheduling, and note-keeping system. Progress is steady, alongside improvements to the new place so I can&rsquo;t wait for the next meetup.</p>\n",
+				"content_text": "Missed the [latest Analog Tools meetup](https://www.cygnoir.net/2024/02/17/another-microblog-analog.html), which appears to have been a lot of fun.\n\nThis is why, ironically, I need to keep working on properly establishing my planning, scheduling, and note-keeping system. Progress is steady, alongside improvements to the new place so I can't wait for the next meetup.\n",
+				"date_published": "2024-02-17T18:34:13+00:00",
+				"url": "https://swoods.net/2024/02/17/missed-the-latest.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/02/17/just-saw-an.html",
+				
+				"content_html": "<p>Just saw an advert for &ldquo;Your child&rsquo;s personal AI tutor.&rdquo;</p>\n<p>Welp time to go jump off a cliff.</p>\n",
+				"content_text": "Just saw an advert for \"Your child's personal AI tutor.\"\n\nWelp time to go jump off a cliff.\n",
+				"date_published": "2024-02-17T03:01:32+00:00",
+				"url": "https://swoods.net/2024/02/17/just-saw-an.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/02/15/we-are-now.html",
+				
+				"content_html": "<p>We are now into year eight of Micro.blog. Feels like a good time for certain weak spots to be corrected — the kind of behind-the-scenes upgrade that is not at all flashy and worth lots of attention but instead guarantees such stability that you basically never notice other people having problems.</p>\n",
+				"content_text": "We are now into year eight of Micro.blog. Feels like a good time for certain weak spots to be corrected — the kind of behind-the-scenes upgrade that is not at all flashy and worth lots of attention but instead guarantees such stability that you basically never notice other people having problems.\n",
+				"date_published": "2024-02-15T17:36:36+00:00",
+				"url": "https://swoods.net/2024/02/15/we-are-now.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/02/15/going-on-a.html",
+				
+				"content_html": "<p>Going on a purge of notifications. Thankfully I don&rsquo;t have to do this often, however this feels like a particularly good year to reign things in tight.</p>\n<p>This is a good way to remember that many of the inputs in life can be controlled, at least to enough of an extent to limit sudden impact.</p>\n",
+				"content_text": "Going on a purge of notifications. Thankfully I don't have to do this often, however this feels like a particularly good year to reign things in tight.\n\nThis is a good way to remember that many of the inputs in life can be controlled, at least to enough of an extent to limit sudden impact.\n",
+				"date_published": "2024-02-15T15:46:45+00:00",
+				"url": "https://swoods.net/2024/02/15/going-on-a.html",
+				"tags": ["short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2024/02/14/testing-for-annie.html",
 				
 				"content_html": "<p>testing for Annie</p>\n<p><a href=\"https://micro.blog/archives/6061725\">h/t miljko</a></p>\n",
@@ -406,7 +460,7 @@
 				"id": "http://simonmumbles.micro.blog/2024/01/20/all-is-well.html",
 				
 				"content_html": "<p>All is well with the world. 🥲</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "All is well with the world. 🥲\n\n<img src=\"uploads/2024/1307b237d8.jpg\" width=\"600\" height=\"450\" alt=\"Five bags of coffee, on a kitchen counter-top. They are; Echwan (East Java), Honduras organic, Monsoon Malabar (Southern India), Old Brown (Java), and Guatemalan (Peña Roja).\">\n",
+				"content_text": "All is well with the world. 🥲\n\n<img src=\"https://cdn.uploads.micro.blog/1614/2024/1307b237d8.jpg\" width=\"600\" height=\"450\" alt=\"Five bags of coffee, on a kitchen counter-top. They are; Echwan (East Java), Honduras organic, Monsoon Malabar (Southern India), Old Brown (Java), and Guatemalan (Peña Roja).\">\n",
 				"date_published": "2024-01-20T14:57:36+00:00",
 				"url": "https://swoods.net/2024/01/20/all-is-well.html",
 				"tags": ["short","photos"]
