@@ -7,6 +7,78 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2024/03/06/im-not-a.html",
+				
+				"content_html": "<p>I&rsquo;m not a fan of the approach: &ldquo;lol I used the Accessibility Description to tell more of the joke that I&rsquo;m telling in the post&rdquo;</p>\n<p>So you decided to be an ableist asshole and want a pat on the back for it? Cool.</p>\n",
+				"content_text": "I'm not a fan of the approach: \"lol I used the Accessibility Description to tell more of the joke that I'm telling in the post\"\n\nSo you decided to be an ableist asshole and want a pat on the back for it? Cool.\n",
+				"date_published": "2024-03-06T00:26:41+00:00",
+				"url": "https://swoods.net/2024/03/06/im-not-a.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/03/05/rambling-about-health.html",
+				"title": "Rambling about health of the MB community",
+				"content_html": "<p>I wrote <a href=\"https://swoods.net/2024/03/05/muted-somebody-on.html\">a short post</a> which I&rsquo;m half-regretting and was then inspired by <a href=\"https://swoods.net/2024/03/05/muted-somebody-on.html\">the ensuing conversation</a> to waffle on a bit.</p>\n<p>⁂</p>\n<p>I&rsquo;ve tried to become much more careful when talking about this type of thing, not least because MB is in a bit of an odd place; plenty of people are trying to volunteer but the tools to do so are limited, whilst there is no way to know whether such efforts are going to be bolstered by fully-equipped, paid official help.</p>\n<p>Whilst I think there is a lot we in the community can talk about regarding these issues and generally have greater interaction to help foster the best environment possible, I also believe a lot of that particular work won&rsquo;t be worth much if the team isn&rsquo;t able to reciprocate in the best way.</p>\n<p>This situation might be much better than I believe it to be, and I just haven&rsquo;t been involved enough with conversations that happen elsewhere — this is mostly how I see it based on the public spaces for the community.</p>\n<p>I am looking forward to better conversations about these issues, especially beyond just text and timelines, and hope to see some of my doubts proven wrong.</p>\n",
+				"content_text": "I wrote [a short post](https://swoods.net/2024/03/05/muted-somebody-on.html) which I'm half-regretting and was then inspired by [the ensuing conversation](https://swoods.net/2024/03/05/muted-somebody-on.html) to waffle on a bit.\n\n⁂\n\nI've tried to become much more careful when talking about this type of thing, not least because MB is in a bit of an odd place; plenty of people are trying to volunteer but the tools to do so are limited, whilst there is no way to know whether such efforts are going to be bolstered by fully-equipped, paid official help.\n\nWhilst I think there is a lot we in the community can talk about regarding these issues and generally have greater interaction to help foster the best environment possible, I also believe a lot of that particular work won't be worth much if the team isn't able to reciprocate in the best way. \n\nThis situation might be much better than I believe it to be, and I just haven't been involved enough with conversations that happen elsewhere — this is mostly how I see it based on the public spaces for the community.\n\nI am looking forward to better conversations about these issues, especially beyond just text and timelines, and hope to see some of my doubts proven wrong.\n",
+				"date_published": "2024-03-05T22:29:54+00:00",
+				"url": "https://swoods.net/2024/03/05/rambling-about-health.html",
+				"tags": ["long","links"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/03/05/muted-somebody-on.html",
+				
+				"content_html": "<p>Muted somebody on MB whom I had previously un-muted.</p>\n<p>There is a type of trolling that is most corrosive to a community, and it comes in a form that is not obvious. These people are skilled at hiding their crappy behaviour behind sets of well-chosen words, a skill honed from being overly online.</p>\n",
+				"content_text": "Muted somebody on MB whom I had previously un-muted.\n\nThere is a type of trolling that is most corrosive to a community, and it comes in a form that is not obvious. These people are skilled at hiding their crappy behaviour behind sets of well-chosen words, a skill honed from being overly online.\n",
+				"date_published": "2024-03-05T21:30:31+00:00",
+				"url": "https://swoods.net/2024/03/05/muted-somebody-on.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/03/05/custom-menu-commands.html",
+				
+				"content_html": "<blockquote>\n<p>&hellip; custom menu commands for web apps on Mac</p>\n</blockquote>\n<p>— Jen Simmons, <a href=\"https://front-end.social/@jensimmons/112044672667069282\">Safari 17.4 is here!</a></p>\n<p>👀</p>\n",
+				"content_text": "> ... custom menu commands for web apps on Mac\n\n— Jen Simmons, [Safari 17.4 is here!](https://front-end.social/@jensimmons/112044672667069282)\n\n👀\n",
+				"date_published": "2024-03-05T19:24:03+00:00",
+				"url": "https://swoods.net/2024/03/05/custom-menu-commands.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/03/05/the-bug-in.html",
+				
+				"content_html": "<p>The bug in the MB app for Mac in which Conversations do not load properly (it just shows a blank view in the right column) is, at times, a feature!</p>\n<p>Currently I am too easily distracted and many of the posts and replies from the timeline are very good.</p>\n",
+				"content_text": "The bug in the MB app for Mac in which Conversations do not load properly (it just shows a blank view in the right column) is, at times, a feature!\n\nCurrently I am too easily distracted and many of the posts and replies from the timeline are very good.\n",
+				"date_published": "2024-03-05T19:07:38+00:00",
+				"url": "https://swoods.net/2024/03/05/the-bug-in.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/03/05/i-wonder-how.html",
+				
+				"content_html": "<p>I wonder how that AI messaging app is doing&hellip; Wavelength, I think it&rsquo;s called?</p>\n",
+				"content_text": "I wonder how that AI messaging app is doing... Wavelength, I think it's called?\n",
+				"date_published": "2024-03-05T18:15:07+00:00",
+				"url": "https://swoods.net/2024/03/05/i-wonder-how.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/03/05/i-cant-pick.html",
+				
+				"content_html": "<p>I can&rsquo;t pick a particular line to quote from <a href=\"https://blog.ningnarrative.com/2024/03/04/its-okay-to.html\">It&rsquo;s Okay to Not Write</a> so I suggest you read the whole thing.</p>\n",
+				"content_text": "I can't pick a particular line to quote from [It's Okay to Not Write](https://blog.ningnarrative.com/2024/03/04/its-okay-to.html) so I suggest you read the whole thing.\n",
+				"date_published": "2024-03-05T12:59:53+00:00",
+				"url": "https://swoods.net/2024/03/05/i-cant-pick.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/03/03/having-fun-with.html",
+				
+				"content_html": "<p>Having fun with iCloud breaking my web browsing. Had to do a bunch of restarts and signing out and back in again; it&rsquo;s like being back on Windows!</p>\n",
+				"content_text": "Having fun with iCloud breaking my web browsing. Had to do a bunch of restarts and signing out and back in again; it's like being back on Windows!\n",
+				"date_published": "2024-03-03T19:35:07+00:00",
+				"url": "https://swoods.net/2024/03/03/having-fun-with.html",
+				"tags": ["short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2024/02/26/i-think-lady.html",
 				
 				"content_html": "<p>I think <a href=\"https://music.youtube.com/watch?v=czhd27cN2dg&amp;si=3Qxc7dvjNwIdxPMR\">Lady Madonna</a> is my favourite Beatles song. 🎶</p>\n",
