@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2024/04/26/wordle-feels-like.html",
+				
+				"content_html": "<p>Wordle 1,042 3/6</p>\n<p>⬜⬜⬜⬜⬜<br>\n⬜🟩⬜⬜🟩<br>\n🟩🟩🟩🟩🟩</p>\n<p>Feels like a good way to start the weekend, after a week of rest and relaxation with visiting friends and family.</p>\n",
+				"content_text": "Wordle 1,042 3/6\n\n⬜⬜⬜⬜⬜  \n⬜🟩⬜⬜🟩  \n🟩🟩🟩🟩🟩  \n\nFeels like a good way to start the weekend, after a week of rest and relaxation with visiting friends and family.\n",
+				"date_published": "2024-04-26T09:41:59+01:00",
+				"url": "https://swoods.net/2024/04/26/wordle-feels-like.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/04/23/i-have-set.html",
+				
+				"content_html": "<p>I have set my plan:</p>\n<ol>\n<li>Wait to see what Apple do in September.</li>\n<li>Assuming there are no more small phones — I would be <em>shocked</em> if there were — immediately get a 13 Mini.</li>\n<li>Set the default to be stripped down, with easy access to very few features.</li>\n<li>Set a work mode with greater access.</li>\n<li>See how that goes.</li>\n</ol>\n",
+				"content_text": "I have set my plan:\n\n1. Wait to see what Apple do in September.\n2. Assuming there are no more small phones — I would be _shocked_ if there were — immediately get a 13 Mini.\n3. Set the default to be stripped down, with easy access to very few features.\n4. Set a work mode with greater access.\n5. See how that goes.\n",
+				"date_published": "2024-04-23T16:59:14+01:00",
+				"url": "https://swoods.net/2024/04/23/i-have-set.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/04/22/connections-puzzle.html",
+				
+				"content_html": "<p>Connections\nPuzzle #316</p>\n<p>🟨🟨🟨🟨<br>\n🟩🟩🟩🟩<br>\n🟪🟪🟪🟪<br>\n🟦🟦🟦🟦</p>\n<p>💪</p>\n",
+				"content_text": "Connections \nPuzzle #316\n\n🟨🟨🟨🟨  \n🟩🟩🟩🟩  \n🟪🟪🟪🟪  \n🟦🟦🟦🟦  \n\n💪\n",
+				"date_published": "2024-04-22T09:05:52+01:00",
+				"url": "https://swoods.net/2024/04/22/connections-puzzle.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/04/19/wordle.html",
+				
+				"content_html": "<p>Wordle 1,035 2/6</p>\n<p>🟩⬜⬜🟩🟩<br>\n🟩🟩🟩🟩🟩</p>\n<p>☺️</p>\n",
+				"content_text": "Wordle 1,035 2/6\n\n🟩⬜⬜🟩🟩  \n🟩🟩🟩🟩🟩  \n\n☺️\n",
+				"date_published": "2024-04-19T10:35:12+01:00",
+				"url": "https://swoods.net/2024/04/19/wordle.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/04/19/when-i-reveal.html",
+				
+				"content_html": "<p>When I reveal this book the mood quickly changes.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "When I reveal this book the mood quickly changes.\n\n<img src=\"uploads/2024/45f5651686.jpg\" width=\"450\" height=\"600\" alt=\"A notepad on top of blue tissue paper. The pad is formatted to easily list the names of characters in a role-playing game, specifically to track the order in which players may take their turn. The top of the page includes the words “roll for initiative” and there is a stylised border of green with a rabbit, flowers, mushrooms, and the outline of a 20-sided die.  \">\n",
+				"date_published": "2024-04-19T01:03:20+01:00",
+				"url": "https://swoods.net/2024/04/19/when-i-reveal.html",
+				"tags": ["short","photos"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2024/04/18/tonights-dd-was.html",
 				
 				"content_html": "<p>Tonight&rsquo;s D&amp;D was another great one. It&rsquo;s like drinking a late coffee — honestly it reminds me of when I&rsquo;m in the flow with <a href=\"https://micro.blog/TIL\">@TIL</a>.</p>\n",
@@ -19,7 +64,7 @@
 				"id": "http://simonmumbles.micro.blog/2024/04/18/kismet-was-seemingly.html",
 				
 				"content_html": "<p>Kismet was seemingly in a transcendental state this morning.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Kismet was seemingly in a transcendental state this morning.\n\n<img src=\"uploads/2024/26363b0fef.jpg\" width=\"600\" height=\"450\" alt=\"A tortoiseshell calico cat, lying a top a pile of magazines in front of a window. The morning sun is bright and she looks to be enjoying the heat a great deal.\">\n",
+				"content_text": "Kismet was seemingly in a transcendental state this morning.\n\n<img src=\"https://cdn.uploads.micro.blog/1614/2024/26363b0fef.jpg\" width=\"600\" height=\"450\" alt=\"A tortoiseshell calico cat, lying a top a pile of magazines in front of a window. The morning sun is bright and she looks to be enjoying the heat a great deal.\">\n",
 				"date_published": "2024-04-18T16:00:27+01:00",
 				"url": "https://swoods.net/2024/04/18/kismet-was-seemingly.html",
 				"tags": ["short","photos"]
@@ -37,7 +82,7 @@
 				"id": "http://simonmumbles.micro.blog/2024/04/17/it-was-in.html",
 				
 				"content_html": "<p>It was in some ways a small step. My first entry in five weeks feels very good, however, and much more significant than the number of words I have written in this book thus far today.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It was in some ways a small step. My first entry in five weeks feels very good, however, and much more significant than the number of words I have written in this book thus far today.\n\n<img src=\"uploads/2024/img-3770.jpeg\" width=\"450\" height=\"600\" alt=\"A dark notebook from above, with the shadow of my iPhone covering part of it. It is the Theme Journal notebook, with the brainwave symbol embossed in the upper-centre position of the front cover.\">\n",
+				"content_text": "It was in some ways a small step. My first entry in five weeks feels very good, however, and much more significant than the number of words I have written in this book thus far today.\n\n<img src=\"https://cdn.uploads.micro.blog/1614/2024/img-3770.jpeg\" width=\"450\" height=\"600\" alt=\"A dark notebook from above, with the shadow of my iPhone covering part of it. It is the Theme Journal notebook, with the brainwave symbol embossed in the upper-centre position of the front cover.\">\n",
 				"date_published": "2024-04-17T18:34:21+01:00",
 				"url": "https://swoods.net/2024/04/17/it-was-in.html",
 				"tags": ["short","photos"]
