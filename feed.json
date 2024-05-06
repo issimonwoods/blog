@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2024/05/06/wordle-i-was.html",
+				
+				"content_html": "<p>Wordle 1,052 6/6</p>\n<p>⬜⬜🟨🟨⬜<br>\n🟩⬜⬜⬜🟩<br>\n🟩⬜⬜⬜🟩<br>\n🟩🟩🟩⬜🟩<br>\n🟩🟩🟩⬜🟩<br>\n🟩🟩🟩🟩🟩</p>\n<p>I was chuckling by the end — they got me good!</p>\n",
+				"content_text": "Wordle 1,052 6/6\n\n⬜⬜🟨🟨⬜  \n🟩⬜⬜⬜🟩  \n🟩⬜⬜⬜🟩  \n🟩🟩🟩⬜🟩  \n🟩🟩🟩⬜🟩  \n🟩🟩🟩🟩🟩  \n\nI was chuckling by the end — they got me good!\n",
+				"date_published": "2024-05-06T12:13:23+01:00",
+				"url": "https://swoods.net/2024/05/06/wordle-i-was.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/05/04/everyone-must-have.html",
+				
+				"content_html": "<p>&ldquo;Everyone must have an opinion!&rdquo; has recently been the calling card of certain parts of the social web; specifically the Very Online part.</p>\n<p>I remain deeply unsure of this. Instead, if often seems to be a bad thing and even destructive to the supposed causes of the people who make said proclamation.</p>\n",
+				"content_text": "\"Everyone must have an opinion!\" has recently been the calling card of certain parts of the social web; specifically the Very Online part.\n\nI remain deeply unsure of this. Instead, if often seems to be a bad thing and even destructive to the supposed causes of the people who make said proclamation.\n",
+				"date_published": "2024-05-04T18:01:05+01:00",
+				"url": "https://swoods.net/2024/05/04/everyone-must-have.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/05/04/it-has-taken.html",
+				
+				"content_html": "<p>It has taken longer than I would like, yet I have remembered a lesson I was taught in my youth: The opinions of affluent individuals in any society are rarely a fair reflection of that society.</p>\n<p>(I have a related question in my first reply to this very post you are reading, on Micro.blog.)</p>\n",
+				"content_text": "It has taken longer than I would like, yet I have remembered a lesson I was taught in my youth: The opinions of affluent individuals in any society are rarely a fair reflection of that society.\n\n(I have a related question in my first reply to this very post you are reading, on Micro.blog.)\n",
+				"date_published": "2024-05-04T17:48:51+01:00",
+				"url": "https://swoods.net/2024/05/04/it-has-taken.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/05/03/ive-noticed-that.html",
+				
+				"content_html": "<p>I&rsquo;ve noticed that a certain number of people use <em>Google Search</em> as a way to put accents over letters.</p>\n<p>Here&rsquo;s a tip for Mac folks: hold down whatever letter needs the accent.</p>\n",
+				"content_text": "I've noticed that a certain number of people use _Google Search_ as a way to put accents over letters.\n\nHere's a tip for Mac folks: hold down whatever letter needs the accent.\n",
+				"date_published": "2024-05-03T21:23:03+01:00",
+				"url": "https://swoods.net/2024/05/03/ive-noticed-that.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/05/02/connections-puzzle-initially.html",
+				
+				"content_html": "<p>Connections\nPuzzle #326</p>\n<p>🟨🟨🟨🟨<br>\n🟩🟩🟩🟩<br>\n🟦🟦🟦🟦<br>\n🟪🟪🟪🟪</p>\n<p>Initially I struggled with this game. Feels good to be exercising this particular part of my brain.</p>\n",
+				"content_text": "Connections \nPuzzle #326\n\n🟨🟨🟨🟨  \n🟩🟩🟩🟩  \n🟦🟦🟦🟦  \n🟪🟪🟪🟪  \n\nInitially I struggled with this game. Feels good to be exercising this particular part of my brain.\n",
+				"date_published": "2024-05-02T13:15:54+01:00",
+				"url": "https://swoods.net/2024/05/02/connections-puzzle-initially.html",
+				"tags": ["short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2024/04/30/dune-part-two.html",
 				
 				"content_html": "<p>Dune: Part Two was amazing. Villeneuve and Zimmer are a phenomenal pair. 🎥</p>\n",
@@ -334,7 +379,7 @@
 				"id": "http://simonmumbles.micro.blog/2024/04/06/where-there-is.html",
 				
 				"content_html": "<p>When it is windy, inevitably there will be rain.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "When it is windy, inevitably there will be rain.\n\n<img src=\"uploads/2024/img-3727.jpeg\" alt=\"The exterior of a garden, with a dark brown fence that, on the right, moves further back for the driveway. Above the fence foiliage blows in the wind. The air is also full of rain.\" width=\"600\" height=\"450\" />\n",
+				"content_text": "When it is windy, inevitably there will be rain.\n\n<img src=\"https://cdn.uploads.micro.blog/1614/2024/img-3727.jpeg\" alt=\"The exterior of a garden, with a dark brown fence that, on the right, moves further back for the driveway. Above the fence foiliage blows in the wind. The air is also full of rain.\" width=\"600\" height=\"450\" />\n",
 				"date_published": "2024-04-06T21:47:19+01:00",
 				"url": "https://swoods.net/2024/04/06/where-there-is.html",
 				"tags": ["short","photos"]
@@ -352,7 +397,7 @@
 				"id": "http://simonmumbles.micro.blog/2024/04/05/sometimes-the-foliage.html",
 				
 				"content_html": "<p>Sometimes the foliage is as distracting as the ball.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sometimes the foliage is as distracting as the ball.\n\n<img src=\"uploads/2024/hogan-ball-hunt-garden.jpeg\" alt=\"A golden retriever standing in an autumn-worn garden, looking for a ball.\" title=\"hogan-ball-hunt-garden.jpeg\" border=\"0\" width=\"600\" height=\"450\" />\n",
+				"content_text": "Sometimes the foliage is as distracting as the ball.\n\n<img src=\"https://cdn.uploads.micro.blog/1614/2024/hogan-ball-hunt-garden.jpeg\" alt=\"A golden retriever standing in an autumn-worn garden, looking for a ball.\" title=\"hogan-ball-hunt-garden.jpeg\" border=\"0\" width=\"600\" height=\"450\" />\n",
 				"date_published": "2024-04-05T18:10:36+01:00",
 				"url": "https://swoods.net/2024/04/05/sometimes-the-foliage.html",
 				"tags": ["short","photos"]
@@ -361,7 +406,7 @@
 				"id": "http://simonmumbles.micro.blog/2024/04/05/yes-he-has.html",
 				
 				"content_html": "<p>Yes, he has a &ldquo;cute&rdquo; card and he&rsquo;s not afraid to use it.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Yes, he has a \"cute\" card and he's not afraid to use it.\n\n<img src=\"uploads/2024/hogan-cute-card.jpeg\" alt=\"A golden retriever, lying on the floor and facing up with wide brown eyes and a slightly open mouth. He is wearing his work bandana, with matching green lead.\" title=\"hogan-cute-card.jpeg\" border=\"0\" width=\"600\" height=\"450\" />\n",
+				"content_text": "Yes, he has a \"cute\" card and he's not afraid to use it.\n\n<img src=\"https://cdn.uploads.micro.blog/1614/2024/hogan-cute-card.jpeg\" alt=\"A golden retriever, lying on the floor and facing up with wide brown eyes and a slightly open mouth. He is wearing his work bandana, with matching green lead.\" title=\"hogan-cute-card.jpeg\" border=\"0\" width=\"600\" height=\"450\" />\n",
 				"date_published": "2024-04-05T17:05:07+01:00",
 				"url": "https://swoods.net/2024/04/05/yes-he-has.html",
 				"tags": ["short","photos"]
@@ -7668,8 +7713,8 @@
 			{
 				"id": "http://simonmumbles.micro.blog/2022/04/19/im-a-private.html",
 				
-				"content_html": "<blockquote>\n<p>&hellip; I&rsquo;m a private person &hellip; I think if you do something and it turns out pretty good then you should go do something else wonderful, and not dwell on it too long&hellip; just figure out what&rsquo;s next.</p>\n</blockquote>\n<p><a href=\"https://www.youtube.com/watch?v=uRaG_EyJ3dI\">Steve Jobs</a></p>\n",
-				"content_text": "> ... I'm a private person ... I think if you do something and it turns out pretty good then you should go do something else wonderful, and not dwell on it too long... just figure out what's next.\r\n\r\n[Steve Jobs](https://www.youtube.com/watch?v=uRaG_EyJ3dI)\n",
+				"content_html": "<blockquote>\n<p>&hellip; I&rsquo;m a private person &hellip; I think if you do something and it turns out pretty good then you should go do something else wonderful, and not dwell on it too long&hellip; just figure out what&rsquo;s next.</p>\n</blockquote>\n<p><a href=\"https://youtu.be/B9Ve-mEy1oY?si=y6UOni2jRVDjpQo9&amp;t=502\">Steve Jobs</a></p>\n",
+				"content_text": "> ... I'm a private person ... I think if you do something and it turns out pretty good then you should go do something else wonderful, and not dwell on it too long... just figure out what's next.\n\n[Steve Jobs](https://youtu.be/B9Ve-mEy1oY?si=y6UOni2jRVDjpQo9&t=502)\n",
 				"date_published": "2022-04-19T10:06:06+01:00",
 				"url": "https://swoods.net/2022/04/19/im-a-private.html",
 				"tags": ["links","short"]
