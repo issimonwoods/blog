@@ -7,6 +7,87 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2024/05/18/the-new-conversation.html",
+				
+				"content_html": "<p>The new Conversation features on MB have brought me around to Manton&rsquo;s thinking. I no longer want threaded replies and much prefer to think of my blog&rsquo;s comments and the timeline as a great place for short exchanges, one-on-one discussions, <em>and</em> quick initial contact before moving into other spaces.</p>\n",
+				"content_text": "The new Conversation features on MB have brought me around to Manton's thinking. I no longer want threaded replies and much prefer to think of my blog's comments and the timeline as a great place for short exchanges, one-on-one discussions, _and_ quick initial contact before moving into other spaces.\n",
+				"date_published": "2024-05-18T20:40:40+01:00",
+				"url": "https://swoods.net/2024/05/18/the-new-conversation.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/05/18/thats-four-micro.html",
+				
+				"content_html": "<p>That&rsquo;s <em>four</em> Micro Camps now&hellip;</p>\n",
+				"content_text": "That's _four_ Micro Camps now... \n",
+				"date_published": "2024-05-18T00:04:58+01:00",
+				"url": "https://swoods.net/2024/05/18/thats-four-micro.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/05/17/microblog-state-of.html",
+				
+				"content_html": "<p>Micro.blog State of the Platform is happening <a href=\"https://www.youtube.com/watch?v=YA4rxsMKek8\">on YouTube</a>. A surprise demo is currently happening!</p>\n",
+				"content_text": "Micro.blog State of the Platform is happening [on YouTube](https://www.youtube.com/watch?v=YA4rxsMKek8). A surprise demo is currently happening!\n",
+				"date_published": "2024-05-17T22:01:49+01:00",
+				"url": "https://swoods.net/2024/05/17/microblog-state-of.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/05/17/micro-camp-links.html",
+				
+				"content_html": "<p><strong>Micro Camp links</strong></p>\n<ul>\n<li>\n<p><a href=\"https://www.youtube.com/@Micro-blog/\">YouTube</a></p>\n</li>\n<li>\n<p><a href=\"https://micro.camp\">Micro.camp</a></p>\n</li>\n<li>\n<p><a href=\"https://micro.blog/camp\">@camp</a></p>\n</li>\n<li>\n<p><a href=\"https://docs.google.com/forms/d/e/1FAIpQLScx7kHSj2iCgnORfTyiY3IdjfmXtaeWyGMhbNY51Rapq-itPA/viewform\">Questions form</a></p>\n</li>\n<li>\n<p><a href=\"https://help.micro.blog/chat/c/micro-camp/6\">Chat</a></p>\n</li>\n</ul>\n",
+				"content_text": "__Micro Camp links__\n\n- [YouTube](https://www.youtube.com/@Micro-blog/)\n\n- [Micro.camp](https://micro.camp)\n\n- [@camp](https://micro.blog/camp)\n\n- [Questions form](https://docs.google.com/forms/d/e/1FAIpQLScx7kHSj2iCgnORfTyiY3IdjfmXtaeWyGMhbNY51Rapq-itPA/viewform)\n\n- [Chat](https://help.micro.blog/chat/c/micro-camp/6)\n",
+				"date_published": "2024-05-17T20:01:18+01:00",
+				"url": "https://swoods.net/2024/05/17/micro-camp-links.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/05/17/getting-some-chores.html",
+				
+				"content_html": "<p>Getting some chores done and preparing for <a href=\"https://micro.camp\">Micro Camp</a>. Working out my window set-up, between <!-- raw HTML omitted -->Zoom<!-- raw HTML omitted -->, YouTube, and a spare browser.</p>\n<p>Edit: I now know that <a href=\"https://help.micro.blog/chat/c/micro-camp/6\">we&rsquo;re going back to the Help forum chat</a> for during the sessions. I&rsquo;ve used the web app Mac feature for the chat:</p>\n<ul>\n<li>File -&gt; Add to Dock&hellip;</li>\n</ul>\n",
+				"content_text": "Getting some chores done and preparing for [Micro Camp](https://micro.camp). Working out my window set-up, between <s>Zoom</s>, YouTube, and a spare browser.\n\nEdit: I now know that [we're going back to the Help forum chat](https://help.micro.blog/chat/c/micro-camp/6) for during the sessions. I've used the web app Mac feature for the chat:\n\n- File -> Add to Dock...\n",
+				"date_published": "2024-05-17T17:26:50+01:00",
+				"url": "https://swoods.net/2024/05/17/getting-some-chores.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/05/17/wordle.html",
+				
+				"content_html": "<p>Wordle 1,063 3/6</p>\n<p>🟨🟨🟨⬜⬜<br>\n⬜🟩🟨⬜🟨<br>\n🟩🟩🟩🟩🟩</p>\n<p>💪</p>\n",
+				"content_text": "Wordle 1,063 3/6\n\n🟨🟨🟨⬜⬜  \n⬜🟩🟨⬜🟨  \n🟩🟩🟩🟩🟩  \n\n💪\n",
+				"date_published": "2024-05-17T14:01:41+01:00",
+				"url": "https://swoods.net/2024/05/17/wordle.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/05/16/its-good-to.html",
+				
+				"content_html": "<p>It&rsquo;s good to see txt.fyi up and running.</p>\n",
+				"content_text": "It's good to see txt.fyi up and running.\n",
+				"date_published": "2024-05-16T02:10:26+01:00",
+				"url": "https://swoods.net/2024/05/16/its-good-to.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/05/16/another-micro-camp.html",
+				
+				"content_html": "<p>Another Micro Camp, another <a href=\"https://micro.camp/2024/05/15/micro-camp-door.html\">chance to win</a> an awesome prize:</p>\n<blockquote>\n<p>All the prizes are amazing, so you really can’t go wrong.</p>\n</blockquote>\n<p>Fully agreed with Jean on this. Good luck!</p>\n",
+				"content_text": "Another Micro Camp, another [chance to win](https://micro.camp/2024/05/15/micro-camp-door.html) an awesome prize:\r\n\r\n> All the prizes are amazing, so you really can’t go wrong.\r\n\r\nFully agreed with Jean on this. Good luck!\n",
+				"date_published": "2024-05-16T00:46:19+01:00",
+				"url": "https://swoods.net/2024/05/16/another-micro-camp.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/05/16/such-good-news.html",
+				
+				"content_html": "<p>Such good news to see <a href=\"https://www.manton.org/2024/05/09/happy-to-announce.html\">Kimberly Hirsh joining the Micro.blog team</a>! 🎉</p>\n<p>Also fantastic news from the same post:</p>\n<blockquote>\n<p>Vincent has also been at work behind the scenes to improve the admin features in our platform, with the hope that some of it can be available to more community members.</p>\n</blockquote>\n<p>Yet more great work from Vincent, and also a good sign of the team taking the well-proven careful and considered approach when making significant changes to the platform.</p>\n",
+				"content_text": "Such good news to see [Kimberly Hirsh joining the Micro.blog team](https://www.manton.org/2024/05/09/happy-to-announce.html)! 🎉\n\nAlso fantastic news from the same post:\n\n> Vincent has also been at work behind the scenes to improve the admin features in our platform, with the hope that some of it can be available to more community members.\n\nYet more great work from Vincent, and also a good sign of the team taking the well-proven careful and considered approach when making significant changes to the platform.\n",
+				"date_published": "2024-05-16T00:42:04+01:00",
+				"url": "https://swoods.net/2024/05/16/such-good-news.html",
+				"tags": ["links","short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2024/05/11/wordle-the-start.html",
 				
 				"content_html": "<p>Wordle 1,057 3/6</p>\n<p>🟩⬜🟨⬜⬜<br>\n🟩⬜🟨⬜⬜<br>\n🟩🟩🟩🟩🟩</p>\n<p>The start I needed. 💪</p>\n",
@@ -235,7 +316,7 @@
 				"id": "http://simonmumbles.micro.blog/2024/04/17/the-unexpected-october.html",
 				
 				"content_html": "<p>The unexpected October days of summer from last year found us, by serendipity, at Towan beach. It was wonderful and having enjoyed the water we spent some moments in the mode of a flâneur.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The unexpected October days of summer from last year found us, by serendipity, at Towan beach. It was wonderful and having enjoyed the water we spent some moments in the mode of a flâneur.\n\n<img src=\"uploads/2024/flneur.png\" width=\"600\" height=\"450\" alt=\"A small beach, with the edges visible at either side. There are some people surfing on the waves, whilst others are enjoing the shallows with children and even a dog. The sky is big, bright, and almost empty of clouds.\">\n",
+				"content_text": "The unexpected October days of summer from last year found us, by serendipity, at Towan beach. It was wonderful and having enjoyed the water we spent some moments in the mode of a flâneur.\n\n<img src=\"https://cdn.uploads.micro.blog/1614/2024/flneur.png\" width=\"600\" height=\"450\" alt=\"A small beach, with the edges visible at either side. There are some people surfing on the waves, whilst others are enjoing the shallows with children and even a dog. The sky is big, bright, and almost empty of clouds.\">\n",
 				"date_published": "2024-04-17T11:15:00+01:00",
 				"url": "https://swoods.net/2024/04/17/the-unexpected-october.html",
 				"tags": ["short","photos"]
