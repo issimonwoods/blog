@@ -7,6 +7,69 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2024/06/09/wordle-i-nearly.html",
+				
+				"content_html": "<p>Wordle 1,086 2/6</p>\n<p>🟩🟩🟩🟩⬜<br>\n🟩🟩🟩🟩🟩</p>\n<p>I nearly fell over.</p>\n",
+				"content_text": "Wordle 1,086 2/6\n\n🟩🟩🟩🟩⬜  \n🟩🟩🟩🟩🟩  \n\nI nearly fell over.\n",
+				"date_published": "2024-06-09T11:15:14+01:00",
+				"url": "https://swoods.net/2024/06/09/wordle-i-nearly.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/06/07/i-recently-learned.html",
+				
+				"content_html": "<p>I recently learned that the guy behind the Rabbit AI toy made that thing from the remains of a crypto scam (lol redundant phrase I know).</p>\n",
+				"content_text": "I recently learned that the guy behind the Rabbit AI toy made that thing from the remains of a crypto scam (lol redundant phrase I know).\n",
+				"date_published": "2024-06-07T15:41:53+01:00",
+				"url": "https://swoods.net/2024/06/07/i-recently-learned.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/06/07/from-broken-to.html",
+				
+				"content_html": "<p>From &ldquo;broken&rdquo; to &ldquo;bug&rdquo; to &ldquo;hallucination&rdquo;.</p>\n<p>We <em>love</em> to lie to each other.</p>\n",
+				"content_text": "From \"broken\" to \"bug\" to \"hallucination\".\n\nWe _love_ to lie to each other.\n",
+				"date_published": "2024-06-07T15:37:45+01:00",
+				"url": "https://swoods.net/2024/06/07/from-broken-to.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/06/06/that-was-tricky.html",
+				
+				"content_html": "<p>Wordle 1,083 6/6</p>\n<p>⬜🟨⬜⬜⬜<br>\n🟨⬜⬜🟩⬜<br>\n⬜⬜🟨🟩🟩<br>\n⬜🟨🟨🟩🟩<br>\n⬜🟩🟨🟩🟩<br>\n🟩🟩🟩🟩🟩</p>\n<p>That was tricky.</p>\n",
+				"content_text": "Wordle 1,083 6/6\n\n⬜🟨⬜⬜⬜  \n🟨⬜⬜🟩⬜  \n⬜⬜🟨🟩🟩  \n⬜🟨🟨🟩🟩  \n⬜🟩🟨🟩🟩  \n🟩🟩🟩🟩🟩  \n\n\nThat was tricky.\n",
+				"date_published": "2024-06-06T10:00:37+01:00",
+				"url": "https://swoods.net/2024/06/06/that-was-tricky.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/06/05/wordle-back-into.html",
+				
+				"content_html": "<p>Wordle 1,082 3/6</p>\n<p>⬜🟨⬜⬜⬜<br>\n🟩⬜⬜⬜⬜<br>\n🟩🟩🟩🟩🟩</p>\n<p>Back into the swing of things. Feels good!</p>\n",
+				"content_text": "Wordle 1,082 3/6\n\n⬜🟨⬜⬜⬜  \n🟩⬜⬜⬜⬜  \n🟩🟩🟩🟩🟩  \n\nBack into the swing of things. Feels good!\n",
+				"date_published": "2024-06-05T09:23:04+01:00",
+				"url": "https://swoods.net/2024/06/05/wordle-back-into.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/06/05/now-that-ive.html",
+				
+				"content_html": "<p>Now that I&rsquo;ve finished some very late-night reading of the RSS 2.0 specification, it&rsquo;s time for sleep.</p>\n",
+				"content_text": "Now that I've finished some very late-night reading of the RSS 2.0 specification, it's time for sleep.\n",
+				"date_published": "2024-06-05T02:04:31+01:00",
+				"url": "https://swoods.net/2024/06/05/now-that-ive.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/06/03/vincent-ritter-introducing.html",
+				
+				"content_html": "<p>Vincent Ritter, <a href=\"https://vincentritter.com/2024/06/03/an-introduction-to-sublime-feed\">introducing Sublime Feed</a> makes a point that feels like it was just for me:</p>\n<blockquote>\n<p>There is also no concept of &ldquo;unread&rdquo;. I don’t need that in my life&hellip; and I know some of you do. I think having an unread count isn’t healthy. Each time you load up your feed it’s a snapshot of this very moment in time and you can just pick and choose. I think it’s easy enough to remember the post you just read and move onto the other.</p>\n</blockquote>\n<p>I agree with this, mostly. Given that I&rsquo;ve given up on remembering every little thing, Sublime Feed will be a place in which I will only read my favourites.</p>\n",
+				"content_text": "Vincent Ritter, [introducing Sublime Feed](https://vincentritter.com/2024/06/03/an-introduction-to-sublime-feed) makes a point that feels like it was just for me:\n\n> There is also no concept of \"unread\". I don’t need that in my life... and I know some of you do. I think having an unread count isn’t healthy. Each time you load up your feed it’s a snapshot of this very moment in time and you can just pick and choose. I think it’s easy enough to remember the post you just read and move onto the other.\n\nI agree with this, mostly. Given that I've given up on remembering every little thing, Sublime Feed will be a place in which I will only read my favourites.\n",
+				"date_published": "2024-06-03T22:14:04+01:00",
+				"url": "https://swoods.net/2024/06/03/vincent-ritter-introducing.html",
+				"tags": ["links","short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2024/06/02/wordle-it-took.html",
 				
 				"content_html": "<p>Wordle 1,079 3/6</p>\n<p>⬜🟨⬜⬜⬜<br>\n🟨🟩🟩⬜⬜<br>\n🟩🟩🟩🟩🟩</p>\n<p>It took me far too long once I got the second clue. Still waking up!</p>\n",
