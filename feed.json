@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2024/07/24/apple-finally-realised.html",
+				
+				"content_html": "<p>Apple finally realised people also use <a href=\"https://front-end.social/@jensimmons/112843221646648179\">maps in browsers</a>.</p>\n",
+				"content_text": "Apple finally realised people also use [maps in browsers](https://front-end.social/@jensimmons/112843221646648179).\n",
+				"date_published": "2024-07-24T21:36:22+01:00",
+				"url": "https://swoods.net/2024/07/24/apple-finally-realised.html",
+				"tags": ["links","short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2024/07/18/wordle-amused-by.html",
 				
 				"content_html": "<p>Wordle 1,125 5/6</p>\n<p>⬜🟨⬜⬜⬜<br>\n🟨🟩⬜⬜⬜<br>\n⬜🟩🟩🟨⬜<br>\n🟩🟩🟩⬜⬜<br>\n🟩🟩🟩🟩🟩</p>\n<p>Amused by the answer being appropriate to the point of not caring about yet another 5. Anyway, back to prepping for tonight&rsquo;s D&amp;D&hellip;</p>\n",
