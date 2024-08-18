@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2024/08/16/the-status-page.html",
+				
+				"content_html": "<p>The <a href=\"https://status.micro.blog\">status page for Micro.blog</a> shows that everything is fine — I think? It&rsquo;s not entirely clear to me — and yet there is <a href=\"https://mandarismoore.com/2024/08/16/introducing-stoot-for.html\">a blog post I cannot access</a>.</p>\n<p>I&rsquo;m frustrated since the title of the blog post alone has me excited, whilst the helpful MB page isn&rsquo;t helpful at all.</p>\n",
+				"content_text": "The [status page for Micro.blog](https://status.micro.blog) shows that everything is fine — I think? It's not entirely clear to me — and yet there is [a blog post I cannot access](https://mandarismoore.com/2024/08/16/introducing-stoot-for.html).\n\nI'm frustrated since the title of the blog post alone has me excited, whilst the helpful MB page isn't helpful at all.\n",
+				"date_published": "2024-08-16T22:34:22+01:00",
+				"url": "https://swoods.net/2024/08/16/the-status-page.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/08/15/i-just-completed.html",
+				
+				"content_html": "<p>I just completed Spelling Bee for the first time. :)</p>\n",
+				"content_text": "I just completed Spelling Bee for the first time. :)\n",
+				"date_published": "2024-08-15T18:22:19+01:00",
+				"url": "https://swoods.net/2024/08/15/i-just-completed.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/08/13/the-latest-advancement.html",
+				
+				"content_html": "<p>The latest <em>advancement</em> Daddy Apple wishes to force onto my computer would break the machine for me.</p>\n<p>So that&rsquo;s fun.</p>\n",
+				"content_text": "The latest _advancement_ Daddy Apple wishes to force onto my computer would break the machine for me.\n\nSo that's fun.\n",
+				"date_published": "2024-08-13T23:54:34+01:00",
+				"url": "https://swoods.net/2024/08/13/the-latest-advancement.html",
+				"tags": ["short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2024/08/08/changes-ahead-by.html",
 				
 				"content_html": "<p><a href=\"https://blog.ayjay.org/changes-ahead/\">Changes Ahead</a> by Alan Jacobs is not the first post of its kind that I have read in the seven years since joining Micro.blog.</p>\n<p>A good broad, long-term goal for platforms such as this would be to change this dynamic. To truly be the best option for anybody who just wants to blog.</p>\n",
