@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2024/09/04/glad-to-have.html",
+				
+				"content_html": "<p>Glad to have <a href=\"https://blog.numericcitizen.me/guestbook/\">signed the guestbook for Numeric Citizen</a>. Such a nice way to give a tip of the hat to people on the web.</p>\n<p>Now it feels like a good idea to post whenever I sign other guestbooks.</p>\n",
+				"content_text": "Glad to have [signed the guestbook for Numeric Citizen](https://blog.numericcitizen.me/guestbook/). Such a nice way to give a tip of the hat to people on the web.\n\nNow it feels like a good idea to post whenever I sign other guestbooks.\n",
+				"date_published": "2024-09-04T00:46:54+01:00",
+				"url": "https://swoods.net/2024/09/04/glad-to-have.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/09/03/frightening-stuff-from.html",
+				
+				"content_html": "<p>Frightening stuff from <a href=\"https://www.threads.net/@chriswelch/post/C-8LF4BOSAP\">Chris Welch</a> regarding the &ldquo;advancement&rdquo; in AI technology for image manipulation.</p>\n",
+				"content_text": "Frightening stuff from [Chris Welch](https://www.threads.net/@chriswelch/post/C-8LF4BOSAP) regarding the \"advancement\" in AI technology for image manipulation.\n",
+				"date_published": "2024-09-03T15:50:51+01:00",
+				"url": "https://swoods.net/2024/09/03/frightening-stuff-from.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/09/03/i-will-never.html",
+				
+				"content_html": "<p>I will never enter the home of a person who has one of those &ldquo;domestic robots&rdquo;.</p>\n",
+				"content_text": "I will never enter the home of a person who has one of those \"domestic robots\".\n",
+				"date_published": "2024-09-03T15:18:14+01:00",
+				"url": "https://swoods.net/2024/09/03/i-will-never.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/09/03/just-listened-to.html",
+				
+				"content_html": "<p>Just listened to an episode of <a href=\"https://topenddevs.com/podcasts/iphreaks/episodes/039-iphreaks-show-subscription-apis-for-recurring-revenue-with-manton-reece#player1?catid=0&amp;trackid=0\">iPhreaks featuring Manton Reece</a>.</p>\n<p>This was from January of 2014, and in it Manton and the hosts talk about how Apple makes it difficult to have even a basic relationship with your customers in the App Store.</p>\n<p><em>Ten years ago</em>.</p>\n",
+				"content_text": "Just listened to an episode of [iPhreaks featuring Manton Reece](https://topenddevs.com/podcasts/iphreaks/episodes/039-iphreaks-show-subscription-apis-for-recurring-revenue-with-manton-reece#player1?catid=0&trackid=0).\n\nThis was from January of 2014, and in it Manton and the hosts talk about how Apple makes it difficult to have even a basic relationship with your customers in the App Store.\n\n_Ten years ago_.\n",
+				"date_published": "2024-09-03T13:40:23+01:00",
+				"url": "https://swoods.net/2024/09/03/just-listened-to.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/09/03/finally-watched-and.html",
+				
+				"content_html": "<p>Finally watched and listened to <a href=\"https://www.youtube.com/watch?v=tqMVt1pm3cg\">Vlad Campos&rsquo; interview with Manton Reece</a>. Lots of good stuff in there.</p>\n<p>It&rsquo;s particularly interesting to see how MB develops alongside the big protocols, as well as the massive silos.</p>\n",
+				"content_text": "Finally watched and listened to [Vlad Campos' interview with Manton Reece](https://www.youtube.com/watch?v=tqMVt1pm3cg). Lots of good stuff in there.\n\nIt's particularly interesting to see how MB develops alongside the big protocols, as well as the massive silos.\n",
+				"date_published": "2024-09-03T10:44:48+01:00",
+				"url": "https://swoods.net/2024/09/03/finally-watched-and.html",
+				"tags": ["links","short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2024/09/01/i-am-in.html",
 				
 				"content_html": "<p>I am in the midst of changing my sleeping pattern and it is the hardest thing I have ever done.</p>\n",
