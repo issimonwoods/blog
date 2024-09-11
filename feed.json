@@ -7,6 +7,60 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2024/09/11/better-conversations-by.html",
+				
+				"content_html": "<p><a href=\"https://anniemueller.com/better-conversations/\">Better conversations</a>, by Annie Mueller.</p>\n<p>Fucking phenomenal.</p>\n",
+				"content_text": "[Better conversations](https://anniemueller.com/better-conversations/), by Annie Mueller.\n\nFucking phenomenal.\n",
+				"date_published": "2024-09-11T21:28:03+01:00",
+				"url": "https://swoods.net/2024/09/11/better-conversations-by.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/09/09/dog-walk-successful.html",
+				
+				"content_html": "<p>Dog walk: successful 🐶</p>\n<p>Next: we need some coffee and then I am <em>finally</em> sitting down with my planning tools. Today this session happens in the afternoon; from tomorrow it will happen mostly in the morning.</p>\n",
+				"content_text": "Dog walk: successful 🐶\n\nNext: we need some coffee and then I am _finally_ sitting down with my planning tools. Today this session happens in the afternoon; from tomorrow it will happen mostly in the morning.\n",
+				"date_published": "2024-09-09T17:03:50+01:00",
+				"url": "https://swoods.net/2024/09/09/dog-walk-successful.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/09/09/as-well-as.html",
+				
+				"content_html": "<p>As well as personal blogging, I&rsquo;m also back to working on <a href=\"https://micro.blog/TIL\">@TIL</a> in a much better way. A big part of that has been internalising scheduling and planning to an extent that I now have clarity with regard to my time, a general sense of awareness if you will.</p>\n<p>Next up: walk the dog together.</p>\n",
+				"content_text": "As well as personal blogging, I'm also back to working on [@TIL](https://micro.blog/TIL) in a much better way. A big part of that has been internalising scheduling and planning to an extent that I now have clarity with regard to my time, a general sense of awareness if you will.\n\nNext up: walk the dog together.\n",
+				"date_published": "2024-09-09T15:42:46+01:00",
+				"url": "https://swoods.net/2024/09/09/as-well-as.html",
+				"tags": ["Today I Learned","links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/09/09/added-a-blog.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Further proof of the magic of ✨hyperlinks✨</p>\n",
+				"content_text": "<blockquote class=\"quoteback\" data-author=\"Micro.blog News\" data-avatar=\"https://micro.blog/news/avatar.jpg\" cite=\"https://news.micro.blog/2024/09/09/added-a-blog.html\"><p>Added a Blog Settings link on Posts and other blog-related pages on the web. This is the first part of redesigning the Design section which has been poorly named for a while.</p>\r\n<footer>Micro.blog News <cite><a href=\"https://news.micro.blog/2024/09/09/added-a-blog.html\" class=\"u-in-reply-to\">https://news.micro.blog/2024/09/09/added-a-blog.html</a></cite></footer></blockquote><script src=\"https://cdn.micro.blog/quoteback.js\"></script>\r\n\r\nFurther proof of the magic of ✨hyperlinks✨\r\n",
+				"date_published": "2024-09-09T15:33:08+01:00",
+				"url": "https://swoods.net/2024/09/09/added-a-blog.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/09/09/god-i-love.html",
+				
+				"content_html": "<p>God I love Hans Zimmer. That&rsquo;s all.</p>\n",
+				"content_text": "God I love Hans Zimmer. That's all.\n",
+				"date_published": "2024-09-09T00:14:28+01:00",
+				"url": "https://swoods.net/2024/09/09/god-i-love.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/09/08/airplay-from-my.html",
+				
+				"content_html": "<p>Airplay from my phone to Mac suddenly became much better. Weird.</p>\n",
+				"content_text": "Airplay from my phone to Mac suddenly became much better. Weird.\n",
+				"date_published": "2024-09-08T18:46:34+01:00",
+				"url": "https://swoods.net/2024/09/08/airplay-from-my.html",
+				"tags": ["short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2024/09/04/glad-to-have.html",
 				
 				"content_html": "<p>Glad to have <a href=\"https://blog.numericcitizen.me/guestbook/\">signed the guestbook for Numeric Citizen</a>. Such a nice way to give a tip of the hat to people on the web.</p>\n<p>Now it feels like a good idea to post whenever I sign other guestbooks.</p>\n",
