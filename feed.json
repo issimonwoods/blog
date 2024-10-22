@@ -7,10 +7,28 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2024/10/18/transitions-is-another.html",
+				
+				"content_html": "<p><a href=\"https://anniemueller.com/posts/transitions\">Transitions</a> is another great recent post from Annie Mueller.</p>\n<p>This is the kind of stuff that makes the thought of resuming  lengthier blogging as a practise feel much less daunting.</p>\n",
+				"content_text": "[Transitions](https://anniemueller.com/posts/transitions) is another great recent post from Annie Mueller.\n\nThis is the kind of stuff that makes the thought of resuming  lengthier blogging as a practise feel much less daunting.\n",
+				"date_published": "2024-10-18T18:54:56+01:00",
+				"url": "https://swoods.net/2024/10/18/transitions-is-another.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/10/18/annie-muellers-writing.html",
+				
+				"content_html": "<p>Annie Mueller&rsquo;s <a href=\"https://anniemueller.com/posts/writing-is-a-myth\">Writing is a myth</a> is brilliant. You should read it right now. I am going to print it out.</p>\n<p>Also, this bit:</p>\n<blockquote>\n<p>It is important, sure, but so is talking and eating and copulating and we do those every day as if they are No Big Thing so surely we could wrap our minds around writing and do it as just Another Thing too.</p>\n</blockquote>\n<p>Hi <a href=\"https://micro.blog/Annie\">@Annie</a>. Please stop smacking me in the face. k thx 👍</p>\n",
+				"content_text": "Annie Mueller's [Writing is a myth](https://anniemueller.com/posts/writing-is-a-myth) is brilliant. You should read it right now. I am going to print it out.\n\nAlso, this bit:\n\n> It is important, sure, but so is talking and eating and copulating and we do those every day as if they are No Big Thing so surely we could wrap our minds around writing and do it as just Another Thing too.\n\nHi [@Annie](https://micro.blog/Annie). Please stop smacking me in the face. k thx 👍\n",
+				"date_published": "2024-10-18T18:48:03+01:00",
+				"url": "https://swoods.net/2024/10/18/annie-muellers-writing.html",
+				"tags": ["links","short","quotes"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2024/10/16/and-the-little.html",
 				
-				"content_html": "<blockquote>\n<p>&hellip; and the little spinny circle keeps spinning &hellip;</p>\n</blockquote>\n<p>— Annie Mueller, <a href=\"https://anniemueller.com/posts/spinning-your-wheels\">Spinning your wheels</a></p>\n",
-				"content_text": "> ... and the little spinny circle keeps spinning ...\r\n\r\n— Annie Mueller, [Spinning your wheels](https://anniemueller.com/posts/spinning-your-wheels)\r\n\r\n\r\n\r\n",
+				"content_html": "<blockquote>\n<p>&hellip; and the little spinny circle keeps spinning &hellip;</p>\n</blockquote>\n<p>— Annie Mueller, <a href=\"https://anniemueller.com/posts/spinning-your-wheels\"><em>Spinning your wheels</em></a></p>\n",
+				"content_text": "> ... and the little spinny circle keeps spinning ...\r\n\r\n— Annie Mueller, [_Spinning your wheels_](https://anniemueller.com/posts/spinning-your-wheels)\r\n\r\n\r\n\r\n",
 				"date_published": "2024-10-16T15:20:25+01:00",
 				"url": "https://swoods.net/2024/10/16/and-the-little.html",
 				"tags": ["links","short","quotes"]
