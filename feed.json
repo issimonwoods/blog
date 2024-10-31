@@ -7,11 +7,29 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2024/10/27/currently-taking-advantage.html",
+				
+				"content_html": "<p>Currently taking advantage of the extra hour. Feels good.</p>\n",
+				"content_text": "Currently taking advantage of the extra hour. Feels good.\n",
+				"date_published": "2024-10-27T09:02:40+00:00",
+				"url": "https://swoods.net/2024/10/27/currently-taking-advantage.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/10/26/read-the-whole.html",
+				
+				"content_html": "<p>Read the whole thing: <a href=\"https://newsletterwithecm.substack.com/p/choose-and-lose\">Chose and Lose</a> by Elizabeth Cronise McLaughlin.</p>\n",
+				"content_text": "Read the whole thing: [Chose and Lose](https://newsletterwithecm.substack.com/p/choose-and-lose) by Elizabeth Cronise McLaughlin.\n",
+				"date_published": "2024-10-26T18:18:23+00:00",
+				"url": "https://swoods.net/2024/10/26/read-the-whole.html",
+				"tags": ["links","short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2024/10/23/is-anybody-else.html",
 				
 				"content_html": "<p>Is anybody else seeing a performance hit to their MB test blog? Loading a new post, rebuilding the site, account log loading&hellip; all of that is just stuttering.</p>\n",
 				"content_text": "Is anybody else seeing a performance hit to their MB test blog? Loading a new post, rebuilding the site, account log loading... all of that is just stuttering.\n",
-				"date_published": "2024-10-23T00:27:03+01:00",
+				"date_published": "2024-10-22T23:27:03+00:00",
 				"url": "https://swoods.net/2024/10/23/is-anybody-else.html",
 				"tags": ["short"]
 			},
@@ -20,7 +38,7 @@
 				
 				"content_html": "<p>First time I had to go looking in the spam folder to find a MB email. It was for confirming a newsletter subscription.</p>\n",
 				"content_text": "First time I had to go looking in the spam folder to find a MB email. It was for confirming a newsletter subscription.\n",
-				"date_published": "2024-10-23T00:05:04+01:00",
+				"date_published": "2024-10-22T23:05:04+00:00",
 				"url": "https://swoods.net/2024/10/23/first-time-i.html",
 				"tags": ["short"]
 			},
@@ -29,7 +47,7 @@
 				
 				"content_html": "<blockquote>\n<p>A tool should have rules. When to use the tool. Why to use the tool. Why this tool and not another tool. When to put it away. How to use the tool safely.</p>\n</blockquote>\n<p>— Patrick Rhone, <a href=\"https://www.patrickrhone.net/this-is-a-tool/\"><em>This Is A Tool</em></a></p>\n",
 				"content_text": "> A tool should have rules. When to use the tool. Why to use the tool. Why this tool and not another tool. When to put it away. How to use the tool safely.\n\n— Patrick Rhone, [_This Is A Tool_](https://www.patrickrhone.net/this-is-a-tool/)\n",
-				"date_published": "2024-10-22T19:51:12+01:00",
+				"date_published": "2024-10-22T18:51:12+00:00",
 				"url": "https://swoods.net/2024/10/22/a-tool-should.html",
 				"tags": ["links","short","quotes"]
 			},
@@ -56,7 +74,7 @@
 				
 				"content_html": "<blockquote>\n<p>&hellip; and the little spinny circle keeps spinning &hellip;</p>\n</blockquote>\n<p>— Annie Mueller, <a href=\"https://anniemueller.com/posts/spinning-your-wheels\"><em>Spinning your wheels</em></a></p>\n",
 				"content_text": "> ... and the little spinny circle keeps spinning ...\r\n\r\n— Annie Mueller, [_Spinning your wheels_](https://anniemueller.com/posts/spinning-your-wheels)\r\n\r\n\r\n\r\n",
-				"date_published": "2024-10-16T15:20:25+01:00",
+				"date_published": "2024-10-16T14:20:25+00:00",
 				"url": "https://swoods.net/2024/10/16/and-the-little.html",
 				"tags": ["links","short","quotes"]
 			},
@@ -128,7 +146,7 @@
 				
 				"content_html": "<p>testing again</p>\n",
 				"content_text": "testing again\n",
-				"date_published": "2024-09-29T18:16:43+01:00",
+				"date_published": "2024-09-29T17:16:43+00:00",
 				"url": "https://swoods.net/2024/09/29/testing-again.html",
 				"tags": ["short"]
 			},
@@ -137,7 +155,7 @@
 				
 				"content_html": "<p>testing</p>\n",
 				"content_text": "testing\n",
-				"date_published": "2024-09-29T18:14:11+01:00",
+				"date_published": "2024-09-29T17:14:11+00:00",
 				"url": "https://swoods.net/2024/09/29/testing.html",
 				"tags": ["short"]
 			},
