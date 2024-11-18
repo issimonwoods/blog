@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2024/11/14/second-freewriting-session.html",
+				
+				"content_html": "<p>Second freewriting session in as many days. 📝</p>\n<p>Yep. This is definitely the thing.</p>\n<p>Just need to push to be the first thing I do in the morning. And on paper, as well as keyboard.</p>\n",
+				"content_text": "Second freewriting session in as many days. 📝\n\nYep. This is definitely the thing.\n\nJust need to push to be the first thing I do in the morning. And on paper, as well as keyboard.\n",
+				"date_published": "2024-11-14T10:39:43+00:00",
+				"url": "https://swoods.net/2024/11/14/second-freewriting-session.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/11/13/freewriting-feels-like.html",
+				
+				"content_html": "<p>Freewriting feels like giving my brain a shower.</p>\n",
+				"content_text": "Freewriting feels like giving my brain a shower.\n",
+				"date_published": "2024-11-13T16:20:36+00:00",
+				"url": "https://swoods.net/2024/11/13/freewriting-feels-like.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/11/13/listening-to-maxzwells.html",
+				
+				"content_html": "<p>Listening to <a href=\"https://soundcloud.com/maxzwell/sets/vlog-beats\">maxzwell&rsquo;s vlog beats set</a>, as part of one of my work playlists. Helps me to rest from the morning routine to get into work mode. 🎶</p>\n",
+				"content_text": "Listening to [maxzwell's vlog beats set](https://soundcloud.com/maxzwell/sets/vlog-beats), as part of one of my work playlists. Helps me to rest from the morning routine to get into work mode. 🎶\n",
+				"date_published": "2024-11-13T10:16:04+00:00",
+				"url": "https://swoods.net/2024/11/13/listening-to-maxzwells.html",
+				"tags": ["links","short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2024/11/09/anybody-else-seeing.html",
 				
 				"content_html": "<p>Anybody else seeing false &ldquo;new posts&rdquo; notifications inside the MB Mac app? I click the banner and&hellip; no new posts. It usually happens when <em>there are new posts</em> but it&rsquo;s like I first need to run through the &ldquo;false banner&rdquo;, if that makes sense.</p>\n",
