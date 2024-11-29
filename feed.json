@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2024/11/29/several-major-changes.html",
+				
+				"content_html": "<blockquote>\n<p>Several major changes today. If you have Mastodon cross-posting enabled, we now pull replies from your Mastodon account. There’s a new set of filter buttons on the web to show only Micro.blog, Mastodon, or Bluesky replies. Plus bug fixes, performance improvement, <strong>and note revision backups</strong>.</p>\n</blockquote>\n<p>— <a href=\"https://news.micro.blog/2024/11/29/several-major-changes.html\">Micro.blog News</a></p>\n<p>Combined with default encryption, this makes MB Notes compelling.</p>\n<p>I need to do proper testing to verify the current state of things but the only other feature I&rsquo;d consider crucial would be full offline access; that includes the type performance you get from plain text editors.</p>\n",
+				"content_text": "> Several major changes today. If you have Mastodon cross-posting enabled, we now pull replies from your Mastodon account. There’s a new set of filter buttons on the web to show only Micro.blog, Mastodon, or Bluesky replies. Plus bug fixes, performance improvement, **and note revision backups**.\r\n\r\n— [Micro.blog News](https://news.micro.blog/2024/11/29/several-major-changes.html)\r\n\r\nCombined with default encryption, this makes MB Notes compelling.\r\n\r\nI need to do proper testing to verify the current state of things but the only other feature I'd consider crucial would be full offline access; that includes the type performance you get from plain text editors.\n",
+				"date_published": "2024-11-29T19:02:39+00:00",
+				"url": "https://swoods.net/2024/11/29/several-major-changes.html",
+				"tags": ["links","short","quotes"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/11/26/bake-off-final.html",
+				
+				"content_html": "<p>Bake Off final time</p>\n",
+				"content_text": "Bake Off final time \n",
+				"date_published": "2024-11-26T19:58:15+00:00",
+				"url": "https://swoods.net/2024/11/26/bake-off-final.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/11/24/dogs-are-the.html",
+				
+				"content_html": "<p>Dogs are the best.</p>\n",
+				"content_text": "Dogs are the best.\n",
+				"date_published": "2024-11-24T01:28:01+00:00",
+				"url": "https://swoods.net/2024/11/24/dogs-are-the.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/11/24/i-wish-i.html",
+				
+				"content_html": "<p>I wish I could choose to display an edit log of my posts. Could be a useful tool for encouraging transparency and emphasising the humanity of blogging.</p>\n<p>(I understand the robots could probably easily fake this but I still like the idea.)</p>\n",
+				"content_text": "I wish I could choose to display an edit log of my posts. Could be a useful tool for encouraging transparency and emphasising the humanity of blogging.\n\n(I understand the robots could probably easily fake this but I still like the idea.)\n",
+				"date_published": "2024-11-24T00:06:00+00:00",
+				"url": "https://swoods.net/2024/11/24/i-wish-i.html",
+				"tags": ["short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2024/11/22/we-met-two.html",
 				
 				"content_html": "<p>We met two New Zealand Huntaway dogs yesterday. First time meeting that breed and they&rsquo;re immediately on the list of &ldquo;If We Owned A Large House&rdquo; dogs we&rsquo;d love to add to the family.</p>\n",
