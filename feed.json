@@ -7,6 +7,87 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2024/12/04/in-the-past.html",
+				
+				"content_html": "<p>In the past 15 seconds I have clicked the blue-bar notification in the MB Mac app for &ldquo;new posts&rdquo;. Each time the bar just disappears, the timeline reloads, and there is nothing new.</p>\n<p>I now feel worse. This repetitive, pointless clicking is exactly the behaviour I have <em>not</em> associated with Micro.blog.</p>\n",
+				"content_text": "In the past 15 seconds I have clicked the blue-bar notification in the MB Mac app for \"new posts\". Each time the bar just disappears, the timeline reloads, and there is nothing new.\n\nI now feel worse. This repetitive, pointless clicking is exactly the behaviour I have _not_ associated with Micro.blog.\n",
+				"date_published": "2024-12-04T17:00:08+00:00",
+				"url": "https://swoods.net/2024/12/04/in-the-past.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/12/04/for-so-far.html",
+				
+				"content_html": "<p>For 2024 so far, there have been 277 entries <a href=\"https://news.micro.blog/archive/\">on Micro.blog News</a>.</p>\n<p>That&rsquo;s quite a productive year.</p>\n",
+				"content_text": "For 2024 so far, there have been 277 entries [on Micro.blog News](https://news.micro.blog/archive/).\n\nThat's quite a productive year.\n",
+				"date_published": "2024-12-04T10:01:03+00:00",
+				"url": "https://swoods.net/2024/12/04/for-so-far.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/12/04/first-freewriting-session.html",
+				
+				"content_html": "<p>First free-writing session for two weeks. Feels much better.</p>\n<p>Now, onto issue four of the newsletter <em>and</em> the next part of Orchid.</p>\n",
+				"content_text": "First free-writing session for two weeks. Feels much better.\n\nNow, onto issue four of the newsletter _and_ the next part of Orchid.\n",
+				"date_published": "2024-12-04T08:57:20+00:00",
+				"url": "https://swoods.net/2024/12/04/first-freewriting-session.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/12/04/i-sent-out.html",
+				
+				"content_html": "<p>I sent out the third issue of <a href=\"https://buttondown.com/TIL\">the bts newsletter for TIL</a> a few hours ago. This has quickly become a very good outlet for getting me back on track.</p>\n",
+				"content_text": "I sent out the third issue of [the bts newsletter for TIL](https://buttondown.com/TIL) a few hours ago. This has quickly become a very good outlet for getting me back on track.\n",
+				"date_published": "2024-12-04T01:18:28+00:00",
+				"url": "https://swoods.net/2024/12/04/i-sent-out.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/12/02/today-has-been.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>💯</p>\n",
+				"content_text": "<blockquote class=\"quoteback\" data-author=\"Adam Tinworth\" data-avatar=\"https://micro.blog/adders/avatar.jpg\" cite=\"https://adders.blog/2024/12/02/today-has-been.html\"><p>Today has been a relentlessly local day - delivering the local residents’ association mag, and editing the parish mag.</p>\r\n<p>Print is not dead. It’s just local.</p>\r\n<footer>Adam Tinworth <cite><a href=\"https://adders.blog/2024/12/02/today-has-been.html\" class=\"u-in-reply-to\">https://adders.blog/2024/12/02/today-has-been.html</a></cite></footer></blockquote><script src=\"https://cdn.micro.blog/quoteback.js\"></script>\r\n\r\n💯\r\n",
+				"date_published": "2024-12-02T18:31:59+00:00",
+				"url": "https://swoods.net/2024/12/02/today-has-been.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/12/02/as-well-as.html",
+				
+				"content_html": "<p>As well as stability and better customer service, if I could have chosen a third option in the Micro.blog poll it would be app parity.</p>\n<p>I don&rsquo;t think <em>every</em> part of the platform should be in each app but some features ought to be available anywhere.</p>\n<p>Currently I wish the Embed button was on the Mac.</p>\n",
+				"content_text": "As well as stability and better customer service, if I could have chosen a third option in the Micro.blog poll it would be app parity.\n\nI don't think _every_ part of the platform should be in each app but some features ought to be available anywhere.\n\nCurrently I wish the Embed button was on the Mac.\n",
+				"date_published": "2024-12-02T18:31:27+00:00",
+				"url": "https://swoods.net/2024/12/02/as-well-as.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/12/01/avocado-on-brown.html",
+				
+				"content_html": "<p>Avocado on brown toast and fussy coffee for brunch. That&rsquo;s my millenial card punched for the day.</p>\n",
+				"content_text": "Avocado on brown toast and fussy coffee for brunch. That's my millenial card punched for the day. \n",
+				"date_published": "2024-12-01T12:17:51+00:00",
+				"url": "https://swoods.net/2024/12/01/avocado-on-brown.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/11/29/the-remaining-cursor.html",
+				
+				"content_html": "<p>The remaining cursor error (for my current uses) looks so threatening.</p>\n<blockquote>\n<p>Nice text you have there. It would be a shame if something&hellip;</p>\n<p>&hellip; happened to it.</p>\n</blockquote>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The remaining cursor error (for my current uses) looks so threatening.\n\n> Nice text you have there. It would be a shame if something...\n>\n> ... happened to it.\n\n<img src=\"https://cdn.uploads.micro.blog/1614/2024/c47dc9e68b.png\" width=\"398\" height=\"438\" alt=\"\">\n",
+				"date_published": "2024-11-29T23:52:32+00:00",
+				"url": "https://swoods.net/2024/11/29/the-remaining-cursor.html",
+				"tags": ["short","photos","quotes"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/11/29/this-week-mark.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>🔥</p>\n",
+				"content_text": "<blockquote class=\"quoteback\" data-author=\"Manton Reece\" data-avatar=\"https://micro.blog/manton/avatar.jpg\" cite=\"https://www.manton.org/2024/11/29/this-week-mark.html\"><p>This week Mark Zuckerberg met at Mar-a-Lago with a convicted criminal who is out on bail. I stopped posting to Instagram in 2017, but I keep giving Meta second chances. No more. It’s time to burn this shit to the ground and move forward with the open web. Let the past die. Kill it, if you have to.</p>\r\n<footer>Manton Reece <cite><a href=\"https://www.manton.org/2024/11/29/this-week-mark.html\" class=\"u-in-reply-to\">https://www.manton.org/2024/11/29/this-week-mark.html</a></cite></footer></blockquote><script src=\"https://cdn.micro.blog/quoteback.js\"></script>\r\n\r\n🔥\r\n",
+				"date_published": "2024-11-29T19:07:59+00:00",
+				"url": "https://swoods.net/2024/11/29/this-week-mark.html",
+				"tags": ["short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2024/11/29/several-major-changes.html",
 				
 				"content_html": "<blockquote>\n<p>Several major changes today. If you have Mastodon cross-posting enabled, we now pull replies from your Mastodon account. There’s a new set of filter buttons on the web to show only Micro.blog, Mastodon, or Bluesky replies. Plus bug fixes, performance improvement, <strong>and note revision backups</strong>.</p>\n</blockquote>\n<p>— <a href=\"https://news.micro.blog/2024/11/29/several-major-changes.html\">Micro.blog News</a></p>\n<p>Combined with default encryption, this makes MB Notes compelling.</p>\n<p>I need to do proper testing to verify the current state of things but the only other feature I&rsquo;d consider crucial would be full offline access; that includes the type performance you get from plain text editors.</p>\n",
