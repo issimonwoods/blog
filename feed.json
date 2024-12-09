@@ -7,6 +7,60 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2024/12/09/finished-a-late.html",
+				
+				"content_html": "<p>Finished a late night of work by sending out the new issue <a href=\"https://til.tips/bts\">of bts</a> and making two new blogs. Feels good 💪</p>\n",
+				"content_text": "Finished a late night of work by sending out the new issue [of bts](https://til.tips/bts) and making two new blogs. Feels good 💪\n",
+				"date_published": "2024-12-09T02:05:57+00:00",
+				"url": "https://swoods.net/2024/12/09/finished-a-late.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/12/08/test.html",
+				
+				"content_html": "<p>test</p>\n",
+				"content_text": "test\n",
+				"date_published": "2024-12-08T17:22:46+00:00",
+				"url": "https://swoods.net/2024/12/08/test.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/12/08/instead-of-publishing.html",
+				
+				"content_html": "<p>Instead of publishing that snarky post I just wrote, I&rsquo;m going to share <a href=\"https://www.instagram.com/dogsforgood_uk/p/DDKlEQBMDDP/\">this post of a Very Good Sweet Good Good Boy</a>.</p>\n",
+				"content_text": "Instead of publishing that snarky post I just wrote, I'm going to share [this post of a Very Good Sweet Good Good Boy](https://www.instagram.com/dogsforgood_uk/p/DDKlEQBMDDP/).\n",
+				"date_published": "2024-12-08T00:08:34+00:00",
+				"url": "https://swoods.net/2024/12/08/instead-of-publishing.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/12/06/now-testing-with.html",
+				
+				"content_html": "<p>Now testing with a singular mention of <a href=\"https://micro.blog/maique\">@maique</a>. Maybe two mentions was dangerous!</p>\n",
+				"content_text": "Now testing with a singular mention of [@maique](https://micro.blog/maique). Maybe two mentions was dangerous!\n",
+				"date_published": "2024-12-06T14:09:02+00:00",
+				"url": "https://swoods.net/2024/12/06/now-testing-with.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/12/06/another-notification-test.html",
+				
+				"content_html": "<p>Another notification test for <a href=\"https://micro.blog/maique\">@maique</a>, this time as a full post. Hi <a href=\"https://micro.blog/maique\">@maique</a> 👋</p>\n",
+				"content_text": "Another notification test for [@maique](https://micro.blog/maique), this time as a full post. Hi [@maique](https://micro.blog/maique) 👋\n",
+				"date_published": "2024-12-06T11:29:00+00:00",
+				"url": "https://swoods.net/2024/12/06/another-notification-test.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/12/05/no-free-writing.html",
+				
+				"content_html": "<p>No free writing this morning. An intentional choice, which feels as good as having done the exercise.</p>\n",
+				"content_text": "No free writing this morning. An intentional choice, which feels as good as having done the exercise.\n",
+				"date_published": "2024-12-05T07:11:34+00:00",
+				"url": "https://swoods.net/2024/12/05/no-free-writing.html",
+				"tags": ["short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2024/12/04/in-the-past.html",
 				
 				"content_html": "<p>In the past 15 seconds I have clicked the blue-bar notification in the MB Mac app for &ldquo;new posts&rdquo;. Each time the bar just disappears, the timeline reloads, and there is nothing new.</p>\n<p>I now feel worse. This repetitive, pointless clicking is exactly the behaviour I have <em>not</em> associated with Micro.blog.</p>\n",
