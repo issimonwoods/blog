@@ -7,6 +7,69 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2024/12/14/to-start-a.html",
+				
+				"content_html": "<p>To start a Collection, on the web for Micro.blog:</p>\n<ul>\n<li>Go to <em>Uploads</em> -&gt;</li>\n<li>Go the address bar -&gt;</li>\n<li>Add <code>/collections/new</code> to the end of the URL -&gt;</li>\n<li>Select &ldquo;Enter/Return&rdquo; to go to that address -&gt;</li>\n<li>You should see the page for starting a Collection.</li>\n</ul>\n",
+				"content_text": "To start a Collection, on the web for Micro.blog:\n\n- Go to _Uploads_ ->\n- Go the address bar ->\n- Add `/collections/new` to the end of the URL ->\n- Select \"Enter/Return\" to go to that address ->\n- You should see the page for starting a Collection.\n",
+				"date_published": "2024-12-14T18:58:56+00:00",
+				"url": "https://swoods.net/2024/12/14/to-start-a.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/12/14/testing-collections-shortcode.html",
+				
+				"content_html": "<p>Testing Collections shortcode in a post, for <a href=\"https://micro.blog/pratik\">@pratik</a> and co:</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Testing Collections shortcode in a post, for [@pratik](https://micro.blog/pratik) and co:\n\n<div class=\"microblog_collection\"><img src=\"https://cdn.uploads.micro.blog/1614/2024/hogan-cute-card.jpeg\" data-microblog-lightbox=\"https://swoods.net/uploads/2024/hogan-cute-card.jpeg\"><img src=\"https://cdn.uploads.micro.blog/1614/2024/e72084d569.jpg\" data-microblog-lightbox=\"https://swoods.net/uploads/2024/e72084d569.jpg\"></div>\n",
+				"date_published": "2024-12-14T18:43:24+00:00",
+				"url": "https://swoods.net/2024/12/14/testing-collections-shortcode.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/12/11/my-word-for.html",
+				
+				"content_html": "<p>My <a href=\"https://www.patrickrhone.net/15320-2/\">word</a> for 2025: FOUNDATION.</p>\n",
+				"content_text": "My [word](https://www.patrickrhone.net/15320-2/) for 2025: FOUNDATION.\n",
+				"date_published": "2024-12-11T13:55:15+00:00",
+				"url": "https://swoods.net/2024/12/11/my-word-for.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/12/10/england-home-to.html",
+				
+				"content_html": "<p>England: home to ARM.<br>\nAlso England: let&rsquo;s spend consecutive decades doing nothing to double-down on this insanely good entity.</p>\n<p>When I was in school, they <em>removed</em> the computers, the computer lab, and behaved as if computers didn&rsquo;t exist.</p>\n<p>&ldquo;Great&rdquo; Britain indeed.</p>\n",
+				"content_text": "England: home to ARM.  \nAlso England: let's spend consecutive decades doing nothing to double-down on this insanely good entity.\n\nWhen I was in school, they _removed_ the computers, the computer lab, and behaved as if computers didn't exist.\n\n\"Great\" Britain indeed.\n",
+				"date_published": "2024-12-10T01:38:40+00:00",
+				"url": "https://swoods.net/2024/12/10/england-home-to.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/12/10/i-updated-safari.html",
+				
+				"content_html": "<p>I updated Safari and I&rsquo;m pretty sure Apple decided &ldquo;Oh hey you somehow switched off some of these things we think you should use.&rdquo; and all I can think is &ldquo;Fuck off, Tim.&rdquo;</p>\n",
+				"content_text": "I updated Safari and I'm pretty sure Apple decided \"Oh hey you somehow switched off some of these things we think you should use.\" and all I can think is \"Fuck off, Tim.\"\n",
+				"date_published": "2024-12-10T01:14:11+00:00",
+				"url": "https://swoods.net/2024/12/10/i-updated-safari.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/12/10/maybe-if-we.html",
+				
+				"content_html": "<p>Maybe if we could press <code>/</code> and the tagmoji would appear in a menu picker. 🤔</p>\n",
+				"content_text": "Maybe if we could press `/` and the tagmoji would appear in a menu picker. 🤔\n",
+				"date_published": "2024-12-10T01:12:29+00:00",
+				"url": "https://swoods.net/2024/12/10/maybe-if-we.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2024/12/10/listening-to-a.html",
+				
+				"content_html": "<p>Listening to a remix of <a href=\"https://soundcloud.com/lesgordonmusic/kate-bush-running-up-that-hill-les-gordon-remix\">Running Up That Hill (A Deal With God)</a> by Les Gordon. 🎵</p>\n",
+				"content_text": "Listening to a remix of [Running Up That Hill (A Deal With God)](https://soundcloud.com/lesgordonmusic/kate-bush-running-up-that-hill-les-gordon-remix) by Les Gordon. 🎵\n",
+				"date_published": "2024-12-10T01:11:15+00:00",
+				"url": "https://swoods.net/2024/12/10/listening-to-a.html",
+				"tags": ["links","short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2024/12/09/finished-a-late.html",
 				
 				"content_html": "<p>Finished a late night of work by sending out the new issue <a href=\"https://til.tips/bts\">of bts</a> and making two new blogs. Feels good 💪</p>\n",
