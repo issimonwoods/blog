@@ -7,10 +7,55 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2025/01/16/dd-night-has-become-such.html",
+				
+				"content_html": "<p>D&amp;D Night has become such an important part of my life and I am so here for it. Mental, physical, emotional; positive effects all around.</p>\n",
+				"content_text": "D&D Night has become such an important part of my life and I am so here for it. Mental, physical, emotional; positive effects all around.\n",
+				"date_published": "2025-01-16T13:16:45+00:00",
+				"url": "https://swoods.net/2025/01/16/dd-night-has-become-such.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2025/01/15/here-i-am-thinking-about.html",
+				
+				"content_html": "<p>Here I am thinking about ways for Micro.blog to have a beta program of its own, meanwhile Apple is like <a href=\"https://mastodon.social/@siracusa/113832985617921972\">&ldquo;You can only submit two builds per day to Beta App Review&rdquo;</a>. The fact that the error message even exists is hilariously bad.</p>\n",
+				"content_text": "Here I am thinking about ways for Micro.blog to have a beta program of its own, meanwhile Apple is like [\"You can only submit two builds per day to Beta App Review\"](https://mastodon.social/@siracusa/113832985617921972). The fact that the error message even exists is hilariously bad.\r\n",
+				"date_published": "2025-01-15T15:27:22+00:00",
+				"url": "https://swoods.net/2025/01/15/here-i-am-thinking-about.html",
+				"tags": ["links","short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2025/01/14/a-hobbit-life-sim-is.html",
+				
+				"content_html": "<p>A Hobbit life sim is coming out on the Switch at the end of March. I&rsquo;ll be ready.</p>\n",
+				"content_text": "A Hobbit life sim is coming out on the Switch at the end of March. I'll be ready.\n",
+				"date_published": "2025-01-14T00:54:37+00:00",
+				"url": "https://swoods.net/2025/01/14/a-hobbit-life-sim-is.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2025/01/13/gonna-work-on-leaving-posts.html",
+				
+				"content_html": "<p>Gonna work on &ldquo;leaving posts&rdquo; for Meta&rsquo;s products, which I&rsquo;ll use for the different folks I know there to have even a minuscule chance of seeing. I&rsquo;m fortunate that no such people are locked into only these products.</p>\n<p>I&rsquo;ll share them on my blog along with how I&rsquo;m using them. And what I&rsquo;m doing next.</p>\n",
+				"content_text": "Gonna work on \"leaving posts\" for Meta's products, which I'll use for the different folks I know there to have even a minuscule chance of seeing. I'm fortunate that no such people are locked into only these products.\n\nI'll share them on my blog along with how I'm using them. And what I'm doing next.\n",
+				"date_published": "2025-01-13T18:51:10+00:00",
+				"url": "https://swoods.net/2025/01/13/gonna-work-on-leaving-posts.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2025/01/12/volunteer-firefighters-from-mexico-thankfully.html",
+				
+				"content_html": "<p>Volunteer firefighters from Mexico. Thankfully there isn&rsquo;t a wall in the way.</p>\n",
+				"content_text": "Volunteer firefighters from Mexico. Thankfully there isn't a wall in the way.\n",
+				"date_published": "2025-01-12T22:22:23+00:00",
+				"url": "https://swoods.net/2025/01/12/volunteer-firefighters-from-mexico-thankfully.html",
+				"tags": ["short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2025/01/11/new-hobby-just-dropped.html",
 				
 				"content_html": "<p>New hobby just dropped 👀</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "New hobby just dropped 👀\n\n<img src=\"uploads/2025/66f0531e86.jpg\" width=\"600\" height=\"450\" alt=\"Two starters packs for the game, Magic The Gathering, on top of a table with two wrapped Christmas presents at the back edge of the table.\">\n",
+				"content_text": "New hobby just dropped 👀\n\n<img src=\"https://cdn.uploads.micro.blog/1614/2025/66f0531e86.jpg\" width=\"600\" height=\"450\" alt=\"Two starters packs for the game, Magic The Gathering, on top of a table with two wrapped Christmas presents at the back edge of the table.\">\n",
 				"date_published": "2025-01-11T16:20:01+00:00",
 				"url": "https://swoods.net/2025/01/11/new-hobby-just-dropped.html",
 				"tags": ["short","photos"]
