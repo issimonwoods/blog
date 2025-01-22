@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2025/01/21/manton-got-into-an-argument.html",
+				
+				"content_html": "<p>Manton got into an argument and Micro.blog immediately broke.</p>\n<p>If that isn&rsquo;t proof that arguing on the internet is a waste of time, I don&rsquo;t know what is.</p>\n",
+				"content_text": "Manton got into an argument and Micro.blog immediately broke.\n\nIf that isn't proof that arguing on the internet is a waste of time, I don't know what is.\n",
+				"date_published": "2025-01-21T20:39:13+00:00",
+				"url": "https://swoods.net/2025/01/21/manton-got-into-an-argument.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2025/01/21/your-mind-is-valuable-your.html",
+				
+				"content_html": "<p>Your mind is valuable.</p>\n<p>Your attention is an important part of your mind.</p>\n<p>Stop treating it like slop.</p>\n",
+				"content_text": "Your mind is valuable.\n\nYour attention is an important part of your mind.\n\nStop treating it like slop.\n",
+				"date_published": "2025-01-21T10:33:11+00:00",
+				"url": "https://swoods.net/2025/01/21/your-mind-is-valuable-your.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2025/01/19/banning-social-networks-is-great.html",
+				
+				"content_html": "<p>Banning social networks is great.</p>\n<p>Now tell me which books you want banned.</p>\n",
+				"content_text": "Banning social networks is great.\n\nNow tell me which books you want banned.\n",
+				"date_published": "2025-01-19T12:43:42+00:00",
+				"url": "https://swoods.net/2025/01/19/banning-social-networks-is-great.html",
+				"tags": ["short"]
+			},
+			{
+				"id": "http://simonmumbles.micro.blog/2025/01/18/total-fucking-bullshit.html",
+				
+				"content_html": "<p><a href=\"https://www.youtube.com/watch?v=F4wh_mc8hRE\">Total. Fucking. Bullshit.</a></p>\n",
+				"content_text": "[Total. Fucking. Bullshit.](https://www.youtube.com/watch?v=F4wh_mc8hRE)\n",
+				"date_published": "2025-01-18T18:58:22+00:00",
+				"url": "https://swoods.net/2025/01/18/total-fucking-bullshit.html",
+				"tags": ["links","short"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2025/01/16/dd-night-has-become-such.html",
 				
 				"content_html": "<p>D&amp;D Night has become such an important part of my life and I am so here for it. Mental, physical, emotional; positive effects all around.</p>\n",
@@ -271,7 +307,7 @@
 				"id": "http://simonmumbles.micro.blog/2024/12/14/testing-collections-shortcode.html",
 				
 				"content_html": "<p>Testing Collections shortcode in a post, for <a href=\"https://micro.blog/pratik\">@pratik</a> and co:</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Testing Collections shortcode in a post, for [@pratik](https://micro.blog/pratik) and co:\n\n<div class=\"microblog_collection\"><img src=\"https://cdn.uploads.micro.blog/1614/2024/hogan-cute-card.jpeg\" data-microblog-lightbox=\"https://swoods.net/uploads/2024/hogan-cute-card.jpeg\"><img src=\"https://cdn.uploads.micro.blog/1614/2024/e72084d569.jpg\" data-microblog-lightbox=\"https://swoods.net/uploads/2024/e72084d569.jpg\"></div>\n",
+				"content_text": "Testing Collections shortcode in a post, for [@pratik](https://micro.blog/pratik) and co:\n\n<div class=\"microblog_collection\"><img src=\"https://cdn.uploads.micro.blog/1614/2024/hogan-cute-card.jpeg\" alt=\"\" data-microblog-lightbox=\"https://swoods.net/uploads/2024/hogan-cute-card.jpeg\"><img src=\"https://cdn.uploads.micro.blog/1614/2024/e72084d569.jpg\" alt=\"\" data-microblog-lightbox=\"https://swoods.net/uploads/2024/e72084d569.jpg\"></div>\n",
 				"date_published": "2024-12-14T18:43:24+00:00",
 				"url": "https://swoods.net/2024/12/14/testing-collections-shortcode.html",
 				"tags": ["links","short"]
