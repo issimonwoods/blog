@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://simonmumbles.micro.blog/2025/01/28/i-dont-know-much-about.html",
+				
+				"content_html": "<blockquote>\n<p>I don&rsquo;t know much about tech or media, but if a tech oligarch was helping to systematically dismantle the federal government using his own sequestered private sector employees, I might not, personally, report on it by primarily posting to the social media platform that he himself owns.</p>\n</blockquote>\n<p>— <a href=\"https://werd.social/@/ben/113906239663624996\">Ben Werdmuller</a></p>\n",
+				"content_text": "> I don't know much about tech or media, but if a tech oligarch was helping to systematically dismantle the federal government using his own sequestered private sector employees, I might not, personally, report on it by primarily posting to the social media platform that he himself owns.\r\n\r\n— [Ben Werdmuller](https://werd.social/@/ben/113906239663624996)\n",
+				"date_published": "2025-01-28T17:11:19+00:00",
+				"url": "https://swoods.net/2025/01/28/i-dont-know-much-about.html",
+				"tags": ["links","short","quotes"]
+			},
+			{
 				"id": "http://simonmumbles.micro.blog/2025/01/28/years-ago-we-decided-nazis.html",
 				
 				"content_html": "<p>80 years ago we decided <a href=\"https://swoods.net/uploads/2025/elon-musk-nazi.mp4\">Nazis</a> were people we needed to <em>actively oppose</em>.</p>\n",
@@ -40,24 +49,6 @@
 				"content_text": "We're playing some games tonight! Our usual D&D session is on hold since we don't have a full table until next week.\n\nI'm gonna go prep for that, and get back to work on emails and posts about Micro.blog either tonight or in the morning.\n",
 				"date_published": "2025-01-23T13:49:13+00:00",
 				"url": "https://swoods.net/2025/01/23/were-playing-some-games-tonight.html",
-				"tags": ["short"]
-			},
-			{
-				"id": "http://simonmumbles.micro.blog/2025/01/23/feeling-relieved-that-i-kept.html",
-				
-				"content_html": "<p>Feeling relieved that I kept TIL in holiday maintenance mode. Hoping to find the right reasons to return to work on it soon.</p>\n",
-				"content_text": "Feeling relieved that I kept TIL in holiday maintenance mode. Hoping to find the right reasons to return to work on it soon.\n",
-				"date_published": "2025-01-23T13:45:57+00:00",
-				"url": "https://swoods.net/2025/01/23/feeling-relieved-that-i-kept.html",
-				"tags": ["short"]
-			},
-			{
-				"id": "http://simonmumbles.micro.blog/2025/01/23/i-have-these-little-cuts.html",
-				
-				"content_html": "<p>I have these little cuts at the tips of my fingers, from dry skin. I <em>hate</em> this.</p>\n",
-				"content_text": "I have these little cuts at the tips of my fingers, from dry skin. I _hate_ this.\n",
-				"date_published": "2025-01-23T13:25:38+00:00",
-				"url": "https://swoods.net/2025/01/23/i-have-these-little-cuts.html",
 				"tags": ["short"]
 			}
 	]
